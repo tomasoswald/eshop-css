@@ -1,0 +1,8 @@
+/* FITNESSIO – štítek Akce jako pilulka
+   Bezpečný override k existujícímu CSS. */
+.c1430.tag--sale {
+  background-color: #17995e !important;
+  border-radius: 999px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
