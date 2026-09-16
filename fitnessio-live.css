@@ -34,12 +34,12 @@
     overflow: hidden !important;
   }
 
-  /* Prázdný košík – jasný nadpisový blok */
+  /* Prázdný košík – jemnější šedý nadpisový blok */
   #header-basket__form .c178 {
     margin: 0 !important;
     padding: 22px 24px 20px !important;
-    background: #181818 !important;
-    color: #fff !important;
+    background: #f1f2f3 !important;
+    color: #30343a !important;
     font-size: 16px !important;
     line-height: 1.35 !important;
     font-weight: 700 !important;
@@ -72,7 +72,7 @@
   }
 
   #header-basket__popup .c1214 {
-    color: #181818 !important;
+    color: #30343a !important;
     font-weight: 800 !important;
   }
 
@@ -105,7 +105,7 @@
   }
 
   #header-basket__popup .c214 a {
-    color: #181818 !important;
+    color: #30343a !important;
     font-weight: 700 !important;
     text-decoration-color: #b88a2b !important;
     text-underline-offset: 3px !important;
