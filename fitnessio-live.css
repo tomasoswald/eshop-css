@@ -1,14 +1,6 @@
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
-/* DOČASNÝ TEST – potvrzení načtení GitHub CSS v checkoutu.
-   Pokud se CSS načte na kroku Doprava a platba, tlačítko Pokračovat bude mít zlatý obrys. */
-body.page-route-shipping button.btn.c212.c501 {
-  outline: 4px solid #ad8d16 !important;
-  outline-offset: 3px !important;
-  border-radius: 999px !important;
-}
-
 /* Štítek Akce jako červená pilulka */
 .c1430.tag--sale {
   background-color: #e53935 !important;
