@@ -8,3 +8,74 @@
   padding-left: 10px !important;
   padding-right: 10px !important;
 }
+
+/* ==========================================================
+   HEADER KOŠÍK – prémiový popup
+   Fitnessio master komponenta
+   ========================================================== */
+
+/* Karta popupu – změny pouze pro desktopový hover košík */
+@media (min-width: 769px) {
+  #header-basket__popup {
+    background: #ffffff !important;
+    border: 1px solid rgba(17, 24, 39, 0.10) !important;
+    border-radius: 14px !important;
+    box-shadow: 0 18px 45px rgba(17, 24, 39, 0.16) !important;
+    overflow: hidden !important;
+  }
+
+  /* Titulek prázdného košíku */
+  #header-basket__popup .c178 {
+    color: #1f2937 !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.01em !important;
+    padding-top: 20px !important;
+    padding-bottom: 18px !important;
+  }
+
+  /* Blok dopravy zdarma */
+  #header-basket__popup .c204 {
+    background: linear-gradient(135deg, #fffdf7 0%, #fff8e8 100%) !important;
+    border-top: 1px solid rgba(183, 134, 11, 0.16) !important;
+    border-bottom: 1px solid rgba(183, 134, 11, 0.16) !important;
+  }
+
+  #header-basket__popup .c204 .c205 {
+    color: #374151 !important;
+  }
+
+  /* Částka do dopravy zdarma */
+  #header-basket__popup .c1214 {
+    color: #8a6508 !important;
+    font-weight: 700 !important;
+  }
+
+  /* „dopravu ZDARMA“ – zlatý master akcent */
+  #header-basket__popup .c1215,
+  #header-basket__popup .c1215:link,
+  #header-basket__popup .c1215:visited {
+    color: #b8860b !important;
+    font-weight: 800 !important;
+    text-decoration-color: rgba(184, 134, 11, 0.55) !important;
+    text-decoration-thickness: 1px !important;
+    text-underline-offset: 3px !important;
+  }
+
+  #header-basket__popup .c1215:hover,
+  #header-basket__popup .c1215:focus {
+    color: #8a6508 !important;
+    text-decoration-color: currentColor !important;
+  }
+
+  /* Spodní poradenský řádek */
+  #header-basket__popup > .c214 {
+    background: #fafafa !important;
+    border-top: 1px solid #eeeeee !important;
+    color: #4b5563 !important;
+  }
+}
+
+/*
+   Mobil: hover popup cíleně nepřestylováváme.
+   Zachováváme nativní mobilní chování šablony Eshop-rychle.
+*/
