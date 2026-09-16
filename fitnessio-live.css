@@ -171,7 +171,14 @@
    a regulátor množství jako jedna kompaktní pilulka
    desktop + mobil, funkce prvků zůstává zachovaná
    ========================================================== */
-a.btn.btn-success.btn-lg.no-margin-top[href*="e-order"] {
+a.btn.btn-success.btn-lg.no-margin-top[href*="e-order"],
+a[href*="/e-order"][title="Pokračovat v objednávce"] {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+div.quantity-input,
+*:has(> button[data-action="decrement"] + input[name="quantity"] + button[data-action="increment"]) {
   border-radius: 999px !important;
   overflow: hidden !important;
 }
@@ -179,19 +186,20 @@ a.btn.btn-success.btn-lg.no-margin-top[href*="e-order"] {
 div.quantity-input {
   display: inline-flex !important;
   align-items: stretch !important;
-  border-radius: 999px !important;
-  overflow: hidden !important;
 }
 
-div.quantity-input > button.minus {
+div.quantity-input > button.minus,
+button[data-action="decrement"] {
   border-radius: 999px 0 0 999px !important;
 }
 
-div.quantity-input > input.input-sm[name="quantity"] {
+div.quantity-input > input.input-sm[name="quantity"],
+button[data-action="decrement"] + input[name="quantity"] {
   border-radius: 0 !important;
 }
 
-div.quantity-input > button.plus {
+div.quantity-input > button.plus,
+button[data-action="increment"] {
   border-radius: 0 999px 999px 0 !important;
 }
 
@@ -242,5 +250,18 @@ div.quantity-input > button.plus {
     border: 0 !important;
     border-radius: 0 !important;
     box-shadow: none !important;
+  }
+
+  /* Košík – mobilní šablona může používat méně tříd než desktop. */
+  a[href*="/e-order"],
+  a[title="Pokračovat v objednávce"] {
+    border-radius: 999px !important;
+    overflow: hidden !important;
+  }
+
+  .quantity-input,
+  *:has(> button[data-action="decrement"] + input[name="quantity"] + button[data-action="increment"]) {
+    border-radius: 999px !important;
+    overflow: hidden !important;
   }
 }
