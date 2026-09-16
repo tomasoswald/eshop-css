@@ -13,8 +13,6 @@
    HEADER KOŠÍK – moderní Fitnessio popup
    ========================================================== */
 @media (min-width: 769px) {
-  /* Vnější plášť + skutečný obsahový form: stylujeme oba,
-     protože šablona část vizuálu kreslí na vnořeném prvku. */
   #header-basket__popup,
   #header-basket__form {
     background: #fff !important;
@@ -34,7 +32,6 @@
     overflow: hidden !important;
   }
 
-  /* Prázdný košík – jemnější šedý nadpisový blok */
   #header-basket__form .c178 {
     margin: 0 !important;
     padding: 22px 24px 20px !important;
@@ -47,7 +44,6 @@
     border: 0 !important;
   }
 
-  /* Doprava zdarma – prémiový zlatý informační panel */
   #header-basket__popup .c204 {
     margin: 0 !important;
     padding: 0 !important;
@@ -91,7 +87,6 @@
     text-underline-offset: 3px !important;
   }
 
-  /* Poradenský blok – čistá spodní sekce */
   #header-basket__popup .c214 {
     box-sizing: border-box !important;
     margin: 0 !important;
@@ -124,8 +119,12 @@
    Pouze mobil; desktop zůstává beze změny.
    ========================================================== */
 @media (max-width: 768px) {
-  .footer-section h3 > a.btn.btn-sm.btn-default {
+  a.btn.btn-sm.btn-default,
+  .footer-section a.btn.btn-sm.btn-default,
+  .footer-section h3 a.btn.btn-sm.btn-default {
     background: transparent !important;
+    background-color: transparent !important;
+    background-image: none !important;
     border: 0 !important;
     border-radius: 0 !important;
     box-shadow: none !important;
