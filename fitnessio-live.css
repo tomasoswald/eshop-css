@@ -118,3 +118,18 @@
 }
 
 /* Mobilní košík zůstává v nativním režimu šablony – bez desktop hover zásahů. */
+
+/* ==========================================================
+   MOBILNÍ PATIČKA – nadpisy bez pilulek
+   Pouze mobil; desktop zůstává beze změny.
+   ========================================================== */
+@media (max-width: 768px) {
+  .footer-section h3 > a.btn.btn-sm.btn-default {
+    background: transparent !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
