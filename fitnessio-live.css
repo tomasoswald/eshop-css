@@ -252,16 +252,26 @@ button[data-action="increment"] {
     box-shadow: none !important;
   }
 
-  /* Košík – mobilní šablona může používat méně tříd než desktop. */
-  a[href*="/e-order"],
-  a[title="Pokračovat v objednávce"] {
+  /* Košík – skutečné prvky mobilní šablony. */
+  button.btn.c212.c841 {
     border-radius: 999px !important;
     overflow: hidden !important;
   }
 
-  .quantity-input,
-  *:has(> button[data-action="decrement"] + input[name="quantity"] + button[data-action="increment"]) {
+  div.c848 {
     border-radius: 999px !important;
     overflow: hidden !important;
+  }
+
+  div.c848 > a.c849 {
+    border-radius: 999px 0 0 999px !important;
+  }
+
+  div.c848 > input.c850 {
+    border-radius: 0 !important;
+  }
+
+  div.c848 > a.c851 {
+    border-radius: 0 999px 999px 0 !important;
   }
 }
