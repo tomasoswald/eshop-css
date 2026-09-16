@@ -167,6 +167,35 @@
 }
 
 /* ==========================================================
+   KOŠÍK – hlavní pokračovací tlačítko jako zlatá pilulka
+   a regulátor množství jako jedna kompaktní pilulka
+   desktop + mobil, funkce prvků zůstává zachovaná
+   ========================================================== */
+a.btn.btn-success.btn-lg.no-margin-top[href*="e-order"] {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+div.quantity-input {
+  display: inline-flex !important;
+  align-items: stretch !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+div.quantity-input > button.minus {
+  border-radius: 999px 0 0 999px !important;
+}
+
+div.quantity-input > input.input-sm[name="quantity"] {
+  border-radius: 0 !important;
+}
+
+div.quantity-input > button.plus {
+  border-radius: 0 999px 999px 0 !important;
+}
+
+/* ==========================================================
    MOBILNÍ PATIČKA – odkazy O nás / Nákup / Doprava / Kontakt
    bez pilulek. Cíleno přímo podle odkazů, pouze mobil.
    ========================================================== */
