@@ -1,9 +1,9 @@
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
-/* Štítek Akce jako pilulka */
+/* Štítek Akce jako červená pilulka */
 .c1430.tag--sale {
-  background-color: #17995e !important;
+  background-color: #e53935 !important;
   border-radius: 999px !important;
   padding-left: 10px !important;
   padding-right: 10px !important;
