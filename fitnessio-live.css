@@ -125,6 +125,27 @@
 }
 
 /* ==========================================================
+   DETAIL PRODUKTU – odkaz Ohodnotit produkt jako pilulka
+   zůstává klikací, bez podtržení, desktop + mobil
+   ========================================================== */
+div.c726 a.c1739 {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 6px 12px !important;
+  border-radius: 999px !important;
+  background: #f1f2f3 !important;
+  color: #30343a !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+}
+
+div.c726 a.c1739:hover,
+div.c726 a.c1739:focus {
+  color: #b88a2b !important;
+  text-decoration: none !important;
+}
+
+/* ==========================================================
    MOBILNÍ PATIČKA – odkazy O nás / Nákup / Doprava / Kontakt
    bez pilulek. Cíleno přímo podle odkazů, pouze mobil.
    ========================================================== */
