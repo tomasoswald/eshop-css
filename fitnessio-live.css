@@ -115,20 +115,44 @@
 /* Mobilní košík zůstává v nativním režimu šablony – bez desktop hover zásahů. */
 
 /* ==========================================================
-   MOBILNÍ PATIČKA – nadpisy bez pilulek
-   Pouze mobil; desktop zůstává beze změny.
+   MOBILNÍ PATIČKA – nadpisy O nás / Nákup / Doprava / Kontakt
+   bez barevných pilulek. Pouze mobil.
    ========================================================== */
 @media (max-width: 768px) {
-  a.btn.btn-sm.btn-default,
-  .footer-section a.btn.btn-sm.btn-default,
-  .footer-section h3 a.btn.btn-sm.btn-default {
+  /* Šablona může mít nadpis jako odkaz, button nebo obal h3.
+     Neutralizujeme proto samotný nadpis i jeho přímý ovládací prvek. */
+  .footer-section h3,
+  .footer-section h3 > a,
+  .footer-section h3 > button,
+  [class*="footer"] h3 > a.btn,
+  [class*="footer"] h3 > button.btn {
     background: transparent !important;
     background-color: transparent !important;
     background-image: none !important;
     border: 0 !important;
+    border-color: transparent !important;
     border-radius: 0 !important;
     box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  .footer-section h3 > a,
+  .footer-section h3 > button,
+  [class*="footer"] h3 > a.btn,
+  [class*="footer"] h3 > button.btn {
     padding-left: 0 !important;
     padding-right: 0 !important;
+  }
+
+  .footer-section h3::before,
+  .footer-section h3::after,
+  .footer-section h3 > a::before,
+  .footer-section h3 > a::after,
+  [class*="footer"] h3 > a.btn::before,
+  [class*="footer"] h3 > a.btn::after {
+    background: transparent !important;
+    background-image: none !important;
+    border: 0 !important;
+    box-shadow: none !important;
   }
 }
