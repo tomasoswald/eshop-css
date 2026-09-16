@@ -115,6 +115,15 @@
 /* Mobilní košík zůstává v nativním režimu šablony – bez desktop hover zásahů. */
 
 /* ==========================================================
+   DETAIL PRODUKTU – accordion hlavičky jako pilulky
+   desktop + mobil, bez zásahu do funkce accordionu
+   ========================================================== */
+#id-detail-anchor .c771 {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+/* ==========================================================
    MOBILNÍ PATIČKA – odkazy O nás / Nákup / Doprava / Kontakt
    bez pilulek. Cíleno přímo podle odkazů, pouze mobil.
    ========================================================== */
