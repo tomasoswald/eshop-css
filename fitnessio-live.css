@@ -146,6 +146,27 @@
 }
 
 /* ==========================================================
+   DOPRAVA ZDARMA – nedosažený limit je zlatý
+   bg-danger = zákazník ještě nemá dopravu zdarma
+   bg-success zůstává zelený po dosažení limitu
+   ========================================================== */
+.c818:has(.c826.bg-danger) .c1243,
+.c818:has(.c826.bg-danger) .c821 {
+  color: #b88a2b !important;
+}
+
+.c818 .c826.bg-danger {
+  background-color: #b88a2b !important;
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .14) 0,
+    rgba(255, 255, 255, .14) 8px,
+    rgba(0, 0, 0, .04) 8px,
+    rgba(0, 0, 0, .04) 16px
+  ) !important;
+}
+
+/* ==========================================================
    MOBILNÍ PATIČKA – odkazy O nás / Nákup / Doprava / Kontakt
    bez pilulek. Cíleno přímo podle odkazů, pouze mobil.
    ========================================================== */
