@@ -115,15 +115,19 @@
 /* Mobilní košík zůstává v nativním režimu šablony – bez desktop hover zásahů. */
 
 /* ==========================================================
-   MOBILNÍ PATIČKA – odkazy bez pilulek
-   Pouze mobil; desktop zůstává beze změny.
+   MOBILNÍ PATIČKA – odkazy O nás / Nákup / Doprava / Kontakt
+   bez pilulek. Cíleno přímo podle odkazů, pouze mobil.
    ========================================================== */
 @media (max-width: 768px) {
-  .footer-section a,
-  .footer-section a.btn,
-  .footer-section ul a,
-  [id*="footer"] .footer-section a,
-  [class*="footer"] .footer-section a {
+  a[href="/o-nas"],
+  a[href*="obchodni-podminky"],
+  a[href*="ochrana-osobnich-udaju"],
+  a[href*="vraceni-zbozi"],
+  a[href*="platby-objednavek"],
+  a[href*="prodejna"],
+  a[href*="doprava-a-platba"],
+  a[href="/kontakt"],
+  a[href*="/kontakt"] {
     background: transparent !important;
     background-color: transparent !important;
     background-image: none !important;
@@ -132,13 +136,26 @@
     border-radius: 0 !important;
     box-shadow: none !important;
     text-shadow: none !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
     outline: 0 !important;
+    padding: 0 !important;
   }
 
-  .footer-section a::before,
-  .footer-section a::after {
+  a[href="/o-nas"]::before,
+  a[href="/o-nas"]::after,
+  a[href*="obchodni-podminky"]::before,
+  a[href*="obchodni-podminky"]::after,
+  a[href*="ochrana-osobnich-udaju"]::before,
+  a[href*="ochrana-osobnich-udaju"]::after,
+  a[href*="vraceni-zbozi"]::before,
+  a[href*="vraceni-zbozi"]::after,
+  a[href*="platby-objednavek"]::before,
+  a[href*="platby-objednavek"]::after,
+  a[href*="prodejna"]::before,
+  a[href*="prodejna"]::after,
+  a[href*="doprava-a-platba"]::before,
+  a[href*="doprava-a-platba"]::after,
+  a[href*="/kontakt"]::before,
+  a[href*="/kontakt"]::after {
     background: transparent !important;
     background-image: none !important;
     border: 0 !important;
