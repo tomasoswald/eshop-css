@@ -118,7 +118,8 @@
    DETAIL PRODUKTU – accordion hlavičky jako pilulky
    desktop + mobil, bez zásahu do funkce accordionu
    ========================================================== */
-#id-detail-anchor .c771 {
+#id-detail-anchor .c771,
+#id-detail-anchor ul.c769 > li.c770 {
   border-radius: 999px !important;
   overflow: hidden !important;
 }
