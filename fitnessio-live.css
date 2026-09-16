@@ -115,19 +115,15 @@
 /* Mobilní košík zůstává v nativním režimu šablony – bez desktop hover zásahů. */
 
 /* ==========================================================
-   MOBILNÍ PATIČKA – nadpisy bez pilulek
+   MOBILNÍ PATIČKA – odkazy bez pilulek
    Pouze mobil; desktop zůstává beze změny.
    ========================================================== */
 @media (max-width: 768px) {
-  /* Reset přímo uvnitř skutečných footerových oblastí. */
-  #footer h2, #footer h3, #footer h4,
-  #footer h2 > *, #footer h3 > *, #footer h4 > *,
-  .footer h2, .footer h3, .footer h4,
-  .footer h2 > *, .footer h3 > *, .footer h4 > *,
-  [id*="footer"] h2, [id*="footer"] h3, [id*="footer"] h4,
-  [id*="footer"] h2 > *, [id*="footer"] h3 > *, [id*="footer"] h4 > *,
-  [class*="footer"] h2, [class*="footer"] h3, [class*="footer"] h4,
-  [class*="footer"] h2 > *, [class*="footer"] h3 > *, [class*="footer"] h4 > * {
+  .footer-section a,
+  .footer-section a.btn,
+  .footer-section ul a,
+  [id*="footer"] .footer-section a,
+  [class*="footer"] .footer-section a {
     background: transparent !important;
     background-color: transparent !important;
     background-image: none !important;
@@ -136,31 +132,17 @@
     border-radius: 0 !important;
     box-shadow: none !important;
     text-shadow: none !important;
-  }
-
-  #footer h2 > *, #footer h3 > *, #footer h4 > *,
-  .footer h2 > *, .footer h3 > *, .footer h4 > *,
-  [id*="footer"] h2 > *, [id*="footer"] h3 > *, [id*="footer"] h4 > *,
-  [class*="footer"] h2 > *, [class*="footer"] h3 > *, [class*="footer"] h4 > * {
     padding-left: 0 !important;
     padding-right: 0 !important;
+    outline: 0 !important;
   }
 
-  #footer h2::before, #footer h2::after,
-  #footer h3::before, #footer h3::after,
-  #footer h4::before, #footer h4::after,
-  .footer h2::before, .footer h2::after,
-  .footer h3::before, .footer h3::after,
-  .footer h4::before, .footer h4::after,
-  [id*="footer"] h2::before, [id*="footer"] h2::after,
-  [id*="footer"] h3::before, [id*="footer"] h3::after,
-  [id*="footer"] h4::before, [id*="footer"] h4::after,
-  [class*="footer"] h2::before, [class*="footer"] h2::after,
-  [class*="footer"] h3::before, [class*="footer"] h3::after,
-  [class*="footer"] h4::before, [class*="footer"] h4::after {
+  .footer-section a::before,
+  .footer-section a::after {
     background: transparent !important;
     background-image: none !important;
     border: 0 !important;
+    border-radius: 0 !important;
     box-shadow: none !important;
   }
 }
