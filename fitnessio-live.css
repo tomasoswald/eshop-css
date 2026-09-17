@@ -438,3 +438,36 @@ a[name="order_process_next_step"]:focus {
   border-color: #8f691d !important;
   color: #fff !important;
 }
+
+
+/* KOŠÍK – potvrzovací modal odebrání jako dvě pilulky */
+#basket-remove-modal a.c95,
+#basket-remove-modal a.c96 {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+#basket-remove-modal a.c95 {
+  border-color: #b88a2b !important;
+  color: #30343a !important;
+}
+
+#basket-remove-modal a.c95:hover,
+#basket-remove-modal a.c95:focus {
+  background-color: #f8f5ed !important;
+  border-color: #b88a2b !important;
+  color: #8f691d !important;
+}
+
+#basket-remove-modal a.c96 {
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+}
+
+#basket-remove-modal a.c96:hover,
+#basket-remove-modal a.c96:focus {
+  background-color: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
