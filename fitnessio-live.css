@@ -353,3 +353,9 @@ button[data-action="increment"] {
   background-image: repeating-linear-gradient(135deg, rgba(255,255,255,.14) 0, rgba(255,255,255,.14) 8px, rgba(0,0,0,.04) 8px, rgba(0,0,0,.04) 16px) !important;
   border-radius: 999px !important;
 }
+
+/* Doprava zdarma zůstává zlatá i po dosažení limitu */
+#basket-add-popup .c406 {
+  color: #b88a2b !important;
+  font-weight: 800 !important;
+}
