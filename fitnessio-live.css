@@ -403,3 +403,38 @@ a[href*="/e-login"]:not(#id-header-account__link):focus {
   color: #fff !important;
   text-decoration: none !important;
 }
+
+
+/* CHECKOUT – robustní cílení na skutečný markup formuláře */
+form:not(#header-basket__form):not([data-selector="login-form"]) input[type="text"],
+form:not(#header-basket__form):not([data-selector="login-form"]) input[type="email"],
+form:not(#header-basket__form):not([data-selector="login-form"]) input[type="tel"],
+form:not(#header-basket__form):not([data-selector="login-form"]) input[type="password"],
+form:not(#header-basket__form):not([data-selector="login-form"]) textarea,
+form:not(#header-basket__form):not([data-selector="login-form"]) select {
+  border-radius: 999px !important;
+}
+
+button.c501,
+a.c501,
+button[name="order_process_next_step"],
+a[name="order_process_next_step"] {
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+button.c501:hover,
+button.c501:focus,
+a.c501:hover,
+a.c501:focus,
+button[name="order_process_next_step"]:hover,
+button[name="order_process_next_step"]:focus,
+a[name="order_process_next_step"]:hover,
+a[name="order_process_next_step"]:focus {
+  background-color: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
