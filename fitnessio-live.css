@@ -112,8 +112,6 @@
   }
 }
 
-/* Mobilní košík zůstává v nativním režimu šablony – bez desktop hover zásahů. */
-
 /* ==========================================================
    DETAIL PRODUKTU – accordion hlavičky jako pilulky
    desktop + mobil, bez zásahu do funkce accordionu
@@ -157,13 +155,40 @@
 
 .c818 .c826.bg-danger {
   background-color: #b88a2b !important;
-  background-image: repeating-linear-gradient(
-    135deg,
-    rgba(255, 255, 255, .14) 0,
-    rgba(255, 255, 255, .14) 8px,
-    rgba(0, 0, 0, .04) 8px,
-    rgba(0, 0, 0, .04) 16px
-  ) !important;
+  background-image: repeating-linear-gradient(135deg, rgba(255,255,255,.14) 0, rgba(255,255,255,.14) 8px, rgba(0,0,0,.04) 8px, rgba(0,0,0,.04) 16px) !important;
+}
+
+/* ==========================================================
+   POPUP PO PŘIDÁNÍ DO KOŠÍKU – zlaté CTA + doprava zdarma
+   desktop + mobil
+   ========================================================== */
+button.btn.c212.c841,
+a.btn.c212.c841,
+.c212.c841 {
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+button.btn.c212.c841:hover,
+button.btn.c212.c841:focus,
+a.btn.c212.c841:hover,
+a.btn.c212.c841:focus {
+  background-color: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
+
+/* Dopravu ZDARMA a nedosažený progress v popupu */
+.c818:has(.c826.bg-danger) .c821,
+.c818:has(.c826.bg-danger) .c1243 {
+  color: #b88a2b !important;
+}
+
+.c818 .c826.bg-danger {
+  background-color: #b88a2b !important;
 }
 
 /* ==========================================================
@@ -252,7 +277,6 @@ button[data-action="increment"] {
     box-shadow: none !important;
   }
 
-  /* Košík – skutečné prvky mobilní šablony. */
   button.btn.c212.c841 {
     border-radius: 999px !important;
     overflow: hidden !important;
