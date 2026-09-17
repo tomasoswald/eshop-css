@@ -471,3 +471,13 @@ a[name="order_process_next_step"]:focus {
   border-color: #8f691d !important;
   color: #fff !important;
 }
+
+
+/* REKAPITULACE OBJEDNÁVKY – úvodní instrukce zlatě a výrazněji */
+body.page-route-order h1 + p,
+#basket-order h1 + p {
+  color: #b88a2b !important;
+  font-size: 18px !important;
+  line-height: 1.45 !important;
+  font-weight: 700 !important;
+}
