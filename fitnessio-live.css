@@ -1,4 +1,4 @@
-/* FITNESSIO-LIVE BUILD: 2026-09-17-04 */
+/* FITNESSIO-LIVE BUILD: 2026-09-17-05 */
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
@@ -146,26 +146,20 @@
 
 /* ==========================================================
    DETAIL PRODUKTU – hlavní cena s DPH 2× větší
-   pevná velikost, desktop + mobil
+   desktop + mobil
    ========================================================== */
 #detail > div.c762 > div.c2007 > span.c2009 {
   font-size: 40px !important;
   line-height: 1.1 !important;
+  font-weight: 700 !important;
 }
 
 @media (max-width: 768px) {
   body.page-route-product #detail > div.c762 > div.c2007 > span.c2009 {
     font-size: 40px !important;
     line-height: 44px !important;
+    font-weight: 700 !important;
   }
-}
-
-/* DIAGNOSTIKA CENY – dočasné zvýraznění přesného cíle */
-body.page-route-product #detail > div.c762 > div.c2007 > span.c2009 {
-  background: #ffea00 !important;
-  color: #d50000 !important;
-  outline: 4px solid #d50000 !important;
-  outline-offset: 3px !important;
 }
 
 /* ==========================================================
