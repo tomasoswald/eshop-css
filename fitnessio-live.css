@@ -318,3 +318,38 @@ button[data-action="increment"] {
     border-radius: 0 999px 999px 0 !important;
   }
 }
+
+/* ==========================================================
+   POPUP PO PŘIDÁNÍ DO KOŠÍKU – aktuální selektory Fitnessio
+   zlatá lišta dopravy zdarma + zlatý text + pilulka CTA
+   ========================================================== */
+#basket-add-popup a.c398 {
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+#basket-add-popup a.c398:hover,
+#basket-add-popup a.c398:focus {
+  background-color: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
+
+#basket-add-popup .c1220 {
+  color: #b88a2b !important;
+  font-weight: 800 !important;
+}
+
+#basket-add-popup .progress.c404 {
+  border-color: #d8c08a !important;
+  box-shadow: inset 0 0 0 1px rgba(184, 138, 43, .14) !important;
+}
+
+#basket-add-popup .c405.bg-danger {
+  background-color: #b88a2b !important;
+  background-image: repeating-linear-gradient(135deg, rgba(255,255,255,.14) 0, rgba(255,255,255,.14) 8px, rgba(0,0,0,.04) 8px, rgba(0,0,0,.04) 16px) !important;
+  border-radius: 999px !important;
+}
