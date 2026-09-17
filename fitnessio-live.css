@@ -506,3 +506,129 @@ body.page-route-order h1 + p,
   color: #fff !important;
   text-decoration: none !important;
 }
+
+
+/* ==========================================================
+   KOŠÍK – sjednocený profesionální FITNESSIO vzhled
+   čistá bílá plocha + černá typografie + zlaté akcenty
+   ========================================================== */
+body.page-route-basket {
+  background: #fff !important;
+  color: #252525 !important;
+}
+
+body.page-route-basket .information-header-fixed {
+  background: linear-gradient(135deg, #a88317 0%, #c19a25 100%) !important;
+  color: #fff !important;
+  border-radius: 0 0 16px 16px !important;
+  box-shadow: 0 5px 18px rgba(110, 83, 10, .18) !important;
+  font-weight: 600 !important;
+}
+
+body.page-route-basket #id-header-account__link,
+body.page-route-basket #menu-icon button {
+  background: #b88a2b !important;
+  border: 1px solid #b88a2b !important;
+  border-radius: 999px !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  box-shadow: 0 5px 14px rgba(184, 138, 43, .2) !important;
+}
+
+body.page-route-basket #id-header-account__link:hover,
+body.page-route-basket #id-header-account__link:focus,
+body.page-route-basket #menu-icon button:hover,
+body.page-route-basket #menu-icon button:focus {
+  background: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
+
+body.page-route-basket input[placeholder*="zadejte"],
+body.page-route-basket input[placeholder*="Zadejte"] {
+  border: 2px solid #d9d9d9 !important;
+  border-radius: 999px !important;
+  box-shadow: inset 0 1px 2px rgba(0,0,0,.03) !important;
+}
+
+body.page-route-basket input[placeholder*="zadejte"]:focus,
+body.page-route-basket input[placeholder*="Zadejte"]:focus {
+  border-color: #b88a2b !important;
+  box-shadow: 0 0 0 3px rgba(184, 138, 43, .14) !important;
+  outline: 0 !important;
+}
+
+body.page-route-basket #basket__form {
+  border-radius: 18px !important;
+}
+
+body.page-route-basket #basket__form .c1380 {
+  background: #fff !important;
+  border: 1px solid #e7e3da !important;
+  border-radius: 16px !important;
+  box-shadow: 0 8px 24px rgba(25, 25, 25, .06) !important;
+}
+
+body.page-route-basket #basket__form .c848 {
+  border: 1px solid #d8c18a !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+body.page-route-basket #basket__form .c848 > a,
+body.page-route-basket #basket__form .c848 > input {
+  border-color: #d8c18a !important;
+}
+
+body.page-route-basket #basket__form .c815 {
+  border-radius: 999px !important;
+  border-color: #d8c18a !important;
+}
+
+body.page-route-basket #basket__form button,
+body.page-route-basket #basket__form .c212 {
+  border-radius: 999px !important;
+}
+
+body.page-route-basket #basket__form .c212 {
+  background: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+}
+
+body.page-route-basket #basket__form .c212:hover,
+body.page-route-basket #basket__form .c212:focus {
+  background: #8f691d !important;
+  border-color: #8f691d !important;
+}
+
+body.page-route-basket a[href="/o-nas"],
+body.page-route-basket a[href*="obchodni-podminky"],
+body.page-route-basket a[href*="ochrana-osobnich-udaju"],
+body.page-route-basket a[href*="vraceni-zbozi"],
+body.page-route-basket a[href*="platby-objednavek"],
+body.page-route-basket a[href*="prodejna"],
+body.page-route-basket a[href*="doprava-a-platba"],
+body.page-route-basket a[href*="/kontakt"] {
+  background: #fbf8ef !important;
+  border: 1px solid #e2d4ad !important;
+  border-radius: 999px !important;
+  color: #8f691d !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+
+body.page-route-basket a[href="/o-nas"]:hover,
+body.page-route-basket a[href*="obchodni-podminky"]:hover,
+body.page-route-basket a[href*="ochrana-osobnich-udaju"]:hover,
+body.page-route-basket a[href*="vraceni-zbozi"]:hover,
+body.page-route-basket a[href*="platby-objednavek"]:hover,
+body.page-route-basket a[href*="prodejna"]:hover,
+body.page-route-basket a[href*="doprava-a-platba"]:hover,
+body.page-route-basket a[href*="/kontakt"]:hover {
+  background: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+}
