@@ -359,3 +359,47 @@ button[data-action="increment"] {
   color: #b88a2b !important;
   font-weight: 800 !important;
 }
+
+
+/* ==========================================================
+   CHECKOUT – pole, přihlášení a pokračování jako pilulky
+   desktop + mobil
+   ========================================================== */
+form:has(button[name="order_process_next_step"]) input:not([type="hidden"]):not([type="radio"]):not([type="checkbox"]):not([type="number"]):not([type="search"]),
+form:has(button[name="order_process_next_step"]) select,
+form:has(button[name="order_process_next_step"]) textarea {
+  border-radius: 999px !important;
+}
+
+form:has(button[name="order_process_next_step"]) button[name="order_process_next_step"] {
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+form:has(button[name="order_process_next_step"]) button[name="order_process_next_step"]:hover,
+form:has(button[name="order_process_next_step"]) button[name="order_process_next_step"]:focus {
+  background-color: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
+
+a[href*="/e-login"]:not(#id-header-account__link) {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 5px 11px !important;
+  border-radius: 999px !important;
+  background: #b88a2b !important;
+  color: #fff !important;
+  text-decoration: none !important;
+  font-weight: 700 !important;
+}
+
+a[href*="/e-login"]:not(#id-header-account__link):hover,
+a[href*="/e-login"]:not(#id-header-account__link):focus {
+  background: #8f691d !important;
+  color: #fff !important;
+  text-decoration: none !important;
+}
