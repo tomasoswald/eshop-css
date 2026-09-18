@@ -1,4 +1,4 @@
-/* FITNESSIO-LIVE BUILD: 2026-09-18-06 */
+/* FITNESSIO-LIVE BUILD: 2026-09-18-07 */
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
@@ -723,4 +723,20 @@ body.page-route-basket .c1243 {
 #header-basket__form input.c190,
 #header-basket input.c190 {
   border-radius: 999px !important;
+}
+
+
+/* HEADER KOŠÍK – progress dopravy: přebití zelené varianty */
+#header-basket .progress-bar,
+#header-basket__popup .progress-bar,
+#header-basket__form .progress-bar,
+#header-basket .bg-success,
+#header-basket__popup .bg-success,
+#header-basket__form .bg-success,
+#header-basket .bg-danger,
+#header-basket__popup .bg-danger,
+#header-basket__form .bg-danger {
+  background: #b88a2b !important;
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
 }
