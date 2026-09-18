@@ -1,4 +1,4 @@
-/* FITNESSIO-LIVE BUILD: 2026-09-18-04 */
+/* FITNESSIO-LIVE BUILD: 2026-09-18-05 */
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
@@ -695,5 +695,11 @@ body.page-route-recapitulation .c706 .basket-recapitulation__check-message-butto
 body.page-route-basket .basket-free-shipping strong,
 body.page-route-basket [class*="free-shipping"] strong,
 body.page-route-basket [class*="shipping"] strong {
+  color: #b88a2b !important;
+}
+
+
+/* KOŠÍK – přesný element textu „dopravu ZDARMA“ */
+body.page-route-basket .c1243 {
   color: #b88a2b !important;
 }
