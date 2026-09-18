@@ -643,3 +643,13 @@ body[class*="order"] h1 + div p,
   color: #b88a2b !important;
   font-weight: 900 !important;
 }
+
+
+/* CHECKOUT – instrukce podle checkout formuláře */
+body:has(button[name="order_process_next_step"]) h1 + p,
+body:has(button[name="order_process_next_step"]) h1 + div p,
+body:has([name="order_process_next_step"]) h1 + p,
+body:has([name="order_process_next_step"]) h1 + div p {
+  color: #b88a2b !important;
+  font-weight: 900 !important;
+}
