@@ -632,3 +632,14 @@ body.page-route-basket a[href*="/kontakt"]:hover {
   border-color: #b88a2b !important;
   color: #fff !important;
 }
+
+/* CHECKOUT – instrukční text – rozšířené cílení */
+body[class*="page-route-order"] h1 + p,
+body[class*="page-route-order"] h1 + div p,
+body[class*="order"] h1 + p,
+body[class*="order"] h1 + div p,
+#basket-order h1 + p,
+#basket-order h1 + div p {
+  color: #b88a2b !important;
+  font-weight: 900 !important;
+}
