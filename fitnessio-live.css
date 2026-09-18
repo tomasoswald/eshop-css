@@ -1,4 +1,4 @@
-/* FITNESSIO-LIVE BUILD: 2026-09-18-05 */
+/* FITNESSIO-LIVE BUILD: 2026-09-18-06 */
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
@@ -702,4 +702,25 @@ body.page-route-basket [class*="shipping"] strong {
 /* KOŠÍK – přesný element textu „dopravu ZDARMA“ */
 body.page-route-basket .c1243 {
   color: #b88a2b !important;
+}
+
+
+/* HEADER KOŠÍK – hover popup: zlatý progress + pilulkové CTA a množství */
+#header-basket__popup .progress > div,
+#header-basket__form .progress > div,
+#header-basket__popup [class*="progress"] > [class*="bg-"],
+#header-basket__form [class*="progress"] > [class*="bg-"] {
+  background-color: #b88a2b !important;
+}
+
+#header-basket__popup a[href*="e-basket"],
+#header-basket__form a[href*="e-basket"] {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+#header-basket__popup input.c190,
+#header-basket__form input.c190,
+#header-basket input.c190 {
+  border-radius: 999px !important;
 }
