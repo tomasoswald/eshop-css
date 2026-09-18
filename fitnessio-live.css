@@ -1,4 +1,4 @@
-/* FITNESSIO-LIVE BUILD: 2026-09-18-01 */
+/* FITNESSIO-LIVE BUILD: 2026-09-18-02 */
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
@@ -652,4 +652,21 @@ body:has([name="order_process_next_step"]) h1 + p,
 body:has([name="order_process_next_step"]) h1 + div p {
   color: #b88a2b !important;
   font-weight: 900 !important;
+}
+
+
+/* ==========================================================
+   CHECKOUT – rekapitulace: zvýraznění instrukce pod nadpisem
+   zlatá místo červené + výraznější řez
+   ========================================================== */
+body[class*="page-route-order"] h1 ~ p:first-of-type,
+body[class*="page-route-order"] h1 ~ div p:first-child,
+body:has([name="order_process_next_step"]) h1 ~ p:first-of-type,
+body:has([name="order_process_next_step"]) h1 ~ div p:first-child,
+#basket-order h1 ~ p:first-of-type,
+#basket-order h1 ~ div p:first-child {
+  color: #b88a2b !important;
+  font-weight: 900 !important;
+  font-size: 18px !important;
+  line-height: 1.45 !important;
 }
