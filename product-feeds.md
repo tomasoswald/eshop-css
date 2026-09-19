@@ -31,3 +31,22 @@ For products originating from the Dafit feed, long ingredient/composition sectio
 Persistence rule: do NOT solve this by manually editing imported product descriptions if a later feed synchronization can overwrite them. The durable implementation must live outside the feed-owned description data (e.g. storefront rendering/transformation layer keyed to Dafit-feed products), so every feed refresh continues to display the transformed version.
 
 Reference screenshot received 2026-09-19: example composition text includes rows such as "Kreatin monohydrát 8000 mg", "L-Leucin – EAA 3000 mg", etc.
+
+
+## Fitnessio auto-import roles
+
+Fitnessio uses two logical feed roles in Eshop-rychle auto-import:
+
+- **Master (kmenový) feed** — authoritative source for product existence and base product data. It creates new products and products no longer present in the master feed may be removed by the configured auto-import. The three registered supplier URLs above are treated as master-feed sources for the current audit unless explicitly documented otherwise.
+- **Update (aktualizační) feed** — updates existing products, primarily **availability and price**. It is not the source of truth for product existence or categorization.
+
+### Processing rules
+
+1. Use the **master feed** to build the product universe and as input for category proposals.
+2. Use the **update feed** only for fields it owns (currently price and availability); it must not be used to decide category membership.
+3. Match master/update/e-shop records primarily by normalized **EAN**.
+4. A matching EAN across feeds represents the same product for audit/merge purposes; keep source-feed provenance and never auto-delete merely because a duplicate was found.
+5. Products without a usable EAN remain separate and require another stable identifier or manual review; never merge them by similar product name alone.
+6. Category assignments should be maintained independently from update-feed price/availability synchronization so routine updates do not overwrite categorization.
+
+Documented from the current Fitnessio auto-import setup on 2026-09-19. The exact update-feed URLs are not yet registered here.
