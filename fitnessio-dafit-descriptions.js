@@ -17,14 +17,15 @@
     // Eshop-rychle renders imported description as BR-separated text and/or individual P elements.
     const all=[...document.querySelectorAll('p,div,section,article')];
     const heading=all.find(el=>norm(el.textContent)==='Tabulka nutričních hodnot:');
-    if(!heading) return;
+    const source=[...document.querySelectorAll('p')].find(p=>norm(p.textContent).includes('Tabulka nutričních hodnot:') && norm(p.textContent).includes('Kreatin monohydrát'));
+    if(!heading && !source) return;
 
-    const scope=heading.parentElement || heading;
+    const scope=(heading && heading.parentElement) || (source && source.parentElement) || document.body;
     scope.classList.add('fitnessio-dafit-description');
 
     // Prefer the actual P sequence, because that is what is visible on the live page.
     const siblings=[];
-    let n=heading.nextElementSibling;
+    let n=heading ? heading.nextElementSibling : null;
     while(n && !/^(Složení:|Alergeny:|Upozornění:)/i.test(norm(n.textContent))){
       const t=norm(n.textContent);
       if(t) siblings.push({el:n,text:t});
@@ -45,9 +46,10 @@
 
     // Fallback for a single BR-heavy paragraph.
     if(rows.length<3){
-      const source=[...document.querySelectorAll('p')].find(p=>norm(p.innerText).includes('Tabulka nutričních hodnot:') && norm(p.innerText).includes('Kreatin monohydrát'));
       if(source){
-        const lines=source.innerText.split(/\n+/).map(norm).filter(Boolean);
+        const clone=source.cloneNode(true);
+        clone.querySelectorAll('br').forEach(br=>br.replaceWith('\n'));
+        const lines=(clone.textContent||'').split(/\n+/).map(norm).filter(Boolean);
         const start=lines.findIndex(x=>/^Tabulka nutričních hodnot:?$/i.test(x));
         const stop=lines.findIndex((x,i)=>i>start && /^(Složení:|Alergeny:|Upozornění:)/i.test(x));
         const b=lines.slice(start+1,stop>start?stop:lines.length);
@@ -69,9 +71,27 @@
       '<div class="fitnessio-dafit-table" role="table">'+
       rows.map(r=>'<div class="fitnessio-dafit-row" role="row"><span>'+escape(r[0])+'</span><strong>'+escape(r[1])+'</strong></div>').join('')+
       '</div>';
-    heading.insertAdjacentElement('afterend',card);
-    heading.style.display='none';
-    consumed.forEach(el=>el.style.display='none');
+    if(heading){
+      heading.insertAdjacentElement('afterend',card);
+      heading.style.display='none';
+      consumed.forEach(el=>el.style.display='none');
+    } else if(source){
+      source.insertAdjacentElement('beforebegin',card);
+      const clone=source.cloneNode(true);
+      clone.querySelectorAll('br').forEach(br=>br.replaceWith('\n'));
+      const lines=(clone.textContent||'').split(/\n+/).map(norm).filter(Boolean);
+      const start=lines.findIndex(x=>/^Tabulka nutričních hodnot:?$/i.test(x));
+      const stop=lines.findIndex((x,i)=>i>start && /^(Složení:|Alergeny:|Upozornění:)/i.test(x));
+      if(start>=0){
+        const before=lines.slice(0,start).join('\n');
+        const after=lines.slice(stop>start?stop:lines.length).join('\n');
+        const frag=document.createDocumentFragment();
+        if(before){ const p=document.createElement('p'); p.textContent=before; frag.appendChild(p); }
+        frag.appendChild(card);
+        if(after){ const p=document.createElement('p'); p.textContent=after; frag.appendChild(p); }
+        source.replaceWith(frag);
+      }
+    }
     document.documentElement.dataset.fitnessioDafit='ready';
   }
   if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',run,{once:true});
