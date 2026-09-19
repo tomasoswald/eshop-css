@@ -1,4 +1,4 @@
-/* FITNESSIO-LIVE BUILD: 2026-09-19-02 */
+/* FITNESSIO-LIVE BUILD: 2026-09-19-03 */
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
@@ -783,5 +783,17 @@ img[src*="/category/list/"] {
 [class*="subcategory"] li > a,
 [class*="subcategories"] li,
 [class*="subcategories"] li > a {
+  overflow: hidden !important;
+}
+
+
+/* ==========================================================
+   VÝPIS KATEGORIE – podkategorie nad produkty jako pilulky
+   DOM ověřen na živém Fitnessio: #subcategory-list > a.c660.c1537
+   desktop + mobil
+   ========================================================== */
+#subcategory-list > a,
+#subcategory-list > a.c660.c1537 {
+  border-radius: 999px !important;
   overflow: hidden !important;
 }
