@@ -932,3 +932,23 @@ body:has(img[src*="dafit.cz/userfiles/"]) [id*="description"] p:empty {
     line-height: 1.45 !important;
   }
 }
+
+
+/* ==========================================================
+   DAFIT – ověřený produkt ATP Creatine + EAA + Citicoline
+   Bez :has(), přímo podle body id z Eshop-rychle.
+   ========================================================== */
+body#page-1456611894 #detail-anchor-description p,
+body#page-1456611894 [id*="description"] p {
+  margin-top: 0 !important;
+  margin-bottom: 8px !important;
+  line-height: 1.45 !important;
+}
+body#page-1456611894 #detail-anchor-description br + br,
+body#page-1456611894 [id*="description"] br + br {
+  display: none !important;
+}
+body#page-1456611894 #detail-anchor-description p:empty,
+body#page-1456611894 [id*="description"] p:empty {
+  display: none !important;
+}
