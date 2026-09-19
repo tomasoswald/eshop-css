@@ -39735,6 +39735,13 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "406044",
     "name": "BioTech 100% Pure Whey coconut chocolate 900 g"
   },
@@ -39765,6 +39772,27 @@
     "ean_raw": "",
     "sku": "406466",
     "name": "AKCE 2+1 Prom-In Nitrox Pump Caffeine Free 10 x 22,5 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
   },
   {
     "feed": "dafit",
@@ -40829,6 +40857,13 @@
     "ean_raw": "",
     "sku": "408418",
     "name": "Scitec Nutrition 100% WP Professional 780 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
   },
   {
     "feed": "dafit",

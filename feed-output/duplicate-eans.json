@@ -1660,6 +1660,105 @@
     ]
   },
   {
+    "ean": "8595612010698",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595612010698",
+        "ean_raw": "8595612010698",
+        "sku": "347825",
+        "name": "ATP Vitality Gelatina Caps 100 tob"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612010698",
+        "ean_raw": "8595612010698",
+        "sku": "406873",
+        "name": "ATP Vitality Gelatina Caps 100 tob"
+      }
+    ]
+  },
+  {
+    "ean": "8595612013613",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595612013613",
+        "ean_raw": "8595612013613",
+        "sku": "390039",
+        "name": "ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612013613",
+        "ean_raw": "8595612013613",
+        "sku": "408423",
+        "name": "ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko"
+      }
+    ]
+  },
+  {
+    "ean": "8595612014009",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595612014009",
+        "ean_raw": "8595612014009",
+        "sku": "396163",
+        "name": "ATP Vitality Ginger Extract + Vitamin C 90 tob"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612014009",
+        "ean_raw": "8595612014009",
+        "sku": "406594",
+        "name": "ATP Vitality Ginger Extract + Vitamin C 90 tob"
+      }
+    ]
+  },
+  {
+    "ean": "8595612014627",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 3,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595612014627",
+        "ean_raw": "8595612014627",
+        "sku": "402375",
+        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612014627",
+        "ean_raw": "8595612014627",
+        "sku": "405606",
+        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612014627",
+        "ean_raw": "8595612014627",
+        "sku": "406603",
+        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
+      }
+    ]
+  },
+  {
     "ean": "8595727406621",
     "feeds": [
       "dafit"

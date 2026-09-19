@@ -1,0 +1,112 @@
+[
+  {
+    "feed": "dafit",
+    "ean": "1230000066617",
+    "ean_raw": "1230000066617",
+    "sku": "322061",
+    "name": "Lenny & Larry´s The Complete Cookie 113 g white chocolate macadamia",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "2700002411115",
+    "ean_raw": "2700002411115",
+    "sku": "51479",
+    "name": "Power System No Compromise PS-2700",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "2700002422227",
+    "ean_raw": "2700002422227",
+    "sku": "51474",
+    "name": "Power System No Compromise PS-2700",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "039442014320",
+    "ean_raw": "039442014320",
+    "sku": "3140",
+    "name": "Gh Max - Universal Nutrition bez příchuti",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "039442030351",
+    "ean_raw": "039442030351",
+    "sku": "8242",
+    "name": "Animal Nitro - Universal Nutrition bez příchuti",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "039442032584",
+    "ean_raw": "039442032584",
+    "sku": "41197",
+    "name": "Animal Fury - Universal Nutrition vodní meloun",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "039442032713",
+    "ean_raw": "039442032713",
+    "sku": "41191",
+    "name": "Animal Fury - Universal Nutrition modrá malina",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "039442032812",
+    "ean_raw": "039442032812",
+    "sku": "80983",
+    "name": "Animal Flex Powder - Universal Nutrition pomeranč",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "039442032881",
+    "ean_raw": "039442032881",
+    "sku": "47503",
+    "name": "Animal Flex Powder - Universal Nutrition třešeň a bobule",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "039442032928",
+    "ean_raw": "039442032928",
+    "sku": "56476",
+    "name": "Animal Cuts Powder - Universal Nutrition blue ice pop",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  }
+]
