@@ -53,7 +53,6 @@ def first(fields: dict[str, str], names: set[str]) -> str:
 
 
 def product_candidates(root: ET.Element):
-    # Prefer common product/item nodes. Fall back to repeated nodes carrying EAN.
     common = {"product", "item", "shopitem", "offer"}
     found = [e for e in root.iter() if local(e.tag) in common]
     if found:
@@ -129,7 +128,37 @@ def main() -> int:
                 "occurrences": r.get("occurrences", 1),
             })
 
-    print(f"Unique EANs: {len(unique)}; duplicate EAN groups: {len(duplicates)}; without EAN: {len(no_ean)}")
+    # Small deterministic sample for safe Eshop-rychle import testing.
+    # Prefer named products with valid EANs and spread the sample across feeds.
+    sample = []
+    used_eans = set()
+    for feed in FEEDS:
+        candidates = [r for r in unique if feed in r.get("feeds", []) and r.get("name") and r["ean"] not in used_eans]
+        for r in candidates[:3]:
+            sample.append(r)
+            used_eans.add(r["ean"])
+    for r in unique:
+        if len(sample) >= 10:
+            break
+        if r.get("name") and r["ean"] not in used_eans:
+            sample.append(r)
+            used_eans.add(r["ean"])
+
+    sample = sample[:10]
+    (OUT / "test-sample-10.json").write_text(json.dumps(sample, ensure_ascii=False, indent=2), encoding="utf-8")
+    with (OUT / "test-sample-10.csv").open("w", newline="", encoding="utf-8-sig") as f:
+        w = csv.DictWriter(f, fieldnames=["ean", "name", "sku", "feed", "feeds"])
+        w.writeheader()
+        for r in sample:
+            w.writerow({
+                "ean": r.get("ean", ""),
+                "name": r.get("name", ""),
+                "sku": r.get("sku", ""),
+                "feed": r.get("feed", ""),
+                "feeds": "|".join(r.get("feeds", [])),
+            })
+
+    print(f"Unique EANs: {len(unique)}; duplicate EAN groups: {len(duplicates)}; without EAN: {len(no_ean)}; test sample: {len(sample)}")
     return 1 if errors else 0
 
 
