@@ -1,4 +1,4 @@
-/* FITNESSIO-LIVE BUILD: 2026-09-19-01 */
+/* FITNESSIO-LIVE BUILD: 2026-09-19-02 */
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
@@ -750,4 +750,38 @@ body.page-route-basket .c1243 {
 img[src*="/category/menu/"],
 img[src*="/category/list/"] {
   display: none !important;
+}
+
+
+/* ==========================================================
+   KATEGORIE / PODKATEGORIE – všechna okna jako pilulky
+   desktop + mobil
+   ========================================================== */
+/* Hlavní kategorie v menu */
+#categories-menu li,
+#categories-menu li > a,
+[class*="categories-menu"] li,
+[class*="categories-menu"] li > a,
+/* Výpis kategorií a podkategorií v obsahu */
+[class*="category"] > a,
+[class*="category"] li > a,
+[class*="subcategory"] > a,
+[class*="subcategory"] li > a,
+[class*="subcategories"] > a,
+[class*="subcategories"] li > a {
+  border-radius: 999px !important;
+}
+
+/* Oříznutí pozadí a hoveru do tvaru pilulky */
+#categories-menu li,
+#categories-menu li > a,
+[class*="categories-menu"] li,
+[class*="categories-menu"] li > a,
+[class*="category"] li,
+[class*="category"] li > a,
+[class*="subcategory"] li,
+[class*="subcategory"] li > a,
+[class*="subcategories"] li,
+[class*="subcategories"] li > a {
+  overflow: hidden !important;
 }
