@@ -1,101 +1,154 @@
-/* Fitnessio — persistent Dafit description formatter v2 */
+/* Fitnessio — persistent Dafit nutrition formatter v3 */
 (() => {
   'use strict';
-  const norm=s=>(s||'').replace(/\u00a0/g,' ').replace(/\s+/g,' ').trim();
-  const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
-  function run(){
-    if(document.querySelector('.fitnessio-dafit-nutrition')) return;
-    const bodyText=norm(document.body.innerText);
-    // Current verified Dafit product. Product number is a fallback when EAN formatting differs.
-    const verifiedProduct = location.pathname.toLowerCase().includes('atp-nutrition-creatine-eaa-citicoline-400-g-red-blood-orange') ||
-      bodyText.includes('8595612013620') ||
-      bodyText.includes('Číslo produktu:18457') ||
-      bodyText.includes('Číslo produktu: 18457');
-    if(!verifiedProduct) return;
+  const norm = s => (s || '').replace(/\u00a0/g, ' ').replace(/[ \t]+/g, ' ').trim();
+  const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
-    // Eshop-rychle renders imported description as BR-separated text and/or individual P elements.
-    const all=[...document.querySelectorAll('p,div,section,article')];
-    const heading=all.find(el=>norm(el.textContent)==='Tabulka nutričních hodnot:');
-    const source=[...document.querySelectorAll('p')].find(p=>norm(p.textContent).includes('Tabulka nutričních hodnot:') && norm(p.textContent).includes('Kreatin monohydrát'));
-    if(!heading && !source) return;
-
-    const scope=(heading && heading.parentElement) || (source && source.parentElement) || document.body;
-    scope.classList.add('fitnessio-dafit-description');
-
-    // Prefer the actual P sequence, because that is what is visible on the live page.
-    const siblings=[];
-    let n=heading ? heading.nextElementSibling : null;
-    while(n && !/^(Složení:|Alergeny:|Upozornění:)/i.test(norm(n.textContent))){
-      const t=norm(n.textContent);
-      if(t) siblings.push({el:n,text:t});
-      n=n.nextElementSibling;
-    }
-
-    let dose='', rows=[], consumed=[];
-    if(siblings.length>=3){
-      dose=siblings[0].text; consumed.push(siblings[0].el);
-      for(let i=1;i+1<siblings.length;i+=2){
-        const name=siblings[i].text, value=siblings[i+1].text;
-        if(/^\*EAA/i.test(name)) break;
-        if(!/\d/.test(value)) break;
-        rows.push([name,value]);
-        consumed.push(siblings[i].el,siblings[i+1].el);
-      }
-    }
-
-    // Fallback for a single BR-heavy paragraph.
-    if(rows.length<3){
-      if(source){
-        const clone=source.cloneNode(true);
-        clone.querySelectorAll('br').forEach(br=>br.replaceWith('\n'));
-        const lines=(clone.textContent||'').split(/\n+/).map(norm).filter(Boolean);
-        const start=lines.findIndex(x=>/^Tabulka nutričních hodnot:?$/i.test(x));
-        const stop=lines.findIndex((x,i)=>i>start && /^(Složení:|Alergeny:|Upozornění:)/i.test(x));
-        const b=lines.slice(start+1,stop>start?stop:lines.length);
-        dose=b.shift()||'';
-        rows=[];
-        for(let i=0;i+1<b.length;i+=2){
-          if(/^\*EAA/i.test(b[i])) break;
-          if(!/\d/.test(b[i+1])) break;
-          rows.push([b[i],b[i+1]]);
-        }
-      }
-    }
-    if(rows.length<3) return;
-
-    const card=document.createElement('section');
-    card.className='fitnessio-dafit-nutrition';
-    card.innerHTML='<h3>Nutriční hodnoty</h3>'+
-      (dose?'<div class="fitnessio-dafit-dose">'+escape(dose)+'</div>':'')+
-      '<div class="fitnessio-dafit-table" role="table">'+
-      rows.map(r=>'<div class="fitnessio-dafit-row" role="row"><span>'+escape(r[0])+'</span><strong>'+escape(r[1])+'</strong></div>').join('')+
-      '</div>';
-    if(heading){
-      heading.insertAdjacentElement('afterend',card);
-      heading.style.display='none';
-      consumed.forEach(el=>el.style.display='none');
-    } else if(source){
-      source.insertAdjacentElement('beforebegin',card);
-      const clone=source.cloneNode(true);
-      clone.querySelectorAll('br').forEach(br=>br.replaceWith('\n'));
-      const lines=(clone.textContent||'').split(/\n+/).map(norm).filter(Boolean);
-      const start=lines.findIndex(x=>/^Tabulka nutričních hodnot:?$/i.test(x));
-      const stop=lines.findIndex((x,i)=>i>start && /^(Složení:|Alergeny:|Upozornění:)/i.test(x));
-      if(start>=0){
-        const before=lines.slice(0,start).join('\n');
-        const after=lines.slice(stop>start?stop:lines.length).join('\n');
-        const frag=document.createDocumentFragment();
-        if(before){ const p=document.createElement('p'); p.textContent=before; frag.appendChild(p); }
-        frag.appendChild(card);
-        if(after){ const p=document.createElement('p'); p.textContent=after; frag.appendChild(p); }
-        source.replaceWith(frag);
-      }
-    }
-    document.documentElement.dataset.fitnessioDafit='ready';
+  function linesFrom(el) {
+    const clone = el.cloneNode(true);
+    clone.querySelectorAll('br').forEach(br => br.replaceWith('\n'));
+    return (clone.innerText || clone.textContent || '')
+      .split(/\n+/).map(norm).filter(Boolean);
   }
-  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',run,{once:true});
-  else run();
-  setTimeout(run,700);
-  setTimeout(run,1800);
+
+  function parse(lines) {
+    const start = lines.findIndex(x => /^Tabulka nutričních hodnot\s*:?$/i.test(x));
+    if (start < 0) return null;
+
+    const tail = lines.slice(start + 1);
+    if (tail.length < 3) return null;
+
+    const dose = tail.shift();
+    const rows = [];
+    let consumed = 0;
+
+    for (let i = 0; i + 1 < tail.length; i += 2) {
+      const name = tail[i];
+      const value = tail[i + 1];
+      if (/^(\*?EAA\b|Složení\s*:|Alergeny\s*:|Upozornění\s*:)/i.test(name)) break;
+      if (!/\d/.test(value) || !/(mg|g|µg|mcg|kcal|kj|%|ml)\b/i.test(value)) break;
+      rows.push([name, value]);
+      consumed = i + 2;
+    }
+
+    if (rows.length < 2) return null;
+    return { start, dose, rows, after: tail.slice(consumed) };
+  }
+
+  function card(data) {
+    const el = document.createElement('section');
+    el.className = 'fitnessio-dafit-nutrition';
+    el.innerHTML =
+      '<h3>Nutriční hodnoty</h3>' +
+      '<div class="fitnessio-dafit-dose">' + esc(data.dose) + '</div>' +
+      '<div class="fitnessio-dafit-table" role="table">' +
+      data.rows.map(r =>
+        '<div class="fitnessio-dafit-row" role="row"><span>' +
+        esc(r[0]) + '</span><strong>' + esc(r[1]) + '</strong></div>'
+      ).join('') +
+      '</div>';
+    return el;
+  }
+
+  function transformSingleBlock(el, data, lines) {
+    const before = lines.slice(0, data.start);
+    const frag = document.createDocumentFragment();
+
+    if (before.length) {
+      const p = document.createElement('p');
+      p.innerHTML = before.map(esc).join('<br>');
+      frag.appendChild(p);
+    }
+
+    frag.appendChild(card(data));
+
+    if (data.after.length) {
+      const p = document.createElement('p');
+      p.innerHTML = data.after.map(esc).join('<br>');
+      frag.appendChild(p);
+    }
+
+    const parent = el.parentElement;
+    if (parent) parent.classList.add('fitnessio-dafit-description');
+    el.replaceWith(frag);
+  }
+
+  function trySingleBlock() {
+    const candidates = [...document.querySelectorAll('p, div')];
+    for (const el of candidates) {
+      if (el.closest('.fitnessio-dafit-nutrition')) continue;
+      const text = norm(el.textContent);
+      if (!/Tabulka nutričních hodnot/i.test(text)) continue;
+      const lines = linesFrom(el);
+      const data = parse(lines);
+      if (!data) continue;
+      transformSingleBlock(el, data, lines);
+      return true;
+    }
+    return false;
+  }
+
+  function trySiblingBlocks() {
+    const els = [...document.querySelectorAll('p, div, h2, h3, h4, strong')];
+    const heading = els.find(el => /^Tabulka nutričních hodnot\s*:?$/i.test(norm(el.textContent)));
+    if (!heading) return false;
+
+    const collected = [];
+    const nodes = [];
+    let n = heading.nextElementSibling;
+    while (n && collected.length < 80) {
+      const t = norm(n.textContent);
+      if (/^(Složení|Alergeny|Upozornění)\s*:/i.test(t)) break;
+      if (t) { collected.push(t); nodes.push(n); }
+      n = n.nextElementSibling;
+    }
+
+    const data = parse(['Tabulka nutričních hodnot:', ...collected]);
+    if (!data) return false;
+
+    heading.parentElement?.classList.add('fitnessio-dafit-description');
+    heading.insertAdjacentElement('afterend', card(data));
+    heading.style.display = 'none';
+
+    const hideCount = 1 + data.rows.length * 2;
+    nodes.slice(0, hideCount).forEach(el => { el.style.display = 'none'; });
+    return true;
+  }
+
+  function run() {
+    if (document.querySelector('.fitnessio-dafit-nutrition')) return true;
+
+    const pathOk = location.pathname.toLowerCase().includes('atp-nutrition-creatine-eaa-citicoline-400-g-red-blood-orange');
+    const pageText = norm(document.body?.innerText);
+    const productOk = pathOk || pageText.includes('8595612013620') || /Číslo produktu:\s*18457/i.test(pageText);
+    if (!productOk) return false;
+
+    const ok = trySingleBlock() || trySiblingBlocks();
+    if (ok) document.documentElement.dataset.fitnessioDafit = 'ready';
+    return ok;
+  }
+
+  let attempts = 0;
+  function retry() {
+    attempts++;
+    if (run() || attempts >= 30) return;
+    setTimeout(retry, 500);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', retry, {once:true});
+  } else {
+    retry();
+  }
+
+  const observer = new MutationObserver(() => {
+    if (document.querySelector('.fitnessio-dafit-nutrition')) {
+      observer.disconnect();
+      return;
+    }
+    run();
+  });
+  observer.observe(document.documentElement, {childList:true, subtree:true});
+  setTimeout(() => observer.disconnect(), 30000);
 })();
