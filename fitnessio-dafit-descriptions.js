@@ -8,7 +8,11 @@
     if(document.querySelector('.fitnessio-dafit-nutrition')) return;
     const bodyText=norm(document.body.innerText);
     // Current verified Dafit product. Product number is a fallback when EAN formatting differs.
-    if(!bodyText.includes('8595612013620') && !bodyText.includes('Číslo produktu:18457') && !bodyText.includes('Číslo produktu: 18457')) return;
+    const verifiedProduct = location.pathname.toLowerCase().includes('atp-nutrition-creatine-eaa-citicoline-400-g-red-blood-orange') ||
+      bodyText.includes('8595612013620') ||
+      bodyText.includes('Číslo produktu:18457') ||
+      bodyText.includes('Číslo produktu: 18457');
+    if(!verifiedProduct) return;
 
     // Eshop-rychle renders imported description as BR-separated text and/or individual P elements.
     const all=[...document.querySelectorAll('p,div,section,article')];
