@@ -1,4 +1,4 @@
-/* FITNESSIO-LIVE BUILD: 2026-09-18-07 */
+/* FITNESSIO-LIVE BUILD: 2026-09-19-01 */
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
@@ -739,4 +739,15 @@ body.page-route-basket .c1243 {
   background: #b88a2b !important;
   background-color: #b88a2b !important;
   border-color: #b88a2b !important;
+}
+
+
+/* ==========================================================
+   KATEGORIE / PODKATEGORIE – bez ikon kategorií (činek)
+   Ověřeno na živém Fitnessio: obrázky kategorií jsou v /category/menu/ a /category/list/
+   desktop + mobil
+   ========================================================== */
+img[src*="/category/menu/"],
+img[src*="/category/list/"] {
+  display: none !important;
 }
