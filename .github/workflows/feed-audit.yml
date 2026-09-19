@@ -2,6 +2,12 @@ name: Fitnessio feed audit
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "tools/merge_product_feeds.py"
+      - ".github/workflows/feed-audit.yml"
   schedule:
     - cron: "17 3 * * *"
 
@@ -36,7 +42,8 @@ jobs:
           dup=load("duplicate-eans.json")
           noean=load("products-without-ean.json")
           errors=load("errors.json")
-          with open("feed-output/SUMMARY.md","w",encoding="utf-8") as f:
+          p.mkdir(exist_ok=True)
+          with open(p/"SUMMARY.md","w",encoding="utf-8") as f:
               f.write("# Fitnessio feed audit\n\n")
               f.write(f"- Unique EANs: {len(unique)}\n")
               f.write(f"- Duplicate EAN groups: {len(dup)}\n")
