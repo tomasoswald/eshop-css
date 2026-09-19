@@ -120,7 +120,14 @@ def main() -> int:
         w = csv.DictWriter(f, fieldnames=["ean", "name", "sku", "feed", "feeds", "occurrences"])
         w.writeheader()
         for r in unique:
-            w.writerow({**r, "feeds": "|".join(r["feeds"])})
+            w.writerow({
+                "ean": r.get("ean", ""),
+                "name": r.get("name", ""),
+                "sku": r.get("sku", ""),
+                "feed": r.get("feed", ""),
+                "feeds": "|".join(r.get("feeds", [])),
+                "occurrences": r.get("occurrences", 1),
+            })
 
     print(f"Unique EANs: {len(unique)}; duplicate EAN groups: {len(duplicates)}; without EAN: {len(no_ean)}")
     return 1 if errors else 0
