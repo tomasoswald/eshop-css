@@ -1,0 +1,65 @@
+name: Fitnessio feed audit
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Merge supplier feeds by EAN
+        run: python tools/merge_product_feeds.py
+
+      - name: Write summary
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          p=pathlib.Path("feed-output")
+          def load(name):
+              f=p/name
+              return json.loads(f.read_text(encoding="utf-8")) if f.exists() else []
+          unique=load("unique-products.json")
+          dup=load("duplicate-eans.json")
+          noean=load("products-without-ean.json")
+          errors=load("errors.json")
+          with open("feed-output/SUMMARY.md","w",encoding="utf-8") as f:
+              f.write("# Fitnessio feed audit\n\n")
+              f.write(f"- Unique EANs: {len(unique)}\n")
+              f.write(f"- Duplicate EAN groups: {len(dup)}\n")
+              f.write(f"- Products without EAN: {len(noean)}\n")
+              f.write(f"- Feed errors: {len(errors)}\n")
+          PY
+
+      - name: Commit audit output
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed-output/
+          if git diff --cached --quiet; then
+            echo "No output changes"
+          else
+            git commit -m "Update Fitnessio feed audit"
+            git push
+          fi
+
+      - name: Upload audit artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fitnessio-feed-audit
+          path: feed-output/
