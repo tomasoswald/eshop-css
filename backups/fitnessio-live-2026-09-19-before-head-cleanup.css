@@ -1,0 +1,953 @@
+/* FITNESSIO-LIVE BUILD: 2026-09-19-04 */
+/* FITNESSIO – živé CSS spravované přes GitHub
+   Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
+
+/* Štítek Akce jako červená pilulka */
+.c1430.tag--sale {
+  background-color: #e53935 !important;
+  border-radius: 999px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+/* ==========================================================
+   HEADER KOŠÍK – moderní Fitnessio popup
+   ========================================================== */
+@media (min-width: 769px) {
+  #header-basket__popup,
+  #header-basket__form {
+    background: #fff !important;
+    border-radius: 18px !important;
+  }
+
+  #header-basket__popup {
+    border: 1px solid rgba(24, 24, 24, .08) !important;
+    border-top: 3px solid #b88a2b !important;
+    box-shadow: 0 22px 55px rgba(0, 0, 0, .18) !important;
+    overflow: hidden !important;
+  }
+
+  #header-basket__form {
+    border: 0 !important;
+    box-shadow: none !important;
+    overflow: hidden !important;
+  }
+
+  #header-basket__form .c178 {
+    margin: 0 !important;
+    padding: 22px 24px 20px !important;
+    background: #f1f2f3 !important;
+    color: #30343a !important;
+    font-size: 16px !important;
+    line-height: 1.35 !important;
+    font-weight: 700 !important;
+    letter-spacing: -.01em !important;
+    border: 0 !important;
+  }
+
+  #header-basket__popup .c204 {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #f8f5ed !important;
+    border: 0 !important;
+  }
+
+  #header-basket__popup .c204 .c205 {
+    box-sizing: border-box !important;
+    margin: 0 !important;
+    padding: 17px 24px !important;
+    background: #f8f5ed !important;
+    color: #3c3c3c !important;
+    font-size: 13px !important;
+    line-height: 1.55 !important;
+    border: 0 !important;
+  }
+
+  #header-basket__popup .c204 svg {
+    color: #b88a2b !important;
+    fill: currentColor !important;
+  }
+
+  #header-basket__popup .c1214 {
+    color: #30343a !important;
+    font-weight: 800 !important;
+  }
+
+  #header-basket__popup .c1215,
+  #header-basket__popup .c1215:link,
+  #header-basket__popup .c1215:visited {
+    color: #b88a2b !important;
+    font-weight: 800 !important;
+    text-decoration: none !important;
+  }
+
+  #header-basket__popup .c1215:hover,
+  #header-basket__popup .c1215:focus {
+    color: #8f691d !important;
+    text-decoration: underline !important;
+    text-underline-offset: 3px !important;
+  }
+
+  #header-basket__popup .c214 {
+    box-sizing: border-box !important;
+    margin: 0 !important;
+    padding: 18px 24px 20px !important;
+    background: #fff !important;
+    color: #5b5b5b !important;
+    font-size: 13px !important;
+    line-height: 1.55 !important;
+    border: 0 !important;
+    border-top: 1px solid #ece8de !important;
+  }
+
+  #header-basket__popup .c214 a {
+    color: #30343a !important;
+    font-weight: 700 !important;
+    text-decoration-color: #b88a2b !important;
+    text-underline-offset: 3px !important;
+  }
+
+  #header-basket__popup .c214 a:hover,
+  #header-basket__popup .c214 a:focus {
+    color: #b88a2b !important;
+  }
+}
+
+/* ==========================================================
+   DETAIL PRODUKTU – accordion hlavičky jako pilulky
+   desktop + mobil, bez zásahu do funkce accordionu
+   ========================================================== */
+#id-detail-anchor .c771,
+#id-detail-anchor ul.c769 > li.c770 {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+/* ==========================================================
+   DETAIL PRODUKTU – odkaz Ohodnotit produkt jako pilulka
+   zůstává klikací, bez podtržení, desktop + mobil
+   ========================================================== */
+#detail .c1735 a.c1739 {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 6px 12px !important;
+  border-radius: 999px !important;
+  background: #f1f2f3 !important;
+  color: #30343a !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+}
+
+#detail .c1735 a.c1739:hover,
+#detail .c1735 a.c1739:focus {
+  color: #b88a2b !important;
+  text-decoration: none !important;
+}
+
+/* ==========================================================
+   DETAIL PRODUKTU – hlavní cena s DPH 2× větší
+   desktop + mobil
+   ========================================================== */
+#detail > div.c762 > div.c2007 > span.c2009 {
+  font-size: 40px !important;
+  line-height: 1.1 !important;
+  font-weight: 700 !important;
+}
+
+@media (max-width: 768px) {
+  body.page-route-product #detail > div.c762 > div.c2007 > span.c2009 {
+    font-size: 40px !important;
+    line-height: 44px !important;
+    font-weight: 700 !important;
+  }
+}
+
+/* ==========================================================
+   DOPRAVA ZDARMA – nedosažený limit je zlatý
+   bg-danger = zákazník ještě nemá dopravu zdarma
+   bg-success zůstává zelený po dosažení limitu
+   ========================================================== */
+.c818:has(.c826.bg-danger) .c1243,
+.c818:has(.c826.bg-danger) .c821 {
+  color: #b88a2b !important;
+}
+
+.c818 .c826.bg-danger {
+  background-color: #b88a2b !important;
+  background-image: repeating-linear-gradient(135deg, rgba(255,255,255,.14) 0, rgba(255,255,255,.14) 8px, rgba(0,0,0,.04) 8px, rgba(0,0,0,.04) 16px) !important;
+}
+
+/* ==========================================================
+   POPUP PO PŘIDÁNÍ DO KOŠÍKU – zlaté CTA + doprava zdarma
+   desktop + mobil
+   ========================================================== */
+button.btn.c212.c841,
+a.btn.c212.c841,
+.c212.c841 {
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+button.btn.c212.c841:hover,
+button.btn.c212.c841:focus,
+a.btn.c212.c841:hover,
+a.btn.c212.c841:focus {
+  background-color: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
+
+/* Dopravu ZDARMA a nedosažený progress v popupu */
+.c818:has(.c826.bg-danger) .c821,
+.c818:has(.c826.bg-danger) .c1243 {
+  color: #b88a2b !important;
+}
+
+.c818 .c826.bg-danger {
+  background-color: #b88a2b !important;
+}
+
+/* ==========================================================
+   KOŠÍK – hlavní pokračovací tlačítko jako zlatá pilulka
+   a regulátor množství jako jedna kompaktní pilulka
+   desktop + mobil, funkce prvků zůstává zachovaná
+   ========================================================== */
+a.btn.btn-success.btn-lg.no-margin-top[href*="e-order"],
+a[href*="/e-order"][title="Pokračovat v objednávce"] {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+div.quantity-input,
+*:has(> button[data-action="decrement"] + input[name="quantity"] + button[data-action="increment"]) {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+div.quantity-input {
+  display: inline-flex !important;
+  align-items: stretch !important;
+}
+
+div.quantity-input > button.minus,
+button[data-action="decrement"] {
+  border-radius: 999px 0 0 999px !important;
+}
+
+div.quantity-input > input.input-sm[name="quantity"],
+button[data-action="decrement"] + input[name="quantity"] {
+  border-radius: 0 !important;
+}
+
+div.quantity-input > button.plus,
+button[data-action="increment"] {
+  border-radius: 0 999px 999px 0 !important;
+}
+
+/* ==========================================================
+   MOBILNÍ PATIČKA – odkazy O nás / Nákup / Doprava / Kontakt
+   bez pilulek. Cíleno přímo podle odkazů, pouze mobil.
+   ========================================================== */
+@media (max-width: 768px) {
+  a[href="/o-nas"],
+  a[href*="obchodni-podminky"],
+  a[href*="ochrana-osobnich-udaju"],
+  a[href*="vraceni-zbozi"],
+  a[href*="platby-objednavek"],
+  a[href*="prodejna"],
+  a[href*="doprava-a-platba"],
+  a[href="/kontakt"],
+  a[href*="/kontakt"] {
+    background: transparent !important;
+    background-color: transparent !important;
+    background-image: none !important;
+    border: 0 !important;
+    border-color: transparent !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    outline: 0 !important;
+    padding: 0 !important;
+  }
+
+  a[href="/o-nas"]::before,
+  a[href="/o-nas"]::after,
+  a[href*="obchodni-podminky"]::before,
+  a[href*="obchodni-podminky"]::after,
+  a[href*="ochrana-osobnich-udaju"]::before,
+  a[href*="ochrana-osobnich-udaju"]::after,
+  a[href*="vraceni-zbozi"]::before,
+  a[href*="vraceni-zbozi"]::after,
+  a[href*="platby-objednavek"]::before,
+  a[href*="platby-objednavek"]::after,
+  a[href*="prodejna"]::before,
+  a[href*="prodejna"]::after,
+  a[href*="doprava-a-platba"]::before,
+  a[href*="doprava-a-platba"]::after,
+  a[href*="/kontakt"]::before,
+  a[href*="/kontakt"]::after {
+    background: transparent !important;
+    background-image: none !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+  }
+
+  button.btn.c212.c841 {
+    border-radius: 999px !important;
+    overflow: hidden !important;
+  }
+
+  div.c848 {
+    border-radius: 999px !important;
+    overflow: hidden !important;
+  }
+
+  div.c848 > a.c849 {
+    border-radius: 999px 0 0 999px !important;
+  }
+
+  div.c848 > input.c850 {
+    border-radius: 0 !important;
+  }
+
+  div.c848 > a.c851 {
+    border-radius: 0 999px 999px 0 !important;
+  }
+}
+
+/* ==========================================================
+   POPUP PO PŘIDÁNÍ DO KOŠÍKU – aktuální selektory Fitnessio
+   zlatá lišta dopravy zdarma + zlatý text + pilulka CTA
+   ========================================================== */
+#basket-add-popup a.c398 {
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+#basket-add-popup a.c398:hover,
+#basket-add-popup a.c398:focus {
+  background-color: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
+
+#basket-add-popup .c1220 {
+  color: #b88a2b !important;
+  font-weight: 800 !important;
+}
+
+#basket-add-popup .progress.c404 {
+  border-color: #d8c08a !important;
+  box-shadow: inset 0 0 0 1px rgba(184, 138, 43, .14) !important;
+}
+
+#basket-add-popup .c405.bg-danger {
+  background-color: #b88a2b !important;
+  background-image: repeating-linear-gradient(135deg, rgba(255,255,255,.14) 0, rgba(255,255,255,.14) 8px, rgba(0,0,0,.04) 8px, rgba(0,0,0,.04) 16px) !important;
+  border-radius: 999px !important;
+}
+
+/* Doprava zdarma zůstává zlatá i po dosažení limitu */
+#basket-add-popup .c406 {
+  color: #b88a2b !important;
+  font-weight: 800 !important;
+}
+
+
+/* ==========================================================
+   CHECKOUT – pole, přihlášení a pokračování jako pilulky
+   desktop + mobil
+   ========================================================== */
+form:has(button[name="order_process_next_step"]) input:not([type="hidden"]):not([type="radio"]):not([type="checkbox"]):not([type="number"]):not([type="search"]),
+form:has(button[name="order_process_next_step"]) select,
+form:has(button[name="order_process_next_step"]) textarea {
+  border-radius: 999px !important;
+}
+
+form:has(button[name="order_process_next_step"]) button[name="order_process_next_step"] {
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+form:has(button[name="order_process_next_step"]) button[name="order_process_next_step"]:hover,
+form:has(button[name="order_process_next_step"]) button[name="order_process_next_step"]:focus {
+  background-color: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
+
+a[href*="/e-login"]:not(#id-header-account__link) {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 5px 11px !important;
+  border-radius: 999px !important;
+  background: #b88a2b !important;
+  color: #fff !important;
+  text-decoration: none !important;
+  font-weight: 700 !important;
+}
+
+a[href*="/e-login"]:not(#id-header-account__link):hover,
+a[href*="/e-login"]:not(#id-header-account__link):focus {
+  background: #8f691d !important;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+
+/* CHECKOUT – robustní cílení na skutečný markup formuláře */
+form:not(#header-basket__form):not([data-selector="login-form"]) input[type="text"],
+form:not(#header-basket__form):not([data-selector="login-form"]) input[type="email"],
+form:not(#header-basket__form):not([data-selector="login-form"]) input[type="tel"],
+form:not(#header-basket__form):not([data-selector="login-form"]) input[type="password"],
+form:not(#header-basket__form):not([data-selector="login-form"]) textarea,
+form:not(#header-basket__form):not([data-selector="login-form"]) select {
+  border-radius: 999px !important;
+}
+
+button.c501,
+a.c501,
+button[name="order_process_next_step"],
+a[name="order_process_next_step"] {
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+button.c501:hover,
+button.c501:focus,
+a.c501:hover,
+a.c501:focus,
+button[name="order_process_next_step"]:hover,
+button[name="order_process_next_step"]:focus,
+a[name="order_process_next_step"]:hover,
+a[name="order_process_next_step"]:focus {
+  background-color: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
+
+
+/* KOŠÍK – potvrzovací modal odebrání jako dvě pilulky */
+#basket-remove-modal a.c95,
+#basket-remove-modal a.c96 {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+#basket-remove-modal a.c95 {
+  border-color: #b88a2b !important;
+  color: #30343a !important;
+}
+
+#basket-remove-modal a.c95:hover,
+#basket-remove-modal a.c95:focus {
+  background-color: #f8f5ed !important;
+  border-color: #b88a2b !important;
+  color: #8f691d !important;
+}
+
+#basket-remove-modal a.c96 {
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+}
+
+#basket-remove-modal a.c96:hover,
+#basket-remove-modal a.c96:focus {
+  background-color: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
+
+
+/* REKAPITULACE OBJEDNÁVKY – úvodní instrukce zlatě a výrazněji */
+body.page-route-order h1 + p,
+#basket-order h1 + p {
+  color: #b88a2b !important;
+  font-size: 18px !important;
+  line-height: 1.45 !important;
+  font-weight: 800 !important;
+}
+
+
+/* DETAIL PRODUKTU – kategorie jako zlatá pilulka bez ikonky */
+.c783 a.c784 {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0 !important;
+  padding: 6px 12px !important;
+  border-radius: 999px !important;
+  background: #b88a2b !important;
+  color: #fff !important;
+  text-decoration: none !important;
+  font-weight: 700 !important;
+}
+
+.c783 a.c784 .c1454 {
+  display: none !important;
+}
+
+.c783 a.c784:hover,
+.c783 a.c784:focus {
+  background: #8f691d !important;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+
+/* ==========================================================
+   KOŠÍK – sjednocený profesionální FITNESSIO vzhled
+   čistá bílá plocha + černá typografie + zlaté akcenty
+   ========================================================== */
+body.page-route-basket {
+  background: #fff !important;
+  color: #252525 !important;
+}
+
+body.page-route-basket .information-header-fixed {
+  background: linear-gradient(135deg, #a88317 0%, #c19a25 100%) !important;
+  color: #fff !important;
+  border-radius: 0 0 16px 16px !important;
+  box-shadow: 0 5px 18px rgba(110, 83, 10, .18) !important;
+  font-weight: 600 !important;
+}
+
+body.page-route-basket #id-header-account__link,
+body.page-route-basket #menu-icon button {
+  background: #b88a2b !important;
+  border: 1px solid #b88a2b !important;
+  border-radius: 999px !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  box-shadow: 0 5px 14px rgba(184, 138, 43, .2) !important;
+}
+
+body.page-route-basket #id-header-account__link:hover,
+body.page-route-basket #id-header-account__link:focus,
+body.page-route-basket #menu-icon button:hover,
+body.page-route-basket #menu-icon button:focus {
+  background: #8f691d !important;
+  border-color: #8f691d !important;
+  color: #fff !important;
+}
+
+body.page-route-basket input[placeholder*="zadejte"],
+body.page-route-basket input[placeholder*="Zadejte"] {
+  border: 2px solid #d9d9d9 !important;
+  border-radius: 999px !important;
+  box-shadow: inset 0 1px 2px rgba(0,0,0,.03) !important;
+}
+
+body.page-route-basket input[placeholder*="zadejte"]:focus,
+body.page-route-basket input[placeholder*="Zadejte"]:focus {
+  border-color: #b88a2b !important;
+  box-shadow: 0 0 0 3px rgba(184, 138, 43, .14) !important;
+  outline: 0 !important;
+}
+
+body.page-route-basket #basket__form {
+  border-radius: 18px !important;
+}
+
+body.page-route-basket #basket__form .c1380 {
+  background: #fff !important;
+  border: 1px solid #e7e3da !important;
+  border-radius: 16px !important;
+  box-shadow: 0 8px 24px rgba(25, 25, 25, .06) !important;
+}
+
+body.page-route-basket #basket__form .c848 {
+  border: 1px solid #d8c18a !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+body.page-route-basket #basket__form .c848 > a,
+body.page-route-basket #basket__form .c848 > input {
+  border-color: #d8c18a !important;
+}
+
+body.page-route-basket #basket__form .c815 {
+  border-radius: 999px !important;
+  border-color: #d8c18a !important;
+}
+
+body.page-route-basket #basket__form button,
+body.page-route-basket #basket__form .c212 {
+  border-radius: 999px !important;
+}
+
+body.page-route-basket #basket__form .c212 {
+  background: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+}
+
+body.page-route-basket #basket__form .c212:hover,
+body.page-route-basket #basket__form .c212:focus {
+  background: #8f691d !important;
+  border-color: #8f691d !important;
+}
+
+body.page-route-basket a[href="/o-nas"],
+body.page-route-basket a[href*="obchodni-podminky"],
+body.page-route-basket a[href*="ochrana-osobnich-udaju"],
+body.page-route-basket a[href*="vraceni-zbozi"],
+body.page-route-basket a[href*="platby-objednavek"],
+body.page-route-basket a[href*="prodejna"],
+body.page-route-basket a[href*="doprava-a-platba"],
+body.page-route-basket a[href*="/kontakt"] {
+  background: #fbf8ef !important;
+  border: 1px solid #e2d4ad !important;
+  border-radius: 999px !important;
+  color: #8f691d !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+
+body.page-route-basket a[href="/o-nas"]:hover,
+body.page-route-basket a[href*="obchodni-podminky"]:hover,
+body.page-route-basket a[href*="ochrana-osobnich-udaju"]:hover,
+body.page-route-basket a[href*="vraceni-zbozi"]:hover,
+body.page-route-basket a[href*="platby-objednavek"]:hover,
+body.page-route-basket a[href*="prodejna"]:hover,
+body.page-route-basket a[href*="doprava-a-platba"]:hover,
+body.page-route-basket a[href*="/kontakt"]:hover {
+  background: #b88a2b !important;
+  border-color: #b88a2b !important;
+  color: #fff !important;
+}
+
+/* CHECKOUT – instrukční text – rozšířené cílení */
+body[class*="page-route-order"] h1 + p,
+body[class*="page-route-order"] h1 + div p,
+body[class*="order"] h1 + p,
+body[class*="order"] h1 + div p,
+#basket-order h1 + p,
+#basket-order h1 + div p {
+  color: #b88a2b !important;
+  font-weight: 900 !important;
+}
+
+
+/* CHECKOUT – instrukce podle checkout formuláře */
+body:has(button[name="order_process_next_step"]) h1 + p,
+body:has(button[name="order_process_next_step"]) h1 + div p,
+body:has([name="order_process_next_step"]) h1 + p,
+body:has([name="order_process_next_step"]) h1 + div p {
+  color: #b88a2b !important;
+  font-weight: 900 !important;
+}
+
+
+/* ==========================================================
+   CHECKOUT – rekapitulace: zvýraznění instrukce pod nadpisem
+   zlatá místo červené + výraznější řez
+   ========================================================== */
+body[class*="page-route-order"] h1 ~ p:first-of-type,
+body[class*="page-route-order"] h1 ~ div p:first-child,
+body:has([name="order_process_next_step"]) h1 ~ p:first-of-type,
+body:has([name="order_process_next_step"]) h1 ~ div p:first-child,
+#basket-order h1 ~ p:first-of-type,
+#basket-order h1 ~ div p:first-child {
+  color: #b88a2b !important;
+  font-weight: 900 !important;
+  font-size: 18px !important;
+  line-height: 1.45 !important;
+}
+
+
+/* ==========================================================
+   CHECKOUT – rekapitulace: přesný element instrukčního textu
+   markup ověřen v DevTools: p.c706
+   ========================================================== */
+body.page-route-recapitulation p.c706,
+body.page-route-recapitulation .c706 {
+  color: #b88a2b !important;
+  font-weight: 900 !important;
+  font-size: 18px !important;
+  line-height: 1.45 !important;
+}
+
+body.page-route-recapitulation p.c706 .basket-recapitulation__check-message-button,
+body.page-route-recapitulation .c706 .basket-recapitulation__check-message-button {
+  color: #b88a2b !important;
+  font-weight: 900 !important;
+}
+
+
+/* KOŠÍK – text „dopravu ZDARMA“ ve výzvě k dosažení dopravy zdarma zlatě */
+body.page-route-basket .basket-free-shipping strong,
+body.page-route-basket [class*="free-shipping"] strong,
+body.page-route-basket [class*="shipping"] strong {
+  color: #b88a2b !important;
+}
+
+
+/* KOŠÍK – přesný element textu „dopravu ZDARMA“ */
+body.page-route-basket .c1243 {
+  color: #b88a2b !important;
+}
+
+
+/* HEADER KOŠÍK – hover popup: zlatý progress + pilulkové CTA a množství */
+#header-basket__popup .progress > div,
+#header-basket__form .progress > div,
+#header-basket__popup [class*="progress"] > [class*="bg-"],
+#header-basket__form [class*="progress"] > [class*="bg-"] {
+  background-color: #b88a2b !important;
+}
+
+#header-basket__popup a[href*="e-basket"],
+#header-basket__form a[href*="e-basket"] {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+#header-basket__popup input.c190,
+#header-basket__form input.c190,
+#header-basket input.c190 {
+  border-radius: 999px !important;
+}
+
+
+/* HEADER KOŠÍK – progress dopravy: přebití zelené varianty */
+#header-basket .progress-bar,
+#header-basket__popup .progress-bar,
+#header-basket__form .progress-bar,
+#header-basket .bg-success,
+#header-basket__popup .bg-success,
+#header-basket__form .bg-success,
+#header-basket .bg-danger,
+#header-basket__popup .bg-danger,
+#header-basket__form .bg-danger {
+  background: #b88a2b !important;
+  background-color: #b88a2b !important;
+  border-color: #b88a2b !important;
+}
+
+
+/* ==========================================================
+   KATEGORIE / PODKATEGORIE – bez ikon kategorií (činek)
+   Ověřeno na živém Fitnessio: obrázky kategorií jsou v /category/menu/ a /category/list/
+   desktop + mobil
+   ========================================================== */
+img[src*="/category/menu/"],
+img[src*="/category/list/"] {
+  display: none !important;
+}
+
+
+/* ==========================================================
+   KATEGORIE / PODKATEGORIE – všechna okna jako pilulky
+   desktop + mobil
+   ========================================================== */
+/* Hlavní kategorie v menu */
+#categories-menu li,
+#categories-menu li > a,
+[class*="categories-menu"] li,
+[class*="categories-menu"] li > a,
+/* Výpis kategorií a podkategorií v obsahu */
+[class*="category"] > a,
+[class*="category"] li > a,
+[class*="subcategory"] > a,
+[class*="subcategory"] li > a,
+[class*="subcategories"] > a,
+[class*="subcategories"] li > a {
+  border-radius: 999px !important;
+}
+
+/* Oříznutí pozadí a hoveru do tvaru pilulky */
+#categories-menu li,
+#categories-menu li > a,
+[class*="categories-menu"] li,
+[class*="categories-menu"] li > a,
+[class*="category"] li,
+[class*="category"] li > a,
+[class*="subcategory"] li,
+[class*="subcategory"] li > a,
+[class*="subcategories"] li,
+[class*="subcategories"] li > a {
+  overflow: hidden !important;
+}
+
+
+/* ==========================================================
+   VÝPIS KATEGORIE – podkategorie nad produkty jako pilulky
+   DOM ověřen na živém Fitnessio: #subcategory-list > a.c660.c1537
+   desktop + mobil
+   ========================================================== */
+#subcategory-list > a,
+#subcategory-list > a.c660.c1537 {
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+
+/* ==========================================================
+   OBJEDNÁVKOVÉ KROKY – Přihlášení / Registrace světle šedá pilulka
+   DOM ověřen: #id-header-account__link.c477
+   ========================================================== */
+body[class*="page-route-basket"] #id-header-account__link.c477,
+body[class*="page-route-order"] #id-header-account__link.c477,
+body.page-route-recapitulation #id-header-account__link.c477 {
+  background: #f1f2f3 !important;
+  background-color: #f1f2f3 !important;
+  border-color: #e2e3e5 !important;
+  color: #30343a !important;
+}
+body[class*="page-route-basket"] #id-header-account__link.c477:hover,
+body[class*="page-route-basket"] #id-header-account__link.c477:focus,
+body[class*="page-route-order"] #id-header-account__link.c477:hover,
+body[class*="page-route-order"] #id-header-account__link.c477:focus,
+body.page-route-recapitulation #id-header-account__link.c477:hover,
+body.page-route-recapitulation #id-header-account__link.c477:focus {
+  background: #e7e8ea !important;
+  background-color: #e7e8ea !important;
+  border-color: #d8d9dc !important;
+  color: #30343a !important;
+}
+
+
+/* ==========================================================
+   DAFIT FEED – profesionální vzhled produktových popisů
+   Aktivuje JS formatter pouze na spárovaných produktech.
+   ========================================================== */
+.fitnessio-dafit-description {
+  --dafit-accent: #b88a2b;
+  --dafit-ink: #25282d;
+  --dafit-muted: #697078;
+  --dafit-line: #e5e7ea;
+  --dafit-soft: #f6f7f8;
+  color: var(--dafit-ink);
+  line-height: 1.65;
+}
+.fitnessio-dafit-description h2,
+.fitnessio-dafit-description h3,
+.fitnessio-dafit-description h4 {
+  color: var(--dafit-ink);
+  font-weight: 800;
+  line-height: 1.25;
+  margin: 1.7em 0 .65em;
+}
+.fitnessio-dafit-description h3 {
+  padding-left: 12px;
+  border-left: 4px solid var(--dafit-accent);
+}
+.fitnessio-dafit-description p { margin: 0 0 1em; }
+.fitnessio-dafit-nutrition {
+  margin: 22px 0;
+  border: 1px solid var(--dafit-line);
+  border-radius: 16px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(0,0,0,.05);
+}
+.fitnessio-dafit-nutrition > h3 {
+  margin: 0 !important;
+  padding: 16px 18px !important;
+  border: 0 !important;
+  background: var(--dafit-ink);
+  color: #fff !important;
+}
+.fitnessio-dafit-dose {
+  padding: 10px 18px;
+  background: #f4ead3;
+  color: #5b461c;
+  font-weight: 700;
+}
+.fitnessio-dafit-table { width: 100%; }
+.fitnessio-dafit-row {
+  display: grid;
+  grid-template-columns: minmax(0,1fr) max-content;
+  gap: 16px;
+  align-items: center;
+  padding: 11px 18px;
+  border-top: 1px solid var(--dafit-line);
+}
+.fitnessio-dafit-row:nth-child(even) { background: var(--dafit-soft); }
+.fitnessio-dafit-row strong {
+  text-align: right;
+  white-space: nowrap;
+  color: var(--dafit-ink);
+}
+.fitnessio-dafit-description table.fitnessio-dafit-table {
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border: 1px solid var(--dafit-line);
+  border-radius: 14px;
+}
+.fitnessio-dafit-description table.fitnessio-dafit-table th,
+.fitnessio-dafit-description table.fitnessio-dafit-table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--dafit-line);
+}
+.fitnessio-dafit-description table.fitnessio-dafit-table tr:nth-child(even) td { background: var(--dafit-soft); }
+@media (max-width: 640px) {
+  .fitnessio-dafit-row { padding: 10px 12px; gap: 10px; font-size: 14px; }
+  .fitnessio-dafit-nutrition > h3 { padding: 14px !important; }
+  .fitnessio-dafit-dose { padding: 9px 14px; }
+}
+
+
+/* ==========================================================
+   DAFIT FEED – CSS-only fallback pro popisy
+   Externí JS může šablona blokovat; toto se načítá přes již aktivní live CSS.
+   Cíl: odstranit extrémní mezery v importovaných popisech na mobilu i desktopu.
+   ========================================================== */
+body:has(img[src*="dafit.cz/userfiles/"]) #detail-anchor-description p,
+body:has(img[src*="dafit.cz/userfiles/"]) [id*="description"] p {
+  margin-top: 0 !important;
+  margin-bottom: .65rem !important;
+  line-height: 1.55 !important;
+}
+body:has(img[src*="dafit.cz/userfiles/"]) #detail-anchor-description br + br,
+body:has(img[src*="dafit.cz/userfiles/"]) [id*="description"] br + br {
+  display: none !important;
+}
+body:has(img[src*="dafit.cz/userfiles/"]) #detail-anchor-description p:empty,
+body:has(img[src*="dafit.cz/userfiles/"]) [id*="description"] p:empty {
+  display: none !important;
+}
+@media (max-width: 640px) {
+  body:has(img[src*="dafit.cz/userfiles/"]) #detail-anchor-description p,
+  body:has(img[src*="dafit.cz/userfiles/"]) [id*="description"] p {
+    margin-bottom: .45rem !important;
+    line-height: 1.45 !important;
+  }
+}
+
+
+/* ==========================================================
+   DAFIT – ověřený produkt ATP Creatine + EAA + Citicoline
+   Bez :has(), přímo podle body id z Eshop-rychle.
+   ========================================================== */
+/* Opraveno: nepoužívat neověřené body ID. Dafit produkt poznáme podle skutečného
+   odkazu/obrázku na www.dafit.cz, který je na živém detailu produktu. */
+body:has(a[href*="dafit.cz"]) p,
+body:has(img[src*="dafit.cz"]) p {
+  line-height: 1.5 !important;
+}
+
+/* Importované Dafit popisy mají velké mezery tvořené opakovanými BR.
+   Zredukujeme pouze sousední prázdné řádky. */
+body:has(a[href*="dafit.cz"]) p br + br,
+body:has(img[src*="dafit.cz"]) p br + br {
+  display: none !important;
+}
