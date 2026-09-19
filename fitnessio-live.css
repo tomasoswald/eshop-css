@@ -1,4 +1,4 @@
-/* FITNESSIO-LIVE BUILD: 2026-09-19-03 */
+/* FITNESSIO-LIVE BUILD: 2026-09-19-04 */
 /* FITNESSIO – živé CSS spravované přes GitHub
    Tento soubor je určen k načítání z e-shopu jako externí stylesheet. */
 
@@ -796,4 +796,29 @@ img[src*="/category/list/"] {
 #subcategory-list > a.c660.c1537 {
   border-radius: 999px !important;
   overflow: hidden !important;
+}
+
+
+/* ==========================================================
+   OBJEDNÁVKOVÉ KROKY – Přihlášení / Registrace světle šedá pilulka
+   DOM ověřen: #id-header-account__link.c477
+   ========================================================== */
+body[class*="page-route-basket"] #id-header-account__link.c477,
+body[class*="page-route-order"] #id-header-account__link.c477,
+body.page-route-recapitulation #id-header-account__link.c477 {
+  background: #f1f2f3 !important;
+  background-color: #f1f2f3 !important;
+  border-color: #e2e3e5 !important;
+  color: #30343a !important;
+}
+body[class*="page-route-basket"] #id-header-account__link.c477:hover,
+body[class*="page-route-basket"] #id-header-account__link.c477:focus,
+body[class*="page-route-order"] #id-header-account__link.c477:hover,
+body[class*="page-route-order"] #id-header-account__link.c477:focus,
+body.page-route-recapitulation #id-header-account__link.c477:hover,
+body.page-route-recapitulation #id-header-account__link.c477:focus {
+  background: #e7e8ea !important;
+  background-color: #e7e8ea !important;
+  border-color: #d8d9dc !important;
+  color: #30343a !important;
 }
