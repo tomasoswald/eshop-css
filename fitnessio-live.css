@@ -904,3 +904,31 @@ body.page-route-recapitulation #id-header-account__link.c477:focus {
   .fitnessio-dafit-nutrition > h3 { padding: 14px !important; }
   .fitnessio-dafit-dose { padding: 9px 14px; }
 }
+
+
+/* ==========================================================
+   DAFIT FEED – CSS-only fallback pro popisy
+   Externí JS může šablona blokovat; toto se načítá přes již aktivní live CSS.
+   Cíl: odstranit extrémní mezery v importovaných popisech na mobilu i desktopu.
+   ========================================================== */
+body:has(img[src*="dafit.cz/userfiles/"]) #detail-anchor-description p,
+body:has(img[src*="dafit.cz/userfiles/"]) [id*="description"] p {
+  margin-top: 0 !important;
+  margin-bottom: .65rem !important;
+  line-height: 1.55 !important;
+}
+body:has(img[src*="dafit.cz/userfiles/"]) #detail-anchor-description br + br,
+body:has(img[src*="dafit.cz/userfiles/"]) [id*="description"] br + br {
+  display: none !important;
+}
+body:has(img[src*="dafit.cz/userfiles/"]) #detail-anchor-description p:empty,
+body:has(img[src*="dafit.cz/userfiles/"]) [id*="description"] p:empty {
+  display: none !important;
+}
+@media (max-width: 640px) {
+  body:has(img[src*="dafit.cz/userfiles/"]) #detail-anchor-description p,
+  body:has(img[src*="dafit.cz/userfiles/"]) [id*="description"] p {
+    margin-bottom: .45rem !important;
+    line-height: 1.45 !important;
+  }
+}
