@@ -7,6 +7,20 @@
 - Usage: when a request refers to "produkty z feedu Dafit", use this feed as the source of truth and match its products to Fitnessio using stable identifiers discovered from the feed (EAN/SKU/item ID/etc.).
 - Added: 2026-09-19
 
+## Kulturistika
+
+- Feed URL: http://xml.golemos.com/kulturistika.php
+- Meaning: products originating from the Kulturistika supplier feed.
+- Usage: use the feed as the source of truth for supplier-feed membership and match products to Fitnessio using stable identifiers such as EAN/SKU/item ID.
+- Added: 2026-09-19
+
+## GymBeam Fitnessio
+
+- Feed URL: https://xml.golemos.com/gymbeamfitnessio.php
+- Meaning: products originating from the GymBeam feed prepared for Fitnessio.
+- Usage: use the feed as the source of truth for supplier-feed membership and match products to Fitnessio using stable identifiers such as EAN/SKU/item ID.
+- Added: 2026-09-19
+
 Do not infer feed membership from product brand or product name.
 
 
