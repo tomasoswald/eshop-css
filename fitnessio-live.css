@@ -822,3 +822,85 @@ body.page-route-recapitulation #id-header-account__link.c477:focus {
   border-color: #d8d9dc !important;
   color: #30343a !important;
 }
+
+
+/* ==========================================================
+   DAFIT FEED – profesionální vzhled produktových popisů
+   Aktivuje JS formatter pouze na spárovaných produktech.
+   ========================================================== */
+.fitnessio-dafit-description {
+  --dafit-accent: #b88a2b;
+  --dafit-ink: #25282d;
+  --dafit-muted: #697078;
+  --dafit-line: #e5e7ea;
+  --dafit-soft: #f6f7f8;
+  color: var(--dafit-ink);
+  line-height: 1.65;
+}
+.fitnessio-dafit-description h2,
+.fitnessio-dafit-description h3,
+.fitnessio-dafit-description h4 {
+  color: var(--dafit-ink);
+  font-weight: 800;
+  line-height: 1.25;
+  margin: 1.7em 0 .65em;
+}
+.fitnessio-dafit-description h3 {
+  padding-left: 12px;
+  border-left: 4px solid var(--dafit-accent);
+}
+.fitnessio-dafit-description p { margin: 0 0 1em; }
+.fitnessio-dafit-nutrition {
+  margin: 22px 0;
+  border: 1px solid var(--dafit-line);
+  border-radius: 16px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(0,0,0,.05);
+}
+.fitnessio-dafit-nutrition > h3 {
+  margin: 0 !important;
+  padding: 16px 18px !important;
+  border: 0 !important;
+  background: var(--dafit-ink);
+  color: #fff !important;
+}
+.fitnessio-dafit-dose {
+  padding: 10px 18px;
+  background: #f4ead3;
+  color: #5b461c;
+  font-weight: 700;
+}
+.fitnessio-dafit-table { width: 100%; }
+.fitnessio-dafit-row {
+  display: grid;
+  grid-template-columns: minmax(0,1fr) max-content;
+  gap: 16px;
+  align-items: center;
+  padding: 11px 18px;
+  border-top: 1px solid var(--dafit-line);
+}
+.fitnessio-dafit-row:nth-child(even) { background: var(--dafit-soft); }
+.fitnessio-dafit-row strong {
+  text-align: right;
+  white-space: nowrap;
+  color: var(--dafit-ink);
+}
+.fitnessio-dafit-description table.fitnessio-dafit-table {
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border: 1px solid var(--dafit-line);
+  border-radius: 14px;
+}
+.fitnessio-dafit-description table.fitnessio-dafit-table th,
+.fitnessio-dafit-description table.fitnessio-dafit-table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--dafit-line);
+}
+.fitnessio-dafit-description table.fitnessio-dafit-table tr:nth-child(even) td { background: var(--dafit-soft); }
+@media (max-width: 640px) {
+  .fitnessio-dafit-row { padding: 10px 12px; gap: 10px; font-size: 14px; }
+  .fitnessio-dafit-nutrition > h3 { padding: 14px !important; }
+  .fitnessio-dafit-dose { padding: 9px 14px; }
+}
