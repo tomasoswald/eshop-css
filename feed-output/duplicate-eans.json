@@ -38788,54 +38788,6 @@
     ]
   },
   {
-    "ean": "8594181600873",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8594181600873",
-        "ean_raw": "8594181600873",
-        "sku": "47370",
-        "name": "Extrifit CFM Instant Whey 80 2270 g blueberry"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "8594181600873",
-        "ean_raw": "8594181600873",
-        "sku": "1412",
-        "name": "Extrifit CFM Instant Whey 80 2,27kg - borůvka"
-      }
-    ]
-  },
-  {
-    "ean": "8594181600897",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8594181600897",
-        "ean_raw": "8594181600897",
-        "sku": "47374",
-        "name": "Extrifit CFM Instant Whey 80 2270 g strawberry"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "8594181600897",
-        "ean_raw": "8594181600897",
-        "sku": "1214",
-        "name": "Extrifit CFM Instant Whey 80 2,27kg - jahoda"
-      }
-    ]
-  },
-  {
     "ean": "8594181600910",
     "feeds": [
       "dafit",
@@ -40252,54 +40204,6 @@
     ]
   },
   {
-    "ean": "8594181602907",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8594181602907",
-        "ean_raw": "8594181602907",
-        "sku": "116806",
-        "name": "Extrifit CFM Instant Whey 80 2270 g strawberry banana"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "8594181602907",
-        "ean_raw": "8594181602907",
-        "sku": "775",
-        "name": "Extrifit CFM Instant Whey 80 2,27kg - jahoda, banán"
-      }
-    ]
-  },
-  {
-    "ean": "8594181602938",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8594181602938",
-        "ean_raw": "8594181602938",
-        "sku": "116778",
-        "name": "Extrifit CFM Instant Whey 80 2270 g caramel"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "8594181602938",
-        "ean_raw": "8594181602938",
-        "sku": "2379",
-        "name": "Extrifit CFM Instant Whey 80 2,27kg - karamel"
-      }
-    ]
-  },
-  {
     "ean": "8594181602945",
     "feeds": [
       "dafit",
@@ -40319,7 +40223,7 @@
         "ean": "8594181602945",
         "ean_raw": "8594181602945",
         "sku": "1817",
-        "name": "Extrifit CFM Instant Whey 80 2,27kg - kokosové mléko"
+        "name": "Extrifit CFM Instant Whey 80 2kg - kokosové mléko"
       }
     ]
   },
@@ -53793,6 +53697,174 @@
         "ean_raw": "8595697603129",
         "sku": "29644",
         "name": "Extrifit Electrolyte Salt Caps - 150 kapslí"
+      }
+    ]
+  },
+  {
+    "ean": "8595697603174",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595697603174",
+        "ean_raw": "8595697603174",
+        "sku": "405263",
+        "name": "Extrifit CFM Instant Whey 80 blueberry 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "8595697603174",
+        "ean_raw": "8595697603174",
+        "sku": "1412",
+        "name": "Extrifit CFM Instant Whey 80 2kg - borůvka"
+      }
+    ]
+  },
+  {
+    "ean": "8595697603181",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595697603181",
+        "ean_raw": "8595697603181",
+        "sku": "405262",
+        "name": "Extrifit CFM Instant Whey 80 banana 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "8595697603181",
+        "ean_raw": "8595697603181",
+        "sku": "1217",
+        "name": "Extrifit CFM Instant Whey 80 2kg - banán"
+      }
+    ]
+  },
+  {
+    "ean": "8595697603235",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595697603235",
+        "ean_raw": "8595697603235",
+        "sku": "405265",
+        "name": "Extrifit CFM Instant Whey 80 cookies 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "8595697603235",
+        "ean_raw": "8595697603235",
+        "sku": "2247",
+        "name": "Extrifit CFM Instant Whey 80 2kg - cookies"
+      }
+    ]
+  },
+  {
+    "ean": "8595697603242",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595697603242",
+        "ean_raw": "8595697603242",
+        "sku": "405269",
+        "name": "Extrifit CFM Instant Whey 80 choco coco 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "8595697603242",
+        "ean_raw": "8595697603242",
+        "sku": "1411",
+        "name": "Extrifit CFM Instant Whey 80 2kg - čoko-kokos"
+      }
+    ]
+  },
+  {
+    "ean": "8595697603259",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595697603259",
+        "ean_raw": "8595697603259",
+        "sku": "405266",
+        "name": "Extrifit CFM Instant Whey 80 chocolate 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "8595697603259",
+        "ean_raw": "8595697603259",
+        "sku": "1216",
+        "name": "Extrifit CFM Instant Whey 80 2kg - čokoláda"
+      }
+    ]
+  },
+  {
+    "ean": "8595697603273",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595697603273",
+        "ean_raw": "8595697603273",
+        "sku": "408192",
+        "name": "Extrifit CFM Instant Whey 80 strawberry banana 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "8595697603273",
+        "ean_raw": "8595697603273",
+        "sku": "775",
+        "name": "Extrifit CFM Instant Whey 80 2kg - jahoda, banán"
+      }
+    ]
+  },
+  {
+    "ean": "8595697603280",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595697603280",
+        "ean_raw": "8595697603280",
+        "sku": "405264",
+        "name": "Extrifit CFM Instant Whey 80 vanilla 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "8595697603280",
+        "ean_raw": "8595697603280",
+        "sku": "1215",
+        "name": "Extrifit CFM Instant Whey 80 2kg - vanilka"
       }
     ]
   },
