@@ -15510,17 +15510,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "4251087101418",
-    "ean_raw": "4251087101418",
-    "sku": "50492",
-    "name": "Legal Power Tepláky 6202-405 bílá M",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "4251087101517",
     "ean_raw": "4251087101517",
     "sku": "50485",
@@ -15679,6 +15668,17 @@
     "ean_raw": "4251087102231",
     "sku": "50527",
     "name": "Legal Power Tepláky 6202-922 šedá XL",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "4251087102248",
+    "ean_raw": "4251087102248",
+    "sku": "390921",
+    "name": "Legal Power Tepláky 6202-922 šedá XXL",
     "feeds": [
       "dafit"
     ],
@@ -18139,6 +18139,17 @@
   },
   {
     "feed": "dafit",
+    "ean": "4251087181960",
+    "ean_raw": "4251087181960",
+    "sku": "50492",
+    "name": "Legal Power Tepláky 6202-405 bílá M",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "4251087181977",
     "ean_raw": "4251087181977",
     "sku": "50491",
@@ -18242,6 +18253,17 @@
     "ean_raw": "4251087183407",
     "sku": "343731",
     "name": "Legal Power Tepláky 6202-952 šedá XL",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "4251087183414",
+    "ean_raw": "4251087183414",
+    "sku": "343732",
+    "name": "Legal Power Tepláky 6202-952 šedá XXL",
     "feeds": [
       "dafit"
     ],
@@ -104297,7 +104319,7 @@
     "ean": "8586022214998",
     "ean_raw": "8586022214998",
     "sku": "57457",
-    "name": "Colla Pink - BeastPink + dárek lesní ovoce",
+    "name": "Colla Pink - BeastPink lesní ovoce",
     "feeds": [
       "gymbeam"
     ],
@@ -104308,7 +104330,7 @@
     "ean": "8586022215001",
     "ean_raw": "8586022215001",
     "sku": "57454",
-    "name": "Colla Pink - BeastPink + dárek hrozny",
+    "name": "Colla Pink - BeastPink hrozny",
     "feeds": [
       "gymbeam"
     ],
@@ -144482,7 +144504,7 @@
     "ean": "8586025955850",
     "ean_raw": "8586025955850",
     "sku": "90922",
-    "name": "Colla Pink - BeastPink + dárek malina",
+    "name": "Colla Pink - BeastPink malina",
     "feeds": [
       "gymbeam"
     ],
@@ -216793,6 +216815,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028776186",
+    "ean_raw": "8586028776186",
+    "sku": "121930",
+    "name": "Kreatin Glow by Lauri - GymBeam jahoda kiwi",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028776193",
     "ean_raw": "8586028776193",
     "sku": "119095",
@@ -218212,10 +218245,87 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028780473",
+    "ean_raw": "8586028780473",
+    "sku": "122563",
+    "name": "Nattokináza enzym - GymBeam 180 kaps.",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028780602",
     "ean_raw": "8586028780602",
     "sku": "123385",
     "name": "Magnézium citrát kapsle - GymBeam 240 kaps.",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028780763",
+    "ean_raw": "8586028780763",
+    "sku": "122497",
+    "name": "Bourbon vanilkový cukr - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028780787",
+    "ean_raw": "8586028780787",
+    "sku": "124081",
+    "name": "Ponožky Ruffle 3Pack Pink- GymBeam multicolor S",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028780794",
+    "ean_raw": "8586028780794",
+    "sku": "124086",
+    "name": "Ponožky Ruffle 3Pack Pink- GymBeam multicolor M",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028780800",
+    "ean_raw": "8586028780800",
+    "sku": "124106",
+    "name": "Ponožky OG1 Lifting - GymBeam multicolor S",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028780817",
+    "ean_raw": "8586028780817",
+    "sku": "124111",
+    "name": "Ponožky OG1 Lifting - GymBeam multicolor M",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028780824",
+    "ean_raw": "8586028780824",
+    "sku": "124116",
+    "name": "Ponožky OG1 Lifting - GymBeam multicolor L",
     "feeds": [
       "gymbeam"
     ],
@@ -218421,10 +218531,10 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586028782880",
-    "ean_raw": "8586028782880",
-    "sku": "122212",
-    "name": "Red Light Therapy pleťová maska - GymBeam bílá",
+    "ean": "8586028782934",
+    "ean_raw": "8586028782934",
+    "sku": "65749",
+    "name": "Sardinky v olivovém oleji - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -218432,10 +218542,10 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586028782934",
-    "ean_raw": "8586028782934",
-    "sku": "65749",
-    "name": "Sardinky v olivovém oleji - GymBeam",
+    "ean": "8586028785201",
+    "ean_raw": "8586028785201",
+    "sku": "123394",
+    "name": "Kurkumin + Vitamin E - GymBeam 180 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -218524,6 +218634,17 @@
     "ean_raw": "8586028786864",
     "sku": "122596",
     "name": "Vitamín B-Complex Forte - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028786932",
+    "ean_raw": "8586028786932",
+    "sku": "122482",
+    "name": "Pre-workout Crazy Pump 2.0 - GymBeam zelené jablko",
     "feeds": [
       "gymbeam"
     ],
@@ -223894,7 +224015,7 @@
     "ean": "8588007275734",
     "ean_raw": "8588007275734",
     "sku": "29716",
-    "name": "Colla Pink - BeastPink + dárek jahodová limonáda",
+    "name": "Colla Pink - BeastPink jahodová limonáda",
     "feeds": [
       "gymbeam"
     ],
@@ -223905,7 +224026,7 @@
     "ean": "8588007275741",
     "ean_raw": "8588007275741",
     "sku": "29717",
-    "name": "Colla Pink - BeastPink + dárek mango pomeranč",
+    "name": "Colla Pink - BeastPink mango pomeranč",
     "feeds": [
       "gymbeam"
     ],
@@ -266234,7 +266355,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 3
+    "occurrences": 4
   },
   {
     "feed": "dafit",

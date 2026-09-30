@@ -1401,7 +1401,6 @@
 4251087100725,Legal Power Tepláky 6202-777 červená L,405488,dafit,dafit,1
 4251087100732,Legal Power Tepláky 6202-777 červená XL,405489,dafit,dafit,1
 4251087100749,Legal Power Tepláky 6202-777 červená XXL,405490,dafit,dafit,1
-4251087101418,Legal Power Tepláky 6202-405 bílá M,50492,dafit,dafit,1
 4251087101517,Legal Power Tepláky 6202-405 žlutá M,50485,dafit,dafit,1
 4251087101524,Legal Power Tepláky 6202-405 žlutá L,50486,dafit,dafit,1
 4251087101531,Legal Power Tepláky 6202-405 žlutá XL,50487,dafit,dafit,1
@@ -1417,6 +1416,7 @@
 4251087102217,Legal Power Tepláky 6202-922 šedá M,390923,dafit,dafit,1
 4251087102224,Legal Power Tepláky 6202-922 šedá L,50526,dafit,dafit,1
 4251087102231,Legal Power Tepláky 6202-922 šedá XL,50527,dafit,dafit,1
+4251087102248,Legal Power Tepláky 6202-922 šedá XXL,390921,dafit,dafit,1
 4251087102262,Legal Power Tepláky 6202-922 modrá M,340463,dafit,dafit,1
 4251087102279,Legal Power Tepláky 6202-922 modrá L,50534,dafit,dafit,1
 4251087102286,Legal Power Tepláky 6202-922 modrá XL,50535,dafit,dafit,1
@@ -1640,6 +1640,7 @@
 4251087181861,Legal Power Tepláky 6202-405 šedá XXL,50479,dafit,dafit,1
 4251087181878,Legal Power Tepláky 6202-405 šedá XXL,50480,dafit,dafit,1
 4251087181908,Legal Power Tepláky 6202-405 vínová M,335331,dafit,dafit,1
+4251087181960,Legal Power Tepláky 6202-405 bílá M,50492,dafit,dafit,1
 4251087181977,Legal Power Tepláky 6202-405 bílá L,50491,dafit,dafit,1
 4251087181984,Legal Power Tepláky 6202-405 bílá XL,50490,dafit,dafit,1
 4251087181991,Legal Power Tepláky 6202-405 bílá XXL,50489,dafit,dafit,1
@@ -1650,6 +1651,7 @@
 4251087183384,Legal Power Tepláky 6202-952 šedá M,343729,dafit,dafit,1
 4251087183391,Legal Power Tepláky 6202-952 šedá L,343730,dafit,dafit,1
 4251087183407,Legal Power Tepláky 6202-952 šedá XL,343731,dafit,dafit,1
+4251087183414,Legal Power Tepláky 6202-952 šedá XXL,343732,dafit,dafit,1
 4251087183438,Legal Power Tepláky 6202-952 červená M,343706,dafit,dafit,1
 4251087183445,Legal Power Tepláky 6202-952 červená L,343715,dafit,dafit,1
 4251087183469,Legal Power Tepláky 6202-952 červená XXL,343717,dafit,dafit,1
@@ -9368,8 +9370,8 @@
 8586022214936,BIO Proteinová kaše - VanaVita banán,59935,gymbeam,gymbeam,1
 8586022214943,BIO Proteinová kaše - VanaVita malina,59938,gymbeam,gymbeam,1
 8586022214974,Proteinové chipsy - GymBeam chilli a limetka,59359,gymbeam,gymbeam,1
-8586022214998,Colla Pink - BeastPink + dárek lesní ovoce,57457,gymbeam,gymbeam,1
-8586022215001,Colla Pink - BeastPink + dárek hrozny,57454,gymbeam,gymbeam,1
+8586022214998,Colla Pink - BeastPink lesní ovoce,57457,gymbeam,gymbeam,1
+8586022215001,Colla Pink - BeastPink hrozny,57454,gymbeam,gymbeam,1
 8586022215018,Yum Yum Whey - BeastPink strawberry splash,57688,gymbeam,gymbeam,1
 8586022215025,BIO Panenský avokádový olej - VanaVita,58534,gymbeam,gymbeam,1
 8586022215032,MoiMüv Protein Flapjack - GymBeam borůvkový muffin,60799,gymbeam,gymbeam,1
@@ -13021,7 +13023,7 @@
 8586025955829,Tanga kalhotky 3Pack Šedá - GymBeam šedá XXL,92086,gymbeam,gymbeam,1
 8586025955836,Reflexní vesta Pulse - GymBeam černá S/M,92059,gymbeam,gymbeam,1
 8586025955843,Reflexní vesta Pulse - GymBeam černá L/XL,92056,gymbeam,gymbeam,1
-8586025955850,Colla Pink - BeastPink + dárek malina,90922,gymbeam,gymbeam,1
+8586025955850,Colla Pink - BeastPink malina,90922,gymbeam,gymbeam,1
 8586025955867,Vrchní díl plavek HAWAII Black - GymBeam černá XS,92725,gymbeam,gymbeam,1
 8586025955874,Vrchní díl plavek CURACAO Black - GymBeam černá XS,92851,gymbeam,gymbeam,1
 8586025955881,Vrchní díl plavek HAWAII Black - GymBeam černá S,92722,gymbeam,gymbeam,1
@@ -19595,6 +19597,7 @@
 8586028776131,Mikina Persistence Washed Brown - GymBeam hnědá L,121885,gymbeam,gymbeam,1
 8586028776148,Mikina Persistence Washed Brown - GymBeam hnědá XL,121888,gymbeam,gymbeam,1
 8586028776155,Mikina Persistence Washed Brown - GymBeam hnědá XXL,121891,gymbeam,gymbeam,1
+8586028776186,Kreatin Glow by Lauri - GymBeam jahoda kiwi,121930,gymbeam,gymbeam,1
 8586028776193,Tričko Boxy Athletic Society Black - GymBeam černá XXXL,119095,gymbeam,gymbeam,1
 8586028776339,Xylitol v prášku - GymBeam,123481,gymbeam,gymbeam,1
 8586028776346,BIO Xylitol - GymBeam,123487,gymbeam,gymbeam,1
@@ -19724,7 +19727,14 @@
 8586028779378,Dámská mikina Cropped Mochi Pink - GymBeam růžová XXL,122923,gymbeam,gymbeam,1
 8586028779750,Magnésium malát - GymBeam 180 kaps.,123370,gymbeam,gymbeam,1
 8586028780466,B-Komplex 100 % šumivý - GymBeam pomeranč,115711,gymbeam,gymbeam,1
+8586028780473,Nattokináza enzym - GymBeam 180 kaps.,122563,gymbeam,gymbeam,1
 8586028780602,Magnézium citrát kapsle - GymBeam 240 kaps.,123385,gymbeam,gymbeam,1
+8586028780763,Bourbon vanilkový cukr - GymBeam,122497,gymbeam,gymbeam,1
+8586028780787,Ponožky Ruffle 3Pack Pink- GymBeam multicolor S,124081,gymbeam,gymbeam,1
+8586028780794,Ponožky Ruffle 3Pack Pink- GymBeam multicolor M,124086,gymbeam,gymbeam,1
+8586028780800,Ponožky OG1 Lifting - GymBeam multicolor S,124106,gymbeam,gymbeam,1
+8586028780817,Ponožky OG1 Lifting - GymBeam multicolor M,124111,gymbeam,gymbeam,1
+8586028780824,Ponožky OG1 Lifting - GymBeam multicolor L,124116,gymbeam,gymbeam,1
 8586028781654,TEMPO Hydrate - GymBeam vodní meloun,122017,gymbeam,gymbeam,1
 8586028781708,Pink Creatine - GymBeam mango marakuja,121915,gymbeam,gymbeam,1
 8586028781715,Pink Creatine - GymBeam broskev,121921,gymbeam,gymbeam,1
@@ -19743,8 +19753,8 @@
 8586028782415,Otužovací vana Ice Bath Compact - GymBeam,122941,gymbeam,gymbeam,1
 8586028782446,Sardinky ve vlastní šťávě - GymBeam,65746,gymbeam,gymbeam,1
 8586028782613,Nootropický herní komplex LOCK IN x Fnatic - GymBeam mango marakuja,121909,gymbeam,gymbeam,1
-8586028782880,Red Light Therapy pleťová maska - GymBeam bílá,122212,gymbeam,gymbeam,1
 8586028782934,Sardinky v olivovém oleji - GymBeam,65749,gymbeam,gymbeam,1
+8586028785201,Kurkumin + Vitamin E - GymBeam 180 kaps.,123394,gymbeam,gymbeam,1
 8586028785737,CreaGlow Anjablaa - GymBeam Wild berry,122575,gymbeam,gymbeam,1
 8586028786246,Vitamín C + zinek - GymBeam,122989,gymbeam,gymbeam,1
 8586028786253,Vitamín C + zinek - GymBeam,122992,gymbeam,gymbeam,1
@@ -19753,6 +19763,7 @@
 8586028786598,Berberin - GymBeam 120 kaps.,123442,gymbeam,gymbeam,1
 8586028786635,Berberin - GymBeam 240 kaps.,123436,gymbeam,gymbeam,1
 8586028786864,Vitamín B-Complex Forte - GymBeam,122596,gymbeam,gymbeam,1
+8586028786932,Pre-workout Crazy Pump 2.0 - GymBeam zelené jablko,122482,gymbeam,gymbeam,1
 8586028786987,Tekuté vaječné bílky - GymBeam bez příchuti,36382,gymbeam,gymbeam,1
 8586028787267,Vápník - GymBeam,123406,gymbeam,gymbeam,1
 8586028787274,Vápník - GymBeam,123409,gymbeam,gymbeam,1
@@ -20240,8 +20251,8 @@
 8588007275703,Fitness Dámské rukavice Camo Pink - GymBeam růžová M,28100,gymbeam,gymbeam,1
 8588007275710,Amino Beast - BeastPink zelené jablko,29713,gymbeam,gymbeam,1
 8588007275727,Amino Beast - BeastPink mango marakuja,29714,gymbeam,gymbeam,1
-8588007275734,Colla Pink - BeastPink + dárek jahodová limonáda,29716,gymbeam,gymbeam,1
-8588007275741,Colla Pink - BeastPink + dárek mango pomeranč,29717,gymbeam,gymbeam,1
+8588007275734,Colla Pink - BeastPink jahodová limonáda,29716,gymbeam,gymbeam,1
+8588007275741,Colla Pink - BeastPink mango pomeranč,29717,gymbeam,gymbeam,1
 8588007275758,Zázvorový shot - GymBeam bez příchuti,29853,gymbeam,gymbeam,1
 8588007275765,Inosin - GymBeam 120 kaps.,29749,gymbeam,gymbeam,1
 8588007275772,Jammy Spread - GymBeam jablko,29855,gymbeam,gymbeam,1
@@ -24016,7 +24027,7 @@
 8595612014573,ATP Vitality Premium Rice Protein 1000 g pistácie,399858,dafit,dafit,1
 8595612014580,ATP Vitality Premium Rice Protein 1000 g cappuccino,399860,dafit,dafit,1
 8595612014610,ATP Vitality Cordyceps Prime 90 tob,402534,dafit,dafit,1
-8595612014627,ATP Vitality K2 MK-7 200µg 90 tob,402375,dafit,dafit,3
+8595612014627,ATP Vitality K2 MK-7 200µg 90 tob,402375,dafit,dafit,4
 8595612014634,ATP Vitality DigeZyme + BioPerine 90 tob,402535,dafit,dafit,1
 8595612014696,ATP Nutrition Clear Whey Isolate 90% 550 g pomelo marshmallow,401964,dafit,dafit,1
 8595612014702,ATP Nutrition Clear Whey Isolate 90% 550 g cherry lollipop,401961,dafit,dafit,1

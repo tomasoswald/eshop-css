@@ -48683,7 +48683,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 3,
+    "occurrences": 4,
     "products": [
       {
         "feed": "dafit",
@@ -48704,6 +48704,13 @@
         "ean": "8595612014627",
         "ean_raw": "8595612014627",
         "sku": "406603",
+        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612014627",
+        "ean_raw": "8595612014627",
+        "sku": "410479",
         "name": "ATP Vitality K2 MK-7 200µg 90 tob"
       }
     ]

@@ -12855,20 +12855,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "338568",
-    "name": "Extrifit 100% Whey Protein 30 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "338701",
     "name": "Barebells Protein Bar 55 g"
   },
@@ -13459,20 +13445,6 @@
     "ean_raw": "",
     "sku": "340081",
     "name": "Legal Power Tepláky 6202-922 šedá"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "340091",
-    "name": "Ehrmann High Protein Shot 250 ml"
   },
   {
     "feed": "dafit",
@@ -15314,13 +15286,6 @@
     "ean_raw": "",
     "sku": "",
     "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "343732",
-    "name": "Legal Power Tepláky 6202-952 šedá XXL"
   },
   {
     "feed": "dafit",
@@ -22447,20 +22412,6 @@
     "ean_raw": "",
     "sku": "",
     "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "368656",
-    "name": "Pandy Candy 50 g"
   },
   {
     "feed": "dafit",
@@ -29921,20 +29872,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "382445",
-    "name": "Amix Cornella Müsli Bar 50 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "",
     "name": ""
   },
@@ -32882,13 +32819,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "390921",
-    "name": "Legal Power Tepláky 6202-922 šedá XXL"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "",
     "name": ""
   },
@@ -33073,20 +33003,6 @@
     "ean_raw": "",
     "sku": "391197",
     "name": "ATP Nutrition EAA 360 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "391238",
-    "name": "Amix Whey-Pro FUSION 2300 g"
   },
   {
     "feed": "dafit",
@@ -41457,20 +41373,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "409575",
-    "name": "Puhdistamo Kookos-Vesi 310 ml"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "409737",
     "name": "AKCE Applied Nutrition Critical Whey Protein 2000g +ZDARMA Creatine 250g + B Complex 90cps"
   },
@@ -41942,6 +41844,13 @@
     "ean_raw": "",
     "sku": "410382",
     "name": "Extrifit Regel 25 x 80 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
   },
   {
     "feed": "dafit",
