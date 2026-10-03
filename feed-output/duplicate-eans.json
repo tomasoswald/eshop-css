@@ -168,30 +168,6 @@
     ]
   },
   {
-    "ean": "1230000066617",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "1230000066617",
-        "ean_raw": "1230000066617",
-        "sku": "322061",
-        "name": "Lenny & Larry´s The Complete Cookie 113 g white chocolate macadamia"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "1230000066617",
-        "ean_raw": "1230000066617",
-        "sku": "7653",
-        "name": "Lenny&Larry's Complete cookie 113g - bílá čokoláda, makadamové oříšky"
-      }
-    ]
-  },
-  {
     "ean": "2700002411115",
     "feeds": [
       "dafit",
@@ -4566,30 +4542,6 @@
     ]
   },
   {
-    "ean": "5056357916438",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "5056357916438",
-        "ean_raw": "5056357916438",
-        "sku": "393336",
-        "name": "Mars HiProtein Mars Low Sugar 57 g white chocolate"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "5056357916438",
-        "ean_raw": "5056357916438",
-        "sku": "27900",
-        "name": "Mars Low Sugar High Protein Bar 57g - bílá čokoláda"
-      }
-    ]
-  },
-  {
     "ean": "5056357916469",
     "feeds": [
       "dafit",
@@ -5642,54 +5594,6 @@
         "ean_raw": "5056569900553",
         "sku": "94870",
         "name": "C4 Original PWO Shot - Cellucor citrus berry"
-      }
-    ]
-  },
-  {
-    "ean": "5059883116631",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "5059883116631",
-        "ean_raw": "5059883116631",
-        "sku": "380494",
-        "name": "MyProtein Bar Brownie 75 g chocolate chunk"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "5059883116631",
-        "ean_raw": "5059883116631",
-        "sku": "19839",
-        "name": "MyProtein Protein Brownie 75g - čokoláda"
-      }
-    ]
-  },
-  {
-    "ean": "5059883116648",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "5059883116648",
-        "ean_raw": "5059883116648",
-        "sku": "397248",
-        "name": "MyProtein Bar Brownie 75 g white chocolate chunk"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "5059883116648",
-        "ean_raw": "5059883116648",
-        "sku": "19838",
-        "name": "MyProtein Protein Brownie 75g - bílá čokoláda"
       }
     ]
   },
@@ -8513,7 +8417,7 @@
         "ean": "5060245600507",
         "ean_raw": "5060245600507",
         "sku": "4251",
-        "name": "100% Whey Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda"
       }
     ]
   },
@@ -8569,7 +8473,7 @@
         "ean": "5060245600668",
         "ean_raw": "5060245600668",
         "sku": "4250",
-        "name": "100% Whey Gold Standard - Optimum Nutrition jahoda"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition jahoda"
       }
     ]
   },
@@ -8785,7 +8689,7 @@
         "ean": "5060245603935",
         "ean_raw": "5060245603935",
         "sku": "4249",
-        "name": "100% Whey Gold Standard - Optimum Nutrition vanilková zmrzlina"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition vanilková zmrzlina"
       }
     ]
   },
@@ -8809,7 +8713,7 @@
         "ean": "5060245604277",
         "ean_raw": "5060245604277",
         "sku": "4291",
-        "name": "100% Whey Gold Standard - Optimum Nutrition lahodná jahoda"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition lahodná jahoda"
       }
     ]
   },
@@ -9625,7 +9529,7 @@
         "ean": "5060469989303",
         "ean_raw": "5060469989303",
         "sku": "4290",
-        "name": "100% Whey Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda"
       }
     ]
   },
@@ -9649,31 +9553,7 @@
         "ean": "5060469989310",
         "ean_raw": "5060469989310",
         "sku": "4294",
-        "name": "100% Whey Gold Standard - Optimum Nutrition vanilková zmrzlina"
-      }
-    ]
-  },
-  {
-    "ean": "5060746509217",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "5060746509217",
-        "ean_raw": "5060746509217",
-        "sku": "380504",
-        "name": "MyProtein Crispy Layered 58 g chocolate caramel"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "5060746509217",
-        "ean_raw": "5060746509217",
-        "sku": "23102",
-        "name": "MyProtein Crispy Layered Bar 58g - čokoláda, karamel"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition vanilková zmrzlina"
       }
     ]
   },
@@ -9969,7 +9849,7 @@
         "ean": "5060751998488",
         "ean_raw": "5060751998488",
         "sku": "117091",
-        "name": "100% Whey Gold Standard - Optimum Nutrition vanilková zmrzlina"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition vanilková zmrzlina"
       }
     ]
   },
@@ -10001,7 +9881,7 @@
         "ean": "5060751998501",
         "ean_raw": "5060751998501",
         "sku": "117100",
-        "name": "100% Whey Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda"
       }
     ]
   },
@@ -10033,7 +9913,7 @@
         "ean": "5060751998624",
         "ean_raw": "5060751998624",
         "sku": "117097",
-        "name": "100% Whey Gold Standard - Optimum Nutrition mimořádně mléčná čokoláda"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition mimořádně mléčná čokoláda"
       }
     ]
   },
@@ -10065,7 +9945,7 @@
         "ean": "5060751998631",
         "ean_raw": "5060751998631",
         "sku": "117088",
-        "name": "100% Whey Gold Standard - Optimum Nutrition lahodná jahoda"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition lahodná jahoda"
       }
     ]
   },
@@ -10097,7 +9977,7 @@
         "ean": "5060751998648",
         "ean_raw": "5060751998648",
         "sku": "117094",
-        "name": "100% Whey Gold Standard - Optimum Nutrition cookies & cream"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition cookies & cream"
       }
     ]
   },
@@ -10129,7 +10009,7 @@
         "ean": "5060751998655",
         "ean_raw": "5060751998655",
         "sku": "117085",
-        "name": "100% Whey Gold Standard - Optimum Nutrition banánový krém"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition banánový krém"
       }
     ]
   },
@@ -10153,7 +10033,7 @@
         "ean": "5060751999157",
         "ean_raw": "5060751999157",
         "sku": "122005",
-        "name": "100% Whey Gold Standard - Optimum Nutrition francouzský vanilkový krém"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition francouzský vanilkový krém"
       }
     ]
   },
@@ -10177,7 +10057,7 @@
         "ean": "5060751999164",
         "ean_raw": "5060751999164",
         "sku": "122011",
-        "name": "100% Whey Gold Standard - Optimum Nutrition čokoláda arašidové máslo"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition čokoláda arašidové máslo"
       }
     ]
   },
@@ -10201,7 +10081,7 @@
         "ean": "5060751999171",
         "ean_raw": "5060751999171",
         "sku": "122008",
-        "name": "100% Whey Gold Standard - Optimum Nutrition čokoláda lískový oříšek"
+        "name": "Protein 100% Whey Gold Standard - Optimum Nutrition čokoláda lískový oříšek"
       }
     ]
   },
@@ -16946,6 +16826,30 @@
         "ean_raw": "5999076267477",
         "sku": "57972",
         "name": "BiotechUSA 100% Pure Whey 28g - rich chocolate"
+      }
+    ]
+  },
+  {
+    "ean": "5999076269181",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999076269181",
+        "ean_raw": "5999076269181",
+        "sku": "334086",
+        "name": "Biotech Zero Sauce Barbecue 350 ml"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999076269181",
+        "ean_raw": "5999076269181",
+        "sku": "15936",
+        "name": "BiotechUSA Zero Sauce 350ml - pálivý česnek"
       }
     ]
   },
@@ -47503,20 +47407,13 @@
       "dafit",
       "kulturistika"
     ],
-    "occurrences": 3,
+    "occurrences": 2,
     "products": [
       {
         "feed": "dafit",
         "ean": "8595612010698",
         "ean_raw": "8595612010698",
         "sku": "347825",
-        "name": "ATP Vitality Gelatina Caps 100 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612010698",
-        "ean_raw": "8595612010698",
-        "sku": "406873",
         "name": "ATP Vitality Gelatina Caps 100 tob"
       },
       {
@@ -48153,29 +48050,6 @@
     ]
   },
   {
-    "ean": "8595612013613",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595612013613",
-        "ean_raw": "8595612013613",
-        "sku": "390039",
-        "name": "ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612013613",
-        "ean_raw": "8595612013613",
-        "sku": "408423",
-        "name": "ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko"
-      }
-    ]
-  },
-  {
     "ean": "8595612013675",
     "feeds": [
       "dafit",
@@ -48244,66 +48118,6 @@
         "ean_raw": "8595612013736",
         "sku": "27977",
         "name": "ATP Pure Erythritol Sweetener - 750g"
-      }
-    ]
-  },
-  {
-    "ean": "8595612014009",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595612014009",
-        "ean_raw": "8595612014009",
-        "sku": "396163",
-        "name": "ATP Vitality Ginger Extract + Vitamin C 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014009",
-        "ean_raw": "8595612014009",
-        "sku": "406594",
-        "name": "ATP Vitality Ginger Extract + Vitamin C 90 tob"
-      }
-    ]
-  },
-  {
-    "ean": "8595612014627",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 4,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "402375",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "405606",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "406603",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "410479",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
       }
     ]
   },

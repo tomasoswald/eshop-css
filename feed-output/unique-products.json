@@ -1333,10 +1333,9 @@
     "sku": "322061",
     "name": "Lenny & Larry´s The Complete Cookie 113 g white chocolate macadamia",
     "feeds": [
-      "dafit",
-      "kulturistika"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "kulturistika",
@@ -26169,17 +26168,6 @@
     "occurrences": 1
   },
   {
-    "feed": "kulturistika",
-    "ean": "5055534300206",
-    "ean_raw": "5055534300206",
-    "sku": "26214",
-    "name": "MyProtein Creatine monohydrate tabs - 250 tablet",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
     "feed": "dafit",
     "ean": "5055534301012",
     "ean_raw": "5055534301012",
@@ -26229,28 +26217,6 @@
     "ean_raw": "5055534302071",
     "sku": "22557",
     "name": "MyProtein L-Glutamine - 500g",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5055534302187",
-    "ean_raw": "5055534302187",
-    "sku": "19798",
-    "name": "MyProtein Essential BCAA 2:1:1 1000g - bez příchutě",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5055534302200",
-    "ean_raw": "5055534302200",
-    "sku": "19796",
-    "name": "MyProtein Essential BCAA 2:1:1 500g - bez příchutě",
     "feeds": [
       "kulturistika"
     ],
@@ -26412,17 +26378,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "5055534304266",
-    "ean_raw": "5055534304266",
-    "sku": "29718",
-    "name": "MyProtein Tribulus - 90 kapslí",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "5055534306475",
     "ean_raw": "5055534306475",
     "sku": "18242",
@@ -26519,39 +26474,6 @@
     "ean_raw": "5055534317129",
     "sku": "18232",
     "name": "MyProtein Impact Whey Protein 2500g - vanilka, malina",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5055534319680",
-    "ean_raw": "5055534319680",
-    "sku": "19807",
-    "name": "MyProtein Casein protein 1000g - čokoláda",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5055534319697",
-    "ean_raw": "5055534319697",
-    "sku": "19806",
-    "name": "MyProtein Casein protein 1000g - jahoda",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5055534319703",
-    "ean_raw": "5055534319703",
-    "sku": "19808",
-    "name": "MyProtein Casein protein 1000g - vanilka",
     "feeds": [
       "kulturistika"
     ],
@@ -26824,98 +26746,10 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "5056185744586",
-    "ean_raw": "5056185744586",
-    "sku": "19799",
-    "name": "MyProtein Essential BCAA 2:1:1 1000g - tropické ovoce",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5056185744593",
-    "ean_raw": "5056185744593",
-    "sku": "19793",
-    "name": "MyProtein Essential BCAA 2:1:1 1000g - lesní plody",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "5056185746948",
     "ean_raw": "5056185746948",
     "sku": "22556",
     "name": "MyProtein FlavDrops 50ml - lískový oříšek",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5056185786241",
-    "ean_raw": "5056185786241",
-    "sku": "19792",
-    "name": "MyProtein Essential BCAA 2:1:1 500g - tropické ovoce",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5056185786265",
-    "ean_raw": "5056185786265",
-    "sku": "19795",
-    "name": "MyProtein Essential BCAA 2:1:1 500g - lesní plody",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5056185786272",
-    "ean_raw": "5056185786272",
-    "sku": "19794",
-    "name": "MyProtein Essential BCAA 2:1:1 500g - vodní meloun",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5056185786296",
-    "ean_raw": "5056185786296",
-    "sku": "19801",
-    "name": "MyProtein Essential BCAA 2:1:1 1000g - vodní meloun",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5056185786340",
-    "ean_raw": "5056185786340",
-    "sku": "19797",
-    "name": "MyProtein Essential BCAA 2:1:1 500g - mango, broskev",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5056185786357",
-    "ean_raw": "5056185786357",
-    "sku": "19800",
-    "name": "MyProtein Essential BCAA 2:1:1 1000g - mango, broskev",
     "feeds": [
       "kulturistika"
     ],
@@ -27255,28 +27089,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "5056307395504",
-    "ean_raw": "5056307395504",
-    "sku": "19834",
-    "name": "MyProtein HMB - 180 tablet",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5056307395818",
-    "ean_raw": "5056307395818",
-    "sku": "24613",
-    "name": "MyProtein Casein protein 1000g - bez příchutě",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "5056357900079",
     "ean_raw": "5056357900079",
     "sku": "15873",
@@ -27596,10 +27408,9 @@
     "sku": "393336",
     "name": "Mars HiProtein Mars Low Sugar 57 g white chocolate",
     "feeds": [
-      "dafit",
-      "kulturistika"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -27624,6 +27435,17 @@
       "kulturistika"
     ],
     "occurrences": 2
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5056357917947",
+    "ean_raw": "5056357917947",
+    "sku": "27900",
+    "name": "Mars Low Sugar High Protein Bar 57g - bílá čokoláda",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -29770,39 +29592,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "5059883097480",
-    "ean_raw": "5059883097480",
-    "sku": "28646",
-    "name": "MyProtein Impact Protein Bar 64g - karamel a oříšky",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5059883097497",
-    "ean_raw": "5059883097497",
-    "sku": "28648",
-    "name": "MyProtein Impact Protein Bar 64g - čokoládové brownie",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5059883097503",
-    "ean_raw": "5059883097503",
-    "sku": "28647",
-    "name": "MyProtein Impact Protein Bar 64g - hořká čokoláda se solí",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "5059883114583",
     "ean_raw": "5059883114583",
     "sku": "29729",
@@ -29819,10 +29608,9 @@
     "sku": "380494",
     "name": "MyProtein Bar Brownie 75 g chocolate chunk",
     "feeds": [
-      "dafit",
-      "kulturistika"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -29831,10 +29619,9 @@
     "sku": "397248",
     "name": "MyProtein Bar Brownie 75 g white chocolate chunk",
     "feeds": [
-      "dafit",
-      "kulturistika"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -37124,19 +36911,7 @@
     "sku": "380504",
     "name": "MyProtein Crispy Layered 58 g chocolate caramel",
     "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5060746509231",
-    "ean_raw": "5060746509231",
-    "sku": "23101",
-    "name": "MyProtein Crispy Layered Bar 58g - bílá čokoláda, arašídy",
-    "feeds": [
-      "kulturistika"
+      "dafit"
     ],
     "occurrences": 1
   },
@@ -37598,7 +37373,7 @@
     "ean": "5060751998495",
     "ean_raw": "5060751998495",
     "sku": "117079",
-    "name": "100% Whey Gold Standard - Optimum Nutrition vanilková zmrzlina",
+    "name": "Protein 100% Whey Gold Standard - Optimum Nutrition vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -37622,7 +37397,7 @@
     "ean": "5060751998518",
     "ean_raw": "5060751998518",
     "sku": "117082",
-    "name": "100% Whey Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda",
+    "name": "Protein 100% Whey Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -37633,7 +37408,7 @@
     "ean": "5060751998525",
     "ean_raw": "5060751998525",
     "sku": "117073",
-    "name": "100% Whey Gold Standard - Optimum Nutrition lahodná jahoda",
+    "name": "Protein 100% Whey Gold Standard - Optimum Nutrition lahodná jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -37644,7 +37419,7 @@
     "ean": "5060751998570",
     "ean_raw": "5060751998570",
     "sku": "117067",
-    "name": "100% Whey Gold Standard - Optimum Nutrition mimořádně mléčná čokoláda",
+    "name": "Protein 100% Whey Gold Standard - Optimum Nutrition mimořádně mléčná čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -37655,7 +37430,7 @@
     "ean": "5060751998587",
     "ean_raw": "5060751998587",
     "sku": "117076",
-    "name": "100% Whey Gold Standard - Optimum Nutrition francouzský vanilkový krém",
+    "name": "Protein 100% Whey Gold Standard - Optimum Nutrition francouzský vanilkový krém",
     "feeds": [
       "gymbeam"
     ],
@@ -37666,7 +37441,7 @@
     "ean": "5060751998594",
     "ean_raw": "5060751998594",
     "sku": "117061",
-    "name": "100% Whey Gold Standard - Optimum Nutrition čokoláda arašidové máslo",
+    "name": "Protein 100% Whey Gold Standard - Optimum Nutrition čokoláda arašidové máslo",
     "feeds": [
       "gymbeam"
     ],
@@ -37677,7 +37452,7 @@
     "ean": "5060751998600",
     "ean_raw": "5060751998600",
     "sku": "117064",
-    "name": "100% Whey Gold Standard - Optimum Nutrition cookies & cream",
+    "name": "Protein 100% Whey Gold Standard - Optimum Nutrition cookies & cream",
     "feeds": [
       "gymbeam"
     ],
@@ -37688,7 +37463,7 @@
     "ean": "5060751998617",
     "ean_raw": "5060751998617",
     "sku": "117070",
-    "name": "100% Whey Gold Standard - Optimum Nutrition banánový krém",
+    "name": "Protein 100% Whey Gold Standard - Optimum Nutrition banánový krém",
     "feeds": [
       "gymbeam"
     ],
@@ -37751,7 +37526,7 @@
     "ean": "5060751999140",
     "ean_raw": "5060751999140",
     "sku": "121999",
-    "name": "100% Whey Gold Standard - Optimum Nutrition čokoláda lískový oříšek",
+    "name": "Protein 100% Whey Gold Standard - Optimum Nutrition čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -37798,7 +37573,7 @@
     "ean": "5060751999188",
     "ean_raw": "5060751999188",
     "sku": "122002",
-    "name": "100% Whey Gold Standard - Optimum Nutrition bez příchuti",
+    "name": "Protein 100% Whey Gold Standard - Optimum Nutrition bez příchuti",
     "feeds": [
       "gymbeam"
     ],
@@ -43062,17 +42837,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "5902837740980",
-    "ean_raw": "5902837740980",
-    "sku": "18539",
-    "name": "Allnutrition Nutlove milk chocolate bar 69g -mléčná čokoláda, kokos",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "5902837741024",
     "ean_raw": "5902837741024",
     "sku": "20014",
@@ -43088,17 +42852,6 @@
     "ean_raw": "5902837741031",
     "sku": "18578",
     "name": "Allnutrition F**king Delicious Cookie 135g - čokoládové kousky",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5902837741154",
-    "ean_raw": "5902837741154",
-    "sku": "18538",
-    "name": "Allnutrition Nutlove milk chocolate bar 69g - mléčná čokoláda, lískové oříšky",
     "feeds": [
       "kulturistika"
     ],
@@ -56865,17 +56618,6 @@
     "occurrences": 1
   },
   {
-    "feed": "kulturistika",
-    "ean": "5999076233199",
-    "ean_raw": "5999076233199",
-    "sku": "15936",
-    "name": "BiotechUSA Zero Sauce 350ml - pálivý česnek",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
     "feed": "dafit",
     "ean": "5999076233687",
     "ean_raw": "5999076233687",
@@ -60708,9 +60450,10 @@
     "sku": "334086",
     "name": "Biotech Zero Sauce Barbecue 350 ml",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -63028,17 +62771,6 @@
     "ean_raw": "5999100022669",
     "sku": "22633",
     "name": "Scitec 100% Vegan Protein 33g - lískový oříšek",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5999100022676",
-    "ean_raw": "5999100022676",
-    "sku": "22632",
-    "name": "Scitec 100% Vegan Protein 33g - sušenka s hruškou",
     "feeds": [
       "kulturistika"
     ],
@@ -84040,6 +83772,17 @@
     "occurrences": 2
   },
   {
+    "feed": "kulturistika",
+    "ean": "787692838349",
+    "ean_raw": "787692838349",
+    "sku": "7653",
+    "name": "Lenny&Larry's Complete cookie 113g - bílá čokoláda, makadamové oříšky",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
     "feed": "gymbeam",
     "ean": "7890001225143",
     "ean_raw": "7890001225143",
@@ -87282,6 +87025,28 @@
     "ean_raw": "810007541044",
     "sku": "17293",
     "name": "Syntrax Micellar Creme 907g - jahodový milkshake",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "810007541358",
+    "ean_raw": "810007541358",
+    "sku": "58544",
+    "name": "Syntrax Láhev Aero Bottle 800ml - růžová",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "810007541372",
+    "ean_raw": "810007541372",
+    "sku": "58545",
+    "name": "Syntrax Láhev Aero Bottle 800ml - modrá",
     "feeds": [
       "kulturistika"
     ],
@@ -103862,7 +103627,7 @@
     "ean": "8586022214288",
     "ean_raw": "8586022214288",
     "sku": "57067",
-    "name": "True Whey - GymBeam čokoláda kokos",
+    "name": "Protein True Whey - GymBeam čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -103873,7 +103638,7 @@
     "ean": "8586022214295",
     "ean_raw": "8586022214295",
     "sku": "57070",
-    "name": "True Whey - GymBeam jahoda",
+    "name": "Protein True Whey - GymBeam jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -103884,7 +103649,7 @@
     "ean": "8586022214301",
     "ean_raw": "8586022214301",
     "sku": "57073",
-    "name": "True Whey - GymBeam vanilka stévie",
+    "name": "Protein True Whey - GymBeam vanilka stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -104478,7 +104243,7 @@
     "ean": "8586022215018",
     "ean_raw": "8586022215018",
     "sku": "57688",
-    "name": "Protein Yum Yum Whey - BeastPink strawberry splash",
+    "name": "Yum Yum Whey - BeastPink strawberry splash",
     "feeds": [
       "gymbeam"
     ],
@@ -105644,7 +105409,7 @@
     "ean": "8586022216831",
     "ean_raw": "8586022216831",
     "sku": "62851",
-    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -105655,7 +105420,7 @@
     "ean": "8586022216848",
     "ean_raw": "8586022216848",
     "sku": "62848",
-    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -105666,7 +105431,7 @@
     "ean": "8586022216855",
     "ean_raw": "8586022216855",
     "sku": "62854",
-    "name": "Protein Yum Yum Whey - BeastPink strawberry splash",
+    "name": "Yum Yum Whey - BeastPink strawberry splash",
     "feeds": [
       "gymbeam"
     ],
@@ -106832,7 +106597,7 @@
     "ean": "8586022218347",
     "ean_raw": "8586022218347",
     "sku": "28438",
-    "name": "True Whey - GymBeam cookies & cream",
+    "name": "Protein True Whey - GymBeam cookies & cream",
     "feeds": [
       "gymbeam"
     ],
@@ -106843,7 +106608,7 @@
     "ean": "8586022218354",
     "ean_raw": "8586022218354",
     "sku": "5079",
-    "name": "True Whey - GymBeam cookies & cream",
+    "name": "Protein True Whey - GymBeam cookies & cream",
     "feeds": [
       "gymbeam"
     ],
@@ -109694,7 +109459,7 @@
     "ean": "8586024621688",
     "ean_raw": "8586024621688",
     "sku": "81016",
-    "name": "True Whey - GymBeam vanilka",
+    "name": "Protein True Whey - GymBeam vanilka",
     "feeds": [
       "gymbeam"
     ],
@@ -142837,7 +142602,7 @@
     "ean": "8586025953221",
     "ean_raw": "8586025953221",
     "sku": "91735",
-    "name": "Protein Yum Yum Whey - BeastPink karamelová sušenka",
+    "name": "Yum Yum Whey - BeastPink karamelová sušenka",
     "feeds": [
       "gymbeam"
     ],
@@ -154090,7 +153855,7 @@
     "ean": "8586026393682",
     "ean_raw": "8586026393682",
     "sku": "96865",
-    "name": "Protein Yum Yum Whey - BeastPink karamelová sušenka",
+    "name": "Yum Yum Whey - BeastPink karamelová sušenka",
     "feeds": [
       "gymbeam"
     ],
@@ -173879,7 +173644,7 @@
     "ean": "8586027394305",
     "ean_raw": "8586027394305",
     "sku": "104710",
-    "name": "Sójový izolát - GymBeam slaný karamel",
+    "name": "Protein sójový izolát - GymBeam slaný karamel",
     "feeds": [
       "gymbeam"
     ],
@@ -173890,7 +173655,7 @@
     "ean": "8586027394312",
     "ean_raw": "8586027394312",
     "sku": "104707",
-    "name": "Sójový izolát - GymBeam banán",
+    "name": "Protein sójový izolát - GymBeam banán",
     "feeds": [
       "gymbeam"
     ],
@@ -189587,7 +189352,7 @@
     "ean": "8586028122389",
     "ean_raw": "8586028122389",
     "sku": "110326",
-    "name": "True Whey - GymBeam bez příchuti",
+    "name": "Protein True Whey - GymBeam bez příchuti",
     "feeds": [
       "gymbeam"
     ],
@@ -189598,7 +189363,7 @@
     "ean": "8586028122396",
     "ean_raw": "8586028122396",
     "sku": "110329",
-    "name": "True Whey - GymBeam bez příchuti",
+    "name": "Protein True Whey - GymBeam bez příchuti",
     "feeds": [
       "gymbeam"
     ],
@@ -189962,6 +189727,17 @@
     "ean_raw": "8586028122747",
     "sku": "107566",
     "name": "Vápník + vitamin D3 šumivý - GymBeam pomeranč",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028122754",
+    "ean_raw": "8586028122754",
+    "sku": "110401",
+    "name": "Glukomanan a chrom komplex - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -197793,7 +197569,7 @@
     "ean": "8586028136171",
     "ean_raw": "8586028136171",
     "sku": "113308",
-    "name": "Sójový izolát - GymBeam banán",
+    "name": "Protein sójový izolát - GymBeam banán",
     "feeds": [
       "gymbeam"
     ],
@@ -197804,7 +197580,7 @@
     "ean": "8586028136188",
     "ean_raw": "8586028136188",
     "sku": "113311",
-    "name": "Sójový izolát - GymBeam čokoláda",
+    "name": "Protein sójový izolát - GymBeam čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -197815,7 +197591,7 @@
     "ean": "8586028136195",
     "ean_raw": "8586028136195",
     "sku": "113314",
-    "name": "Sójový izolát - GymBeam slaný karamel",
+    "name": "Protein sójový izolát - GymBeam slaný karamel",
     "feeds": [
       "gymbeam"
     ],
@@ -197826,7 +197602,7 @@
     "ean": "8586028136201",
     "ean_raw": "8586028136201",
     "sku": "113317",
-    "name": "Sójový izolát - GymBeam vanilka",
+    "name": "Protein sójový izolát - GymBeam vanilka",
     "feeds": [
       "gymbeam"
     ],
@@ -214172,7 +213948,7 @@
     "ean": "8586028771969",
     "ean_raw": "8586028771969",
     "sku": "122026",
-    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -214183,7 +213959,7 @@
     "ean": "8586028771976",
     "ean_raw": "8586028771976",
     "sku": "122023",
-    "name": "Protein Yum Yum Whey - BeastPink čokoláda lískový oříšek",
+    "name": "Yum Yum Whey - BeastPink čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -214194,7 +213970,7 @@
     "ean": "8586028771983",
     "ean_raw": "8586028771983",
     "sku": "122020",
-    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -214205,7 +213981,7 @@
     "ean": "8586028771990",
     "ean_raw": "8586028771990",
     "sku": "122014",
-    "name": "Protein Yum Yum Whey - BeastPink jahoda",
+    "name": "Yum Yum Whey - BeastPink jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -215526,6 +215302,17 @@
     "ean_raw": "8586028774656",
     "sku": "122347",
     "name": "ProEAA + Glutamin - GymBeam pomeranč",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028774663",
+    "ean_raw": "8586028774663",
+    "sku": "122338",
+    "name": "ProEAA + Glutamin - GymBeam citrón limetka",
     "feeds": [
       "gymbeam"
     ],
@@ -217161,10 +216948,21 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028777558",
+    "ean_raw": "8586028777558",
+    "sku": "124201",
+    "name": "Mangové chutney - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028777572",
     "ean_raw": "8586028777572",
     "sku": "123716",
-    "name": "True Whey - GymBeam mango marakuja",
+    "name": "Protein True Whey - GymBeam mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -217175,7 +216973,7 @@
     "ean": "8586028777589",
     "ean_raw": "8586028777589",
     "sku": "123721",
-    "name": "True Whey - GymBeam mango marakuja",
+    "name": "Protein True Whey - GymBeam mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -217186,7 +216984,7 @@
     "ean": "8586028777596",
     "ean_raw": "8586028777596",
     "sku": "123726",
-    "name": "True Whey - GymBeam černý rybíz",
+    "name": "Protein True Whey - GymBeam černý rybíz",
     "feeds": [
       "gymbeam"
     ],
@@ -217197,7 +216995,7 @@
     "ean": "8586028777602",
     "ean_raw": "8586028777602",
     "sku": "123731",
-    "name": "True Whey - GymBeam černý rybíz",
+    "name": "Protein True Whey - GymBeam černý rybíz",
     "feeds": [
       "gymbeam"
     ],
@@ -218767,6 +218565,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028785836",
+    "ean_raw": "8586028785836",
+    "sku": "123846",
+    "name": "Pace Hoodie Black - GymBeam černá M",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028785843",
     "ean_raw": "8586028785843",
     "sku": "123851",
@@ -218822,6 +218631,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028785911",
+    "ean_raw": "8586028785911",
+    "sku": "123881",
+    "name": "Pace Longsleeve Black - GymBeam černá L",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028785928",
     "ean_raw": "8586028785928",
     "sku": "123886",
@@ -218855,10 +218675,32 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028785959",
+    "ean_raw": "8586028785959",
+    "sku": "123906",
+    "name": "Women's Pace Longsleeve Black - GymBeam černá S",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028785966",
     "ean_raw": "8586028785966",
     "sku": "123911",
     "name": "Women's Pace Longsleeve Black - GymBeam černá M",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028785973",
+    "ean_raw": "8586028785973",
+    "sku": "123916",
+    "name": "Women's Pace Longsleeve Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -218943,6 +218785,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028786055",
+    "ean_raw": "8586028786055",
+    "sku": "123966",
+    "name": "Women's Pace Leggings Black - GymBeam černá S",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028786062",
     "ean_raw": "8586028786062",
     "sku": "123971",
@@ -218998,6 +218851,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028786116",
+    "ean_raw": "8586028786116",
+    "sku": "124001",
+    "name": "Pace 2in1 Shorts Black - GymBeam černá L",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028786123",
     "ean_raw": "8586028786123",
     "sku": "124006",
@@ -219024,6 +218888,28 @@
     "ean_raw": "8586028786147",
     "sku": "124021",
     "name": "Women's Pace 2in1 Shorts Black - GymBeam černá XS",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028786154",
+    "ean_raw": "8586028786154",
+    "sku": "124026",
+    "name": "Women's Pace 2in1 Shorts Black - GymBeam černá S",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028786161",
+    "ean_raw": "8586028786161",
+    "sku": "124031",
+    "name": "Women's Pace 2in1 Shorts Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -219178,6 +219064,17 @@
     "ean_raw": "8586028786987",
     "sku": "36382",
     "name": "Tekuté vaječné bílky - GymBeam bez příchuti",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028787205",
+    "ean_raw": "8586028787205",
+    "sku": "122593",
+    "name": "L-Theanin - GymBeam 180 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -221124,7 +221021,7 @@
     "ean": "8588006139068",
     "ean_raw": "8588006139068",
     "sku": "5218",
-    "name": "True Whey - GymBeam čokoláda kokos",
+    "name": "Protein True Whey - GymBeam čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -221179,7 +221076,7 @@
     "ean": "8588006139235",
     "ean_raw": "8588006139235",
     "sku": "5217",
-    "name": "True Whey - GymBeam bílá čokoláda",
+    "name": "Protein True Whey - GymBeam bílá čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -221212,7 +221109,7 @@
     "ean": "8588006139273",
     "ean_raw": "8588006139273",
     "sku": "5219",
-    "name": "True Whey - GymBeam banán",
+    "name": "Protein True Whey - GymBeam banán",
     "feeds": [
       "gymbeam"
     ],
@@ -221531,7 +221428,7 @@
     "ean": "8588006139808",
     "ean_raw": "8588006139808",
     "sku": "5076",
-    "name": "True Whey - GymBeam čokoláda",
+    "name": "Protein True Whey - GymBeam čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -221542,7 +221439,7 @@
     "ean": "8588006139815",
     "ean_raw": "8588006139815",
     "sku": "5077",
-    "name": "True Whey - GymBeam vanilka",
+    "name": "Protein True Whey - GymBeam vanilka",
     "feeds": [
       "gymbeam"
     ],
@@ -221553,7 +221450,7 @@
     "ean": "8588006139822",
     "ean_raw": "8588006139822",
     "sku": "5078",
-    "name": "True Whey - GymBeam jahoda",
+    "name": "Protein True Whey - GymBeam jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -221641,7 +221538,7 @@
     "ean": "8588006139969",
     "ean_raw": "8588006139969",
     "sku": "5013",
-    "name": "Sójový izolát - GymBeam čokoláda",
+    "name": "Protein sójový izolát - GymBeam čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -221696,7 +221593,7 @@
     "ean": "8588006485028",
     "ean_raw": "8588006485028",
     "sku": "5663",
-    "name": "True Whey - GymBeam čokoláda lískový oříšek",
+    "name": "Protein True Whey - GymBeam čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -221883,7 +221780,7 @@
     "ean": "8588006485370",
     "ean_raw": "8588006485370",
     "sku": "6222",
-    "name": "Sójový izolát - GymBeam vanilka",
+    "name": "Protein sójový izolát - GymBeam vanilka",
     "feeds": [
       "gymbeam"
     ],
@@ -221894,7 +221791,7 @@
     "ean": "8588006485387",
     "ean_raw": "8588006485387",
     "sku": "5216",
-    "name": "True Whey - GymBeam karamel",
+    "name": "Protein True Whey - GymBeam karamel",
     "feeds": [
       "gymbeam"
     ],
@@ -222037,7 +221934,7 @@
     "ean": "8588006485622",
     "ean_raw": "8588006485622",
     "sku": "6428",
-    "name": "True Whey - GymBeam čokoláda",
+    "name": "Protein True Whey - GymBeam čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -222048,7 +221945,7 @@
     "ean": "8588006485639",
     "ean_raw": "8588006485639",
     "sku": "6429",
-    "name": "True Whey - GymBeam čokoláda kokos",
+    "name": "Protein True Whey - GymBeam čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -222059,7 +221956,7 @@
     "ean": "8588006485646",
     "ean_raw": "8588006485646",
     "sku": "6430",
-    "name": "True Whey - GymBeam vanilka",
+    "name": "Protein True Whey - GymBeam vanilka",
     "feeds": [
       "gymbeam"
     ],
@@ -222070,7 +221967,7 @@
     "ean": "8588006485653",
     "ean_raw": "8588006485653",
     "sku": "6431",
-    "name": "True Whey - GymBeam jahoda",
+    "name": "Protein True Whey - GymBeam jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -222092,7 +221989,7 @@
     "ean": "8588006485684",
     "ean_raw": "8588006485684",
     "sku": "6617",
-    "name": "True Whey - GymBeam bílá čokoláda",
+    "name": "Protein True Whey - GymBeam bílá čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -222103,7 +222000,7 @@
     "ean": "8588006485721",
     "ean_raw": "8588006485721",
     "sku": "6670",
-    "name": "True Whey - GymBeam banán",
+    "name": "Protein True Whey - GymBeam banán",
     "feeds": [
       "gymbeam"
     ],
@@ -222312,7 +222209,7 @@
     "ean": "8588006751024",
     "ean_raw": "8588006751024",
     "sku": "7276",
-    "name": "True Whey - GymBeam pistácie",
+    "name": "Protein True Whey - GymBeam pistácie",
     "feeds": [
       "gymbeam"
     ],
@@ -222323,7 +222220,7 @@
     "ean": "8588006751031",
     "ean_raw": "8588006751031",
     "sku": "7277",
-    "name": "True Whey - GymBeam pistácie",
+    "name": "Protein True Whey - GymBeam pistácie",
     "feeds": [
       "gymbeam"
     ],
@@ -222510,7 +222407,7 @@
     "ean": "8588006751208",
     "ean_raw": "8588006751208",
     "sku": "7912",
-    "name": "True Whey - GymBeam čokoláda stévie",
+    "name": "Protein True Whey - GymBeam čokoláda stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222521,7 +222418,7 @@
     "ean": "8588006751215",
     "ean_raw": "8588006751215",
     "sku": "7911",
-    "name": "True Whey - GymBeam vanilka stévie",
+    "name": "Protein True Whey - GymBeam vanilka stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222532,7 +222429,7 @@
     "ean": "8588006751222",
     "ean_raw": "8588006751222",
     "sku": "7910",
-    "name": "True Whey - GymBeam jahoda stévie",
+    "name": "Protein True Whey - GymBeam jahoda stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222543,7 +222440,7 @@
     "ean": "8588006751239",
     "ean_raw": "8588006751239",
     "sku": "7916",
-    "name": "True Whey - GymBeam čokoláda stévie",
+    "name": "Protein True Whey - GymBeam čokoláda stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222554,7 +222451,7 @@
     "ean": "8588006751246",
     "ean_raw": "8588006751246",
     "sku": "7914",
-    "name": "True Whey - GymBeam vanilka stévie",
+    "name": "Protein True Whey - GymBeam vanilka stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222565,7 +222462,7 @@
     "ean": "8588006751253",
     "ean_raw": "8588006751253",
     "sku": "7913",
-    "name": "True Whey - GymBeam jahoda stévie",
+    "name": "Protein True Whey - GymBeam jahoda stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222851,7 +222748,7 @@
     "ean": "8588006751635",
     "ean_raw": "8588006751635",
     "sku": "7064",
-    "name": "True Whey - GymBeam čokoláda lískový oříšek",
+    "name": "Protein True Whey - GymBeam čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -224053,7 +223950,7 @@
     "ean": "8588007275116",
     "ean_raw": "8588007275116",
     "sku": "28938",
-    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -224064,7 +223961,7 @@
     "ean": "8588007275123",
     "ean_raw": "8588007275123",
     "sku": "28937",
-    "name": "Protein Yum Yum Whey - BeastPink čokoláda lískový oříšek",
+    "name": "Yum Yum Whey - BeastPink čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -224075,7 +223972,7 @@
     "ean": "8588007275130",
     "ean_raw": "8588007275130",
     "sku": "28939",
-    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -224757,7 +224654,7 @@
     "ean": "8588007570174",
     "ean_raw": "8588007570174",
     "sku": "30361",
-    "name": "True Whey - GymBeam karamel",
+    "name": "Protein True Whey - GymBeam karamel",
     "feeds": [
       "gymbeam"
     ],
@@ -224768,7 +224665,7 @@
     "ean": "8588007570181",
     "ean_raw": "8588007570181",
     "sku": "30299",
-    "name": "True Whey - GymBeam čokoláda třešeň",
+    "name": "Protein True Whey - GymBeam čokoláda třešeň",
     "feeds": [
       "gymbeam"
     ],
@@ -224779,7 +224676,7 @@
     "ean": "8588007570198",
     "ean_raw": "8588007570198",
     "sku": "30298",
-    "name": "True Whey - GymBeam čokoláda třešeň",
+    "name": "Protein True Whey - GymBeam čokoláda třešeň",
     "feeds": [
       "gymbeam"
     ],
@@ -224790,7 +224687,7 @@
     "ean": "8588007570204",
     "ean_raw": "8588007570204",
     "sku": "6427",
-    "name": "True Whey - GymBeam bílá čokoláda malina",
+    "name": "Protein True Whey - GymBeam bílá čokoláda malina",
     "feeds": [
       "gymbeam"
     ],
@@ -224801,7 +224698,7 @@
     "ean": "8588007570211",
     "ean_raw": "8588007570211",
     "sku": "6168",
-    "name": "True Whey - GymBeam bílá čokoláda malina",
+    "name": "Protein True Whey - GymBeam bílá čokoláda malina",
     "feeds": [
       "gymbeam"
     ],
@@ -224812,7 +224709,7 @@
     "ean": "8588007570228",
     "ean_raw": "8588007570228",
     "sku": "30297",
-    "name": "True Whey - GymBeam arašídové máslo",
+    "name": "Protein True Whey - GymBeam arašídové máslo",
     "feeds": [
       "gymbeam"
     ],
@@ -224823,7 +224720,7 @@
     "ean": "8588007570235",
     "ean_raw": "8588007570235",
     "sku": "30296",
-    "name": "True Whey - GymBeam arašídové máslo",
+    "name": "Protein True Whey - GymBeam arašídové máslo",
     "feeds": [
       "gymbeam"
     ],
@@ -232232,6 +232129,17 @@
     "ean_raw": "8594017421733",
     "sku": "27562",
     "name": "Nutrend Protein Cookie Dough 800g - čokoláda",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8594017421764",
+    "ean_raw": "8594017421764",
+    "sku": "58542",
+    "name": "Nutrend 100% Whey Protein 400g - pistácie",
     "feeds": [
       "kulturistika"
     ],
@@ -265286,7 +265194,7 @@
       "dafit",
       "kulturistika"
     ],
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -266093,7 +266001,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -266492,7 +266400,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -266811,7 +266719,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 4
+    "occurrences": 1
   },
   {
     "feed": "dafit",
