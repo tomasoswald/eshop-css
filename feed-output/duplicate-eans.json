@@ -20670,6 +20670,294 @@
     ]
   },
   {
+    "ean": "5999100042278",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042278",
+        "ean_raw": "5999100042278",
+        "sku": "409927",
+        "name": "Scitec Nutrition 100% WP Professional 400 g vanilla"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042278",
+        "ean_raw": "5999100042278",
+        "sku": "7202",
+        "name": "Scitec 100% Whey Protein Professional 400g - vanilka"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042292",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042292",
+        "ean_raw": "5999100042292",
+        "sku": "409926",
+        "name": "Scitec Nutrition 100% WP Professional 400 g strawberry"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042292",
+        "ean_raw": "5999100042292",
+        "sku": "7200",
+        "name": "Scitec 100% Whey Protein Professional 400g - jahoda"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042322",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042322",
+        "ean_raw": "5999100042322",
+        "sku": "409925",
+        "name": "Scitec Nutrition 100% WP Professional 400 g chocolate coconut"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042322",
+        "ean_raw": "5999100042322",
+        "sku": "7195",
+        "name": "Scitec 100% Whey Protein Professional 400g - čokoláda, kokos"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042339",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042339",
+        "ean_raw": "5999100042339",
+        "sku": "409932",
+        "name": "Scitec Nutrition 100% WP Professional 400 g chocolate cookies cream"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042339",
+        "ean_raw": "5999100042339",
+        "sku": "7196",
+        "name": "Scitec 100% Whey Protein Professional 400g - čokoláda, cookies cream"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042360",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042360",
+        "ean_raw": "5999100042360",
+        "sku": "409922",
+        "name": "Scitec Nutrition 100% WP Professional 400 g kiwi banana"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042360",
+        "ean_raw": "5999100042360",
+        "sku": "10257",
+        "name": "Scitec 100% Whey Protein Professional 400g - kiwi, banán"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042377",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042377",
+        "ean_raw": "5999100042377",
+        "sku": "409929",
+        "name": "Scitec Nutrition 100% WP Professional 400 g lemon cheesecake"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042377",
+        "ean_raw": "5999100042377",
+        "sku": "17187",
+        "name": "Scitec 100% Whey Protein Professional 400g - citronový cheesecake"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042384",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042384",
+        "ean_raw": "5999100042384",
+        "sku": "409924",
+        "name": "Scitec Nutrition 100% WP Professional 400 g vanilla very berry"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042384",
+        "ean_raw": "5999100042384",
+        "sku": "10256",
+        "name": "Scitec 100% Whey Protein Professional 400g - vanilka, lesní plody"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042391",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042391",
+        "ean_raw": "5999100042391",
+        "sku": "409921",
+        "name": "Scitec Nutrition 100% WP Professional 400 g ice coffee with real coffee"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042391",
+        "ean_raw": "5999100042391",
+        "sku": "7203",
+        "name": "Scitec 100% Whey Protein Professional 400g - ledová káva"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042407",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042407",
+        "ean_raw": "5999100042407",
+        "sku": "409933",
+        "name": "Scitec Nutrition 100% WP Professional 400 g salted caramel"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042407",
+        "ean_raw": "5999100042407",
+        "sku": "17184",
+        "name": "Scitec 100% Whey Protein Professional 400g - slaný karamel"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042414",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042414",
+        "ean_raw": "5999100042414",
+        "sku": "409931",
+        "name": "Scitec Nutrition 100% WP Professional 400 g peanut butter"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042414",
+        "ean_raw": "5999100042414",
+        "sku": "7199",
+        "name": "Scitec 100% Whey Protein Professional 400g - arašídové máslo"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042421",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042421",
+        "ean_raw": "5999100042421",
+        "sku": "409923",
+        "name": "Scitec Nutrition 100% WP Professional 400 g white chocolate"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042421",
+        "ean_raw": "5999100042421",
+        "sku": "21523",
+        "name": "Scitec 100% Whey Protein Professional 400g - bílá čokoláda"
+      }
+    ]
+  },
+  {
+    "ean": "5999100042438",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100042438",
+        "ean_raw": "5999100042438",
+        "sku": "409930",
+        "name": "Scitec Nutrition 100% WP Professional 400 g pistachio white chocolate"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100042438",
+        "ean_raw": "5999100042438",
+        "sku": "23889",
+        "name": "Scitec 100% Whey Protein Professional 400g - pistácie, bílá čokoláda"
+      }
+    ]
+  },
+  {
     "ean": "5999500532522",
     "feeds": [
       "dafit",
