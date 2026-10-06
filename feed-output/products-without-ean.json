@@ -3979,13 +3979,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "189233",
     "name": "Extrifit Key ring orange/black Extrifit"
   },
@@ -4205,20 +4198,6 @@
     "ean_raw": "",
     "sku": "190832",
     "name": "Prom-In Bidon Athletic 750 ml černá"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
   },
   {
     "feed": "dafit",
@@ -7824,20 +7803,6 @@
     "ean_raw": "",
     "sku": "324370",
     "name": "Extrifit Aminogel 80 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "324371",
-    "name": "Extrifit Aminogel 25x80g"
   },
   {
     "feed": "dafit",
@@ -15741,6 +15706,20 @@
     "ean_raw": "",
     "sku": "344573",
     "name": "USN Barel 2200 ml"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "344642",
+    "name": "AKCE 1+1 Extrifit Actinox 620 g"
   },
   {
     "feed": "dafit",
@@ -35859,6 +35838,20 @@
     "ean_raw": "",
     "sku": "399723",
     "name": "Czech Virus Super Minerals PRO 750 ml"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "399746",
+    "name": "Extrifit HMB Power 180 cps"
   },
   {
     "feed": "dafit",

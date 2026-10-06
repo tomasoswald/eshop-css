@@ -4705,6 +4705,17 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "196671003089",
+    "ean_raw": "196671003089",
+    "sku": "58552",
+    "name": "Rule 1 Roar pre-workout 300g - modrá malina",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "196671003225",
     "ean_raw": "196671003225",
     "sku": "29458",
@@ -5072,6 +5083,17 @@
     "ean_raw": "196671005175",
     "sku": "29474",
     "name": "Rule 1 Roar pre-workout 315g - broskev, mango",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "196671005182",
+    "ean_raw": "196671005182",
+    "sku": "58553",
+    "name": "Rule 1 Roar pre-workout 315g - ovocný punč",
     "feeds": [
       "kulturistika"
     ],
@@ -36899,6 +36921,17 @@
     "ean_raw": "5060746508944",
     "sku": "29727",
     "name": "MyProtein Clear Whey Protein 500g - jablko",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5060746508968",
+    "ean_raw": "5060746508968",
+    "sku": "58556",
+    "name": "MyProtein Clear Whey Protein 500g - ananas",
     "feeds": [
       "kulturistika"
     ],
@@ -104266,7 +104299,7 @@
     "ean": "8586022215018",
     "ean_raw": "8586022215018",
     "sku": "57688",
-    "name": "Yum Yum Whey - BeastPink strawberry splash",
+    "name": "Protein Yum Yum Whey - BeastPink strawberry splash",
     "feeds": [
       "gymbeam"
     ],
@@ -105432,7 +105465,7 @@
     "ean": "8586022216831",
     "ean_raw": "8586022216831",
     "sku": "62851",
-    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -105443,7 +105476,7 @@
     "ean": "8586022216848",
     "ean_raw": "8586022216848",
     "sku": "62848",
-    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -105454,7 +105487,7 @@
     "ean": "8586022216855",
     "ean_raw": "8586022216855",
     "sku": "62854",
-    "name": "Yum Yum Whey - BeastPink strawberry splash",
+    "name": "Protein Yum Yum Whey - BeastPink strawberry splash",
     "feeds": [
       "gymbeam"
     ],
@@ -142625,7 +142658,7 @@
     "ean": "8586025953221",
     "ean_raw": "8586025953221",
     "sku": "91735",
-    "name": "Yum Yum Whey - BeastPink karamelová sušenka",
+    "name": "Protein Yum Yum Whey - BeastPink karamelová sušenka",
     "feeds": [
       "gymbeam"
     ],
@@ -153878,7 +153911,7 @@
     "ean": "8586026393682",
     "ean_raw": "8586026393682",
     "sku": "96865",
-    "name": "Yum Yum Whey - BeastPink karamelová sušenka",
+    "name": "Protein Yum Yum Whey - BeastPink karamelová sušenka",
     "feeds": [
       "gymbeam"
     ],
@@ -213971,7 +214004,7 @@
     "ean": "8586028771969",
     "ean_raw": "8586028771969",
     "sku": "122026",
-    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -213982,7 +214015,7 @@
     "ean": "8586028771976",
     "ean_raw": "8586028771976",
     "sku": "122023",
-    "name": "Yum Yum Whey - BeastPink čokoláda lískový oříšek",
+    "name": "Protein Yum Yum Whey - BeastPink čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -213993,7 +214026,7 @@
     "ean": "8586028771983",
     "ean_raw": "8586028771983",
     "sku": "122020",
-    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -214004,7 +214037,7 @@
     "ean": "8586028771990",
     "ean_raw": "8586028771990",
     "sku": "122014",
-    "name": "Yum Yum Whey - BeastPink jahoda",
+    "name": "Protein Yum Yum Whey - BeastPink jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -223973,7 +224006,7 @@
     "ean": "8588007275116",
     "ean_raw": "8588007275116",
     "sku": "28938",
-    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -223984,7 +224017,7 @@
     "ean": "8588007275123",
     "ean_raw": "8588007275123",
     "sku": "28937",
-    "name": "Yum Yum Whey - BeastPink čokoláda lískový oříšek",
+    "name": "Protein Yum Yum Whey - BeastPink čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -223995,7 +224028,7 @@
     "ean": "8588007275130",
     "ean_raw": "8588007275130",
     "sku": "28939",
-    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -233225,6 +233258,17 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "8594043791923",
+    "ean_raw": "8594043791923",
+    "sku": "58549",
+    "name": "Expres menu Koprovka s vejci (2 porce) - 600g",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "8594043792180",
     "ean_raw": "8594043792180",
     "sku": "18065",
@@ -233269,6 +233313,17 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "8594043795877",
+    "ean_raw": "8594043795877",
+    "sku": "58548",
+    "name": "Expres menu Červené kari s kuřetem (2 porce) - 600g",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "8594043795891",
     "ean_raw": "8594043795891",
     "sku": "58401",
@@ -233280,10 +233335,54 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "8594043795914",
+    "ean_raw": "8594043795914",
+    "sku": "58550",
+    "name": "Expres menu Kotlíkový guláš (2 porce) - 600g",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "8594043795952",
     "ean_raw": "8594043795952",
     "sku": "18003",
     "name": "Expres menu Boloňská omáčka (2 porce) - 600g",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8594043796638",
+    "ean_raw": "8594043796638",
+    "sku": "58551",
+    "name": "Expres menu Chilli sin carne s tempehem (2 porce) - 600g",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8594043798847",
+    "ean_raw": "8594043798847",
+    "sku": "58547",
+    "name": "Expres menu Massaman kari s kachním masem (2 porce) - 600g",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8594043798939",
+    "ean_raw": "8594043798939",
+    "sku": "58546",
+    "name": "Expres menu Massaman kari se zeleninou (2 porce) - 600g",
     "feeds": [
       "kulturistika"
     ],
@@ -252130,17 +252229,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "8594181602037",
-    "ean_raw": "8594181602037",
-    "sku": "192585",
-    "name": "Extrifit G 15 Gainer choco coco 45 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "8594181602075",
     "ean_raw": "8594181602075",
     "sku": "147371",
@@ -252202,17 +252290,6 @@
     "ean_raw": "8594181602433",
     "sku": "191869",
     "name": "Extrifit Hero 45 g fruit shake",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "8594181602440",
-    "ean_raw": "8594181602440",
-    "sku": "191868",
-    "name": "Extrifit Hero 45 g ice coffee",
     "feeds": [
       "dafit"
     ],
@@ -255080,17 +255157,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "8594181608411",
-    "ean_raw": "8594181608411",
-    "sku": "162093",
-    "name": "Extrifit Aminogel 25 x 80 g pineapple",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "8594181608565",
     "ean_raw": "8594181608565",
     "sku": "114526",
@@ -256279,65 +256345,10 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "8594188360091",
-    "ean_raw": "8594188360091",
-    "sku": "12947",
-    "name": "Erebos 250ml - original",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "8594188360107",
     "ean_raw": "8594188360107",
     "sku": "12948",
     "name": "Erebos 250ml - dry",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594188360114",
-    "ean_raw": "8594188360114",
-    "sku": "12949",
-    "name": "Erebos 250ml - bitter",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594188360138",
-    "ean_raw": "8594188360138",
-    "sku": "12951",
-    "name": "Erebos 250ml - fresh",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594188360381",
-    "ean_raw": "8594188360381",
-    "sku": "15089",
-    "name": "Erebos 250ml - med",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594188360527",
-    "ean_raw": "8594188360527",
-    "sku": "28161",
-    "name": "Erebos 250ml - racket",
     "feeds": [
       "kulturistika"
     ],
