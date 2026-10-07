@@ -12621,7 +12621,7 @@
     "ean": "4006665110494",
     "ean_raw": "4006665110494",
     "sku": "10191",
-    "name": "SizeandSymmetry Multivitamine Complex - 60 kapslí",
+    "name": "EXP. 31/10/2026 SizeandSymmetry Multivitamine Complex - 60 kapslí",
     "feeds": [
       "kulturistika"
     ],
@@ -14758,7 +14758,7 @@
     "ean": "4061289007193",
     "ean_raw": "4061289007193",
     "sku": "27494",
-    "name": "Maxi Nutrition Waffle protein bar 40g - mléko, lískový oříšek",
+    "name": "EXP. 31/10/2026 Maxi Nutrition Waffle protein bar 40g - mléko, lískový oříšek",
     "feeds": [
       "kulturistika"
     ],
@@ -36425,7 +36425,7 @@
     "ean": "5060660084050",
     "ean_raw": "5060660084050",
     "sku": "28836",
-    "name": "Per4m Protein Bar 62g - čokoládové brownie",
+    "name": "Per4m EXP. 4/10/2026 Protein Bar 62g - čokoládové brownie",
     "feeds": [
       "kulturistika"
     ],
@@ -36436,7 +36436,7 @@
     "ean": "5060660084111",
     "ean_raw": "5060660084111",
     "sku": "28741",
-    "name": "Per4m Protein Bar 62g - chocotella",
+    "name": "EXP. 5/10/2026 Per4m Protein Bar 62g - chocotella",
     "feeds": [
       "kulturistika"
     ],
@@ -38475,7 +38475,7 @@
     "ean": "5060811381953",
     "ean_raw": "5060811381953",
     "sku": "16796",
-    "name": "Grenade Carb Killa Protein bar 60g - citron",
+    "name": "EXP. 31/10/2026 Grenade Carb Killa Protein bar 60g - citron",
     "feeds": [
       "kulturistika"
     ],
@@ -43170,7 +43170,7 @@
     "ean": "5902837753713",
     "ean_raw": "5902837753713",
     "sku": "18533",
-    "name": "Allnutrition F**king Delicious Protein bar 55g - cookies cream",
+    "name": "EXP. 31/10/2026 Allnutrition F**king Delicious Protein bar 55g - cookies cream",
     "feeds": [
       "kulturistika"
     ],
@@ -43192,7 +43192,7 @@
     "ean": "5902837753737",
     "ean_raw": "5902837753737",
     "sku": "18532",
-    "name": "Allnutrition F**king Delicious Protein bar 55g - čokoláda, karamel",
+    "name": "EXP. 31/10/2026 Allnutrition F**king Delicious Protein bar 55g - čokoláda, karamel",
     "feeds": [
       "kulturistika"
     ],
@@ -46707,17 +46707,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "5907534280043",
-    "ean_raw": "5907534280043",
-    "sku": "1585",
-    "name": "HiTec Anabol Amino Professional - 200 kapslí",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "5907534280067",
     "ean_raw": "5907534280067",
     "sku": "25419",
@@ -46909,17 +46898,6 @@
     "ean_raw": "5907534281293",
     "sku": "5277",
     "name": "HiTec Tyrosin - 100 kapslí",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5907534281361",
-    "ean_raw": "5907534281361",
-    "sku": "7712",
-    "name": "HiTec A.M.G. 925g - mango, meloun",
     "feeds": [
       "kulturistika"
     ],
@@ -47294,17 +47272,6 @@
     "ean_raw": "5907534282580",
     "sku": "6413",
     "name": "HiTec Whey C-6 1kg - borůvka, vanilka",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5907534282603",
-    "ean_raw": "5907534282603",
-    "sku": "2665",
-    "name": "HiTec BCAA Powder 500g - višeň",
     "feeds": [
       "kulturistika"
     ],
@@ -55199,28 +55166,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "5999076220144",
-    "ean_raw": "5999076220144",
-    "sku": "312429",
-    "name": "BioTech Hydro Whey Zero 454 g chocolate",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "5999076220168",
-    "ean_raw": "5999076220168",
-    "sku": "312430",
-    "name": "BioTech Hydro Whey Zero 454 g vanilla",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "5999076220632",
     "ean_raw": "5999076220632",
     "sku": "338863",
@@ -63073,7 +63018,7 @@
     "ean": "5999100025257",
     "ean_raw": "5999100025257",
     "sku": "17267",
-    "name": "EXP. 19/9/2026 Scitec Protein Delite Shake 700g - vanilka, ananas",
+    "name": "Scitec Protein Delite Shake 700g - vanilka, ananas",
     "feeds": [
       "kulturistika"
     ],
@@ -65036,9 +64981,10 @@
     "sku": "409939",
     "name": "Scitec Nutrition 100% Vegan Protein 400 g vanilla",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -65058,9 +65004,10 @@
     "sku": "409940",
     "name": "Scitec Nutrition 100% Vegan Protein 400 g hazelnut walnut",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -218544,17 +218491,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586028785737",
-    "ean_raw": "8586028785737",
-    "sku": "122575",
-    "name": "CreaGlow Anjablaa - GymBeam Wild berry",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586028785775",
     "ean_raw": "8586028785775",
     "sku": "123811",
@@ -225887,7 +225823,7 @@
     "ean": "8588009572152",
     "ean_raw": "8588009572152",
     "sku": "24794",
-    "name": "Maxsport No added sugar 40g - brownie",
+    "name": "EXP. 6/10/2026 Maxsport No added sugar 40g - brownie",
     "feeds": [
       "kulturistika"
     ],
@@ -239306,7 +239242,7 @@
     "ean": "8594068263771",
     "ean_raw": "8594068263771",
     "sku": "24468",
-    "name": "Bombus Crunchy protein 50g - čokoláda",
+    "name": "EXP. 2/10/2026 Bombus Crunchy protein 50g - čokoláda",
     "feeds": [
       "kulturistika"
     ],
@@ -239317,7 +239253,7 @@
     "ean": "8594068263795",
     "ean_raw": "8594068263795",
     "sku": "24469",
-    "name": "Bombus Crunchy protein 50g - banán",
+    "name": "EXP. 2/10/2026 Bombus Crunchy protein 50g - banán",
     "feeds": [
       "kulturistika"
     ],
@@ -239339,7 +239275,7 @@
     "ean": "8594068263832",
     "ean_raw": "8594068263832",
     "sku": "24467",
-    "name": "Bombus Crunchy protein 50g - malina",
+    "name": "EXP. 4/10/2026 Bombus Crunchy protein 50g - malina",
     "feeds": [
       "kulturistika"
     ],
@@ -258350,17 +258286,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "8594193032310",
-    "ean_raw": "8594193032310",
-    "sku": "28457",
-    "name": "Big Boy Big Pumpkin spice - Arašídový krém s příchutí dýňového koření - 220g",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "8594193032891",
     "ean_raw": "8594193032891",
     "sku": "26484",
@@ -263327,7 +263252,7 @@
     "ean": "8595016503055",
     "ean_raw": "8595016503055",
     "sku": "11461",
-    "name": "Country Life Kakaové boby nepražené drcené BIO - 100g",
+    "name": "EXP. 15/10/2026 Country Life Kakaové boby nepražené drcené BIO - 100g",
     "feeds": [
       "kulturistika"
     ],
@@ -263712,7 +263637,7 @@
     "ean": "8595016597535",
     "ean_raw": "8595016597535",
     "sku": "16463",
-    "name": "Country Life Fazole adzuki - 500g",
+    "name": "EXP. 30/10/2026 Country Life Fazole adzuki - 500g",
     "feeds": [
       "kulturistika"
     ],
@@ -276993,6 +276918,28 @@
     "ean_raw": "8595722704340",
     "sku": "58288",
     "name": "GymSupps XPre Workout 20x22,5g - dračí ovoce",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8595722704364",
+    "ean_raw": "8595722704364",
+    "sku": "58559",
+    "name": "GymSupps Natural Caffeine NATCAFF® - 60 kapslí",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8595722704371",
+    "ean_raw": "8595722704371",
+    "sku": "58560",
+    "name": "GymSupps Red Flow Nitrate Beet Root Extract - 240 kapslí",
     "feeds": [
       "kulturistika"
     ],

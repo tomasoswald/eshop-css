@@ -2641,7 +2641,7 @@
         "ean": "5017840005183",
         "ean_raw": "5017840005183",
         "sku": "24464",
-        "name": "Bombus Flapjack 100g - med"
+        "name": "Bombus EXP. 5/10/2026 Flapjack 100g - med"
       }
     ]
   },
@@ -19970,6 +19970,54 @@
         "ean_raw": "5999100035997",
         "sku": "3938",
         "name": "Scitec L-Glutamine - 300g"
+      }
+    ]
+  },
+  {
+    "ean": "5999100040564",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100040564",
+        "ean_raw": "5999100040564",
+        "sku": "409939",
+        "name": "Scitec Nutrition 100% Vegan Protein 400 g vanilla"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100040564",
+        "ean_raw": "5999100040564",
+        "sku": "58561",
+        "name": "Scitec 100% Vegan Protein 400g - vanilka"
+      }
+    ]
+  },
+  {
+    "ean": "5999100040588",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100040588",
+        "ean_raw": "5999100040588",
+        "sku": "409940",
+        "name": "Scitec Nutrition 100% Vegan Protein 400 g hazelnut walnut"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100040588",
+        "ean_raw": "5999100040588",
+        "sku": "58562",
+        "name": "Scitec 100% Vegan Protein 400g - lískový oříšek"
       }
     ]
   },

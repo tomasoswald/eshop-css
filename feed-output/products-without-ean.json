@@ -6961,20 +6961,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "319712",
     "name": "Reflex Nutrition Nexgen Pro + Omega 3 90 + 90 kapslí"
   },
@@ -9238,20 +9224,6 @@
     "ean_raw": "",
     "sku": "325480",
     "name": "BioTech Hydro Whey Zero 1816 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "325481",
-    "name": "BioTech Hydro Whey Zero 454 g"
   },
   {
     "feed": "dafit",
@@ -36956,20 +36928,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "402030",
-    "name": "AKCE Extrifit Agrezz 20 x 20,8 g + ZDARMA Exxe Iso Protein Bar 65 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "402049",
     "name": "Prom-In 100% Magnesium Bisglycinate 360 g"
   },
@@ -38428,20 +38386,6 @@
     "ean_raw": "",
     "sku": "404775",
     "name": "Applied Nutrition Endurance Hydration Electrolyte 20 tbl"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "404795",
-    "name": "Čočkýna Smažená Čočka Bio 40 g SLANÁ"
   },
   {
     "feed": "dafit",
@@ -42297,13 +42241,6 @@
     "feed": "kulturistika",
     "ean": "",
     "ean_raw": "",
-    "sku": "25418",
-    "name": "HiTec Carbo Pur 1kg - citron"
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "",
-    "ean_raw": "",
     "sku": "26248",
     "name": "Skinny Syrup 425ml - rebarborový puding"
   },
@@ -42684,13 +42621,6 @@
     "ean_raw": "",
     "sku": "28627",
     "name": "FitBoom ISO LactoFree Protein 85% 1000g - jahoda"
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "28651",
-    "name": "HiTec Carbo Pur 3kg - citron"
   },
   {
     "feed": "kulturistika",
