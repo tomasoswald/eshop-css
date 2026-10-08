@@ -14758,7 +14758,7 @@
     "ean": "4061289007193",
     "ean_raw": "4061289007193",
     "sku": "27494",
-    "name": "EXP. 31/10/2026 Maxi Nutrition Waffle protein bar 40g - mléko, lískový oříšek",
+    "name": "Maxi Nutrition Waffle protein bar 40g - mléko, lískový oříšek",
     "feeds": [
       "kulturistika"
     ],
@@ -36436,7 +36436,7 @@
     "ean": "5060660084111",
     "ean_raw": "5060660084111",
     "sku": "28741",
-    "name": "EXP. 5/10/2026 Per4m Protein Bar 62g - chocotella",
+    "name": "Per4m Protein Bar 62g - chocotella",
     "feeds": [
       "kulturistika"
     ],
@@ -60663,9 +60663,10 @@
     "sku": "403929",
     "name": "BioTech 100% Pure Whey rich chocolate 400 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -60686,9 +60687,10 @@
     "sku": "404835",
     "name": "BioTech 100% Pure Whey bourbon vanilla 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -60697,9 +60699,10 @@
     "sku": "404837",
     "name": "BioTech 100% Pure Whey chocolate 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -60732,9 +60735,10 @@
     "sku": "404839",
     "name": "BioTech 100% Pure Whey coconut chocolate 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -60743,9 +60747,10 @@
     "sku": "404836",
     "name": "BioTech 100% Pure Whey caramel capuccino 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -60766,9 +60771,10 @@
     "sku": "404840",
     "name": "BioTech 100% Pure Whey cookies cream 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -60777,9 +60783,10 @@
     "sku": "404838",
     "name": "BioTech 100% Pure Whey chocolate peanut butter 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -60824,9 +60831,10 @@
     "sku": "404834",
     "name": "BioTech 100% Pure Whey black biscuit 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -60847,9 +60855,10 @@
     "sku": "409382",
     "name": "BioTech 100% Pure Whey rich chocolate 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -60869,9 +60878,10 @@
     "sku": "409388",
     "name": "BioTech 100% Pure Whey natural 900 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -61023,9 +61033,10 @@
     "sku": "409386",
     "name": "BioTech 100% Pure Whey black biscuit 900 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -61046,9 +61057,10 @@
     "sku": "408500",
     "name": "BioTech 100% Pure Whey rich chocolate 900 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -65362,15 +65374,16 @@
     "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100042117",
     "ean_raw": "5999100042117",
-    "sku": "58162",
-    "name": "Scitec 100% Whey Protein Professional 780g - čokoláda",
+    "sku": "409917",
+    "name": "Scitec Nutrition 100% WP Professional 780 g chocolate",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -65421,48 +65434,52 @@
     "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100042162",
     "ean_raw": "5999100042162",
-    "sku": "58156",
-    "name": "Scitec 100% Whey Protein Professional 780g - čokoláda, cookies cream",
+    "sku": "409919",
+    "name": "Scitec Nutrition 100% WP Professional 780 g chocolate cookies cream",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100042179",
     "ean_raw": "5999100042179",
-    "sku": "58159",
-    "name": "Scitec 100% Whey Protein Professional 780g - banán",
+    "sku": "409913",
+    "name": "Scitec Nutrition 100% WP Professional 780 g banana",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100042186",
     "ean_raw": "5999100042186",
-    "sku": "58160",
-    "name": "Scitec 100% Whey Protein Professional 780g - kokos",
+    "sku": "409916",
+    "name": "Scitec Nutrition 100% WP Professional 780 g coconut",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100042193",
     "ean_raw": "5999100042193",
-    "sku": "58169",
-    "name": "Scitec 100% Whey Protein Professional 780g - kiwi, banán",
+    "sku": "409946",
+    "name": "Scitec Nutrition 100% WP Professional 780 g kiwi banana",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -65501,48 +65518,52 @@
     "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100042230",
     "ean_raw": "5999100042230",
-    "sku": "58154",
-    "name": "Scitec 100% Whey Protein Professional 780g - slaný karamel",
+    "sku": "409915",
+    "name": "Scitec Nutrition 100% WP Professional 780 g salted caramel",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100042247",
     "ean_raw": "5999100042247",
-    "sku": "58161",
-    "name": "Scitec 100% Whey Protein Professional 780g - arašídové máslo",
+    "sku": "409918",
+    "name": "Scitec Nutrition 100% WP Professional 780 g peanut butter",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100042254",
     "ean_raw": "5999100042254",
-    "sku": "58164",
-    "name": "Scitec 100% Whey Protein Professional 780g - bílá čokoláda",
+    "sku": "409914",
+    "name": "Scitec Nutrition 100% WP Professional 780 g white chocolate",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100042261",
     "ean_raw": "5999100042261",
-    "sku": "58158",
-    "name": "Scitec 100% Whey Protein Professional 780g - pistácie, bílá čokoláda",
+    "sku": "409912",
+    "name": "Scitec Nutrition 100% WP Professional 780 g pistachio white chocolate",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -65731,6 +65752,17 @@
       "kulturistika"
     ],
     "occurrences": 2
+  },
+  {
+    "feed": "dafit",
+    "ean": "5999100042445",
+    "ean_raw": "5999100042445",
+    "sku": "409920",
+    "name": "Scitec Nutrition 100% WP Professional 780 g chocolate donut",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -191024,6 +191056,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028125946",
+    "ean_raw": "8586028125946",
+    "sku": "110845",
+    "name": "Arginin A.K.G. - GymBeam bez příchuti",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028125960",
     "ean_raw": "8586028125960",
     "sku": "110833",
@@ -214897,7 +214940,7 @@
     "ean": "8586028773390",
     "ean_raw": "8586028773390",
     "sku": "123298",
-    "name": "Ženski pajac Cosmo Olive - GymBeam růžová XS",
+    "name": "Dámský overal Cosmo Olive - GymBeam růžová XS",
     "feeds": [
       "gymbeam"
     ],
@@ -214908,7 +214951,7 @@
     "ean": "8586028773406",
     "ean_raw": "8586028773406",
     "sku": "123301",
-    "name": "Ženski pajac Cosmo Olive - GymBeam růžová S",
+    "name": "Dámský overal Cosmo Olive - GymBeam růžová S",
     "feeds": [
       "gymbeam"
     ],
@@ -214919,7 +214962,7 @@
     "ean": "8586028773413",
     "ean_raw": "8586028773413",
     "sku": "123304",
-    "name": "Ženski pajac Cosmo Olive - GymBeam růžová M",
+    "name": "Dámský overal Cosmo Olive - GymBeam růžová M",
     "feeds": [
       "gymbeam"
     ],
@@ -214930,7 +214973,7 @@
     "ean": "8586028773420",
     "ean_raw": "8586028773420",
     "sku": "123307",
-    "name": "Ženski pajac Cosmo Olive - GymBeam růžová L",
+    "name": "Dámský overal Cosmo Olive - GymBeam růžová L",
     "feeds": [
       "gymbeam"
     ],
@@ -219063,6 +219106,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028787083",
+    "ean_raw": "8586028787083",
+    "sku": "124356",
+    "name": "Draslík - GymBeam - 180 kaps.",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028787205",
     "ean_raw": "8586028787205",
     "sku": "122593",
@@ -219078,6 +219132,17 @@
     "ean_raw": "8586028787274",
     "sku": "123409",
     "name": "Vápník - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028789766",
+    "ean_raw": "8586028789766",
+    "sku": "124381",
+    "name": "Železo chelát - GymBeam - 180 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -225823,7 +225888,7 @@
     "ean": "8588009572152",
     "ean_raw": "8588009572152",
     "sku": "24794",
-    "name": "EXP. 6/10/2026 Maxsport No added sugar 40g - brownie",
+    "name": "Maxsport No added sugar 40g - brownie",
     "feeds": [
       "kulturistika"
     ],
@@ -239242,7 +239307,7 @@
     "ean": "8594068263771",
     "ean_raw": "8594068263771",
     "sku": "24468",
-    "name": "EXP. 2/10/2026 Bombus Crunchy protein 50g - čokoláda",
+    "name": "Bombus Crunchy protein 50g - čokoláda",
     "feeds": [
       "kulturistika"
     ],
@@ -239253,7 +239318,7 @@
     "ean": "8594068263795",
     "ean_raw": "8594068263795",
     "sku": "24469",
-    "name": "EXP. 2/10/2026 Bombus Crunchy protein 50g - banán",
+    "name": "Bombus Crunchy protein 50g - banán",
     "feeds": [
       "kulturistika"
     ],
@@ -239275,7 +239340,7 @@
     "ean": "8594068263832",
     "ean_raw": "8594068263832",
     "sku": "24467",
-    "name": "EXP. 4/10/2026 Bombus Crunchy protein 50g - malina",
+    "name": "Bombus Crunchy protein 50g - malina",
     "feeds": [
       "kulturistika"
     ],
@@ -258032,7 +258097,7 @@
     "ean": "8594193031092",
     "ean_raw": "8594193031092",
     "sku": "24219",
-    "name": "EXP. 8/3/2026 GymSupps Peanut Butter 1000g - křupavý",
+    "name": "GymSupps Peanut Butter 1000g - křupavý",
     "feeds": [
       "kulturistika"
     ],
@@ -258977,17 +259042,6 @@
     "name": "Big Boy Proteinová Granola 360 g dračí ovoce eko varianta",
     "feeds": [
       "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594193037636",
-    "ean_raw": "8594193037636",
-    "sku": "19358",
-    "name": "Big Boy Perníkové latté - 220g",
-    "feeds": [
-      "kulturistika"
     ],
     "occurrences": 1
   },
@@ -262653,6 +262707,17 @@
   },
   {
     "feed": "dafit",
+    "ean": "8594226410610",
+    "ean_raw": "8594226410610",
+    "sku": "410864",
+    "name": "Accurate+ Pure Whey 2000 g nut",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "8594226410627",
     "ean_raw": "8594226410627",
     "sku": "407723",
@@ -262712,6 +262777,17 @@
     "ean_raw": "8594226410689",
     "sku": "407720",
     "name": "Accurate+ Pure Whey blueberry 2000 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "8594226410696",
+    "ean_raw": "8594226410696",
+    "sku": "410865",
+    "name": "Accurate+ Pure Whey 2000 g forest fruit",
     "feeds": [
       "dafit"
     ],
@@ -271848,6 +271924,28 @@
     "ean_raw": "8595697602634",
     "sku": "396981",
     "name": "Extrifit Express Energy Gel lime 16 x 80 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "8595697602696",
+    "ean_raw": "8595697602696",
+    "sku": "410341",
+    "name": "Extrifit Regel 16 x 80 g lemon orange",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "8595697602702",
+    "ean_raw": "8595697602702",
+    "sku": "410343",
+    "name": "Extrifit Regel 16 x 80 g pineapple",
     "feeds": [
       "dafit"
     ],
