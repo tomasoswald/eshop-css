@@ -38475,7 +38475,7 @@
     "ean": "5060811381953",
     "ean_raw": "5060811381953",
     "sku": "16796",
-    "name": "EXP. 31/10/2026 Grenade Carb Killa Protein bar 60g - citron",
+    "name": "Grenade Carb Killa Protein bar 60g - citron",
     "feeds": [
       "kulturistika"
     ],
@@ -43170,7 +43170,7 @@
     "ean": "5902837753713",
     "ean_raw": "5902837753713",
     "sku": "18533",
-    "name": "EXP. 31/10/2026 Allnutrition F**king Delicious Protein bar 55g - cookies cream",
+    "name": "Allnutrition F**king Delicious Protein bar 55g - cookies cream",
     "feeds": [
       "kulturistika"
     ],
@@ -43192,7 +43192,7 @@
     "ean": "5902837753737",
     "ean_raw": "5902837753737",
     "sku": "18532",
-    "name": "EXP. 31/10/2026 Allnutrition F**king Delicious Protein bar 55g - čokoláda, karamel",
+    "name": "Allnutrition F**king Delicious Protein bar 55g - čokoláda, karamel",
     "feeds": [
       "kulturistika"
     ],
@@ -173723,7 +173723,7 @@
     "ean": "8586027394343",
     "ean_raw": "8586027394343",
     "sku": "104902",
-    "name": "Gamma oryzanol - GymBeam 90 kaps.",
+    "name": "Gama oryzanol - GymBeam 90 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -224414,7 +224414,7 @@
     "ean": "8588007275710",
     "ean_raw": "8588007275710",
     "sku": "29713",
-    "name": "Amino Beast - BeastPink + dárky zelené jablko",
+    "name": "Amino Beast - BeastPink zelené jablko",
     "feeds": [
       "gymbeam"
     ],
@@ -224425,7 +224425,7 @@
     "ean": "8588007275727",
     "ean_raw": "8588007275727",
     "sku": "29714",
-    "name": "Amino Beast - BeastPink + dárky mango marakuja",
+    "name": "Amino Beast - BeastPink mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -253384,17 +253384,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "8594181604178",
-    "ean_raw": "8594181604178",
-    "sku": "214654",
-    "name": "Extrifit Agrezz 416 g orange",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "8594181604185",
     "ean_raw": "8594181604185",
     "sku": "214656",
@@ -256683,17 +256672,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "8594190590431",
-    "ean_raw": "8594190590431",
-    "sku": "349021",
-    "name": "LifeLike Perník Twister 300 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "8594190590448",
     "ean_raw": "8594190590448",
     "sku": "349012",
@@ -257169,17 +257147,6 @@
     "ean_raw": "8594190592756",
     "sku": "361266",
     "name": "LifeLike Preclíky v čokoládě mix 120 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "8594190592886",
-    "ean_raw": "8594190592886",
-    "sku": "398417",
-    "name": "LifeLike Granola perníková 400 g",
     "feeds": [
       "dafit"
     ],
@@ -257681,17 +257648,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "8594190595139",
-    "ean_raw": "8594190595139",
-    "sku": "362380",
-    "name": "LifeLike Twister 190 g EggNog",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "8594190595153",
     "ean_raw": "8594190595153",
     "sku": "372925",
@@ -257701,17 +257657,6 @@
       "kulturistika"
     ],
     "occurrences": 2
-  },
-  {
-    "feed": "dafit",
-    "ean": "8594190595160",
-    "ean_raw": "8594190595160",
-    "sku": "373732",
-    "name": "LifeLike Twister poppy plum 190 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -258655,17 +258600,6 @@
     "name": "Big Boy Zimní pohádka 2-pack - 440g",
     "feeds": [
       "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "8594193034987",
-    "ean_raw": "8594193034987",
-    "sku": "400546",
-    "name": "Big Boy Zamilovaný Hrošík 220 g",
-    "feeds": [
-      "dafit"
     ],
     "occurrences": 1
   },

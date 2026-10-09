@@ -4658,6 +4658,13 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "214654",
+    "name": "Extrifit Agrezz 416 g orange"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "",
     "name": ""
   },
@@ -16656,13 +16663,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "349123",
     "name": "LifeLike Peanut 300 g"
   },
@@ -20149,13 +20149,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "362385",
     "name": "Dafit Šejkr neon/černá 700 ml"
   },
@@ -23630,13 +23623,6 @@
     "ean_raw": "",
     "sku": "373657",
     "name": "Kevin Levrone Shaaboom Ice Pump 463 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
   },
   {
     "feed": "dafit",
@@ -35367,13 +35353,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "398576",
     "name": "Extrifit Actinox 620 g"
   },
@@ -36293,13 +36272,6 @@
     "ean_raw": "",
     "sku": "400537",
     "name": "Čočkýna Smažená Čočka Bio 40 g SLADKÁ"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
   },
   {
     "feed": "dafit",
