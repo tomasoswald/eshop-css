@@ -21871,10 +21871,32 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "4260283682850",
+    "ean_raw": "4260283682850",
+    "sku": "26988",
+    "name": "LSP Soy 90 1000g - cookies cream",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "4260283682904",
     "ean_raw": "4260283682904",
     "sku": "26990",
     "name": "LSP Soy 90 1000g - čokoláda",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "4260283682911",
+    "ean_raw": "4260283682911",
+    "sku": "26991",
+    "name": "LSP Soy 90 1000g - vanilka",
     "feeds": [
       "kulturistika"
     ],
@@ -28060,6 +28082,17 @@
     "occurrences": 1
   },
   {
+    "feed": "dafit",
+    "ean": "5056555202142",
+    "ean_raw": "5056555202142",
+    "sku": "410026",
+    "name": "Applied Nutrition Creatine Monohydrate 250 g strawberry raspberry",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
     "feed": "kulturistika",
     "ean": "5056555202197",
     "ean_raw": "5056555202197",
@@ -33643,15 +33676,16 @@
     "occurrences": 2
   },
   {
-    "feed": "gymbeam",
+    "feed": "dafit",
     "ean": "5060245607445",
     "ean_raw": "5060245607445",
-    "sku": "4199",
-    "name": "Amino Energy - Optimum Nutrition ovocné splynutí",
+    "sku": "410021",
+    "name": "Optimum Nutrition Essential Amino Energy 270 g fruit fusion",
     "feeds": [
+      "dafit",
       "gymbeam"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -62492,15 +62526,16 @@
     "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100022386",
     "ean_raw": "5999100022386",
-    "sku": "17216",
-    "name": "Scitec BCAA+Glutamine Xpress 600g - citrus",
+    "sku": "409945",
+    "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g citrus mix",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "kulturistika",
@@ -175923,7 +175958,7 @@
     "ean": "8586027397092",
     "ean_raw": "8586027397092",
     "sku": "106750",
-    "name": "Cran-Max™ + Mannose drink - GymBeam malina",
+    "name": "Cran-Max™ + Mannose nápoj - GymBeam malina",
     "feeds": [
       "gymbeam"
     ],
@@ -218537,7 +218572,7 @@
     "ean": "8586028785775",
     "ean_raw": "8586028785775",
     "sku": "123811",
-    "name": "Pace Tanktop Black - GymBeam černá S",
+    "name": "Tílko Pace Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -218548,7 +218583,7 @@
     "ean": "8586028785782",
     "ean_raw": "8586028785782",
     "sku": "123816",
-    "name": "Pace Tanktop Black - GymBeam černá M",
+    "name": "Tílko Pace Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -218559,7 +218594,7 @@
     "ean": "8586028785799",
     "ean_raw": "8586028785799",
     "sku": "123821",
-    "name": "Pace Tanktop Black - GymBeam černá L",
+    "name": "Tílko Pace Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -218570,7 +218605,7 @@
     "ean": "8586028785805",
     "ean_raw": "8586028785805",
     "sku": "123826",
-    "name": "Pace Tanktop Black - GymBeam černá XL",
+    "name": "Tílko Pace Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -218581,7 +218616,7 @@
     "ean": "8586028785812",
     "ean_raw": "8586028785812",
     "sku": "123831",
-    "name": "Pace Tanktop Black - GymBeam černá XXL",
+    "name": "Tílko Pace Black - GymBeam černá XXL",
     "feeds": [
       "gymbeam"
     ],
@@ -218592,7 +218627,7 @@
     "ean": "8586028785829",
     "ean_raw": "8586028785829",
     "sku": "123841",
-    "name": "Pace Hoodie Black - GymBeam černá S",
+    "name": "Mikina Pace Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -218603,7 +218638,7 @@
     "ean": "8586028785836",
     "ean_raw": "8586028785836",
     "sku": "123846",
-    "name": "Pace Hoodie Black - GymBeam černá M",
+    "name": "Mikina Pace Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -218614,7 +218649,7 @@
     "ean": "8586028785843",
     "ean_raw": "8586028785843",
     "sku": "123851",
-    "name": "Pace Hoodie Black - GymBeam černá L",
+    "name": "Mikina Pace Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -218625,7 +218660,7 @@
     "ean": "8586028785850",
     "ean_raw": "8586028785850",
     "sku": "123856",
-    "name": "Pace Hoodie Black - GymBeam černá XL",
+    "name": "Mikina Pace Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -218636,7 +218671,7 @@
     "ean": "8586028785867",
     "ean_raw": "8586028785867",
     "sku": "123861",
-    "name": "Pace Hoodie Black - GymBeam černá XXL",
+    "name": "Mikina Pace Black - GymBeam černá XXL",
     "feeds": [
       "gymbeam"
     ],
@@ -218647,7 +218682,7 @@
     "ean": "8586028785874",
     "ean_raw": "8586028785874",
     "sku": "123871",
-    "name": "Pace Longsleeve Black - GymBeam černá S",
+    "name": "Tričko Pace s dlouhým rukávem Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -218658,7 +218693,7 @@
     "ean": "8586028785881",
     "ean_raw": "8586028785881",
     "sku": "123876",
-    "name": "Pace Longsleeve Black - GymBeam černá M",
+    "name": "Tričko Pace s dlouhým rukávem Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -218669,7 +218704,7 @@
     "ean": "8586028785911",
     "ean_raw": "8586028785911",
     "sku": "123881",
-    "name": "Pace Longsleeve Black - GymBeam černá L",
+    "name": "Tričko Pace s dlouhým rukávem Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -218680,7 +218715,7 @@
     "ean": "8586028785928",
     "ean_raw": "8586028785928",
     "sku": "123886",
-    "name": "Pace Longsleeve Black - GymBeam černá XL",
+    "name": "Tričko Pace s dlouhým rukávem Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -218691,7 +218726,7 @@
     "ean": "8586028785935",
     "ean_raw": "8586028785935",
     "sku": "123891",
-    "name": "Pace Longsleeve Black - GymBeam černá XXL",
+    "name": "Tričko Pace s dlouhým rukávem Black - GymBeam černá XXL",
     "feeds": [
       "gymbeam"
     ],
@@ -218702,7 +218737,7 @@
     "ean": "8586028785942",
     "ean_raw": "8586028785942",
     "sku": "123901",
-    "name": "Women's Pace Longsleeve Black - GymBeam černá XS",
+    "name": "Dámské tričko Pace s dlouhým rukávem Black - GymBeam černá XS",
     "feeds": [
       "gymbeam"
     ],
@@ -218713,7 +218748,7 @@
     "ean": "8586028785959",
     "ean_raw": "8586028785959",
     "sku": "123906",
-    "name": "Women's Pace Longsleeve Black - GymBeam černá S",
+    "name": "Dámské tričko Pace s dlouhým rukávem Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -218724,7 +218759,7 @@
     "ean": "8586028785966",
     "ean_raw": "8586028785966",
     "sku": "123911",
-    "name": "Women's Pace Longsleeve Black - GymBeam černá M",
+    "name": "Dámské tričko Pace s dlouhým rukávem Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -218735,7 +218770,7 @@
     "ean": "8586028785973",
     "ean_raw": "8586028785973",
     "sku": "123916",
-    "name": "Women's Pace Longsleeve Black - GymBeam černá L",
+    "name": "Dámské tričko Pace s dlouhým rukávem Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -218746,7 +218781,7 @@
     "ean": "8586028785980",
     "ean_raw": "8586028785980",
     "sku": "123921",
-    "name": "Women's Pace Longsleeve Black - GymBeam černá XL",
+    "name": "Dámské tričko Pace s dlouhým rukávem Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -218757,7 +218792,7 @@
     "ean": "8586028785997",
     "ean_raw": "8586028785997",
     "sku": "123931",
-    "name": "Pace Leggings Black - GymBeam černá S",
+    "name": "Legíny Pace Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -218768,7 +218803,7 @@
     "ean": "8586028786000",
     "ean_raw": "8586028786000",
     "sku": "123936",
-    "name": "Pace Leggings Black - GymBeam černá M",
+    "name": "Legíny Pace Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -218779,7 +218814,7 @@
     "ean": "8586028786017",
     "ean_raw": "8586028786017",
     "sku": "123941",
-    "name": "Pace Leggings Black - GymBeam černá L",
+    "name": "Legíny Pace Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -218790,7 +218825,7 @@
     "ean": "8586028786024",
     "ean_raw": "8586028786024",
     "sku": "123946",
-    "name": "Pace Leggings Black - GymBeam černá XL",
+    "name": "Legíny Pace Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -218801,7 +218836,7 @@
     "ean": "8586028786031",
     "ean_raw": "8586028786031",
     "sku": "123951",
-    "name": "Pace Leggings Black - GymBeam černá XXL",
+    "name": "Legíny Pace Black - GymBeam černá XXL",
     "feeds": [
       "gymbeam"
     ],
@@ -218812,7 +218847,7 @@
     "ean": "8586028786048",
     "ean_raw": "8586028786048",
     "sku": "123961",
-    "name": "Women's Pace Leggings Black - GymBeam černá XS",
+    "name": "Dámské legíny Pace Black - GymBeam černá XS",
     "feeds": [
       "gymbeam"
     ],
@@ -218823,7 +218858,7 @@
     "ean": "8586028786055",
     "ean_raw": "8586028786055",
     "sku": "123966",
-    "name": "Women's Pace Leggings Black - GymBeam černá S",
+    "name": "Dámské legíny Pace Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -218834,7 +218869,7 @@
     "ean": "8586028786062",
     "ean_raw": "8586028786062",
     "sku": "123971",
-    "name": "Women's Pace Leggings Black - GymBeam černá M",
+    "name": "Dámské legíny Pace Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -218845,7 +218880,7 @@
     "ean": "8586028786079",
     "ean_raw": "8586028786079",
     "sku": "123976",
-    "name": "Women's Pace Leggings Black - GymBeam černá L",
+    "name": "Dámské legíny Pace Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -218856,7 +218891,7 @@
     "ean": "8586028786086",
     "ean_raw": "8586028786086",
     "sku": "123981",
-    "name": "Women's Pace Leggings Black - GymBeam černá XL",
+    "name": "Dámské legíny Pace Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -218867,7 +218902,7 @@
     "ean": "8586028786093",
     "ean_raw": "8586028786093",
     "sku": "123991",
-    "name": "Pace 2in1 Shorts Black - GymBeam černá S",
+    "name": "2in1 šortky Pace Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -218878,7 +218913,7 @@
     "ean": "8586028786109",
     "ean_raw": "8586028786109",
     "sku": "123996",
-    "name": "Pace 2in1 Shorts Black - GymBeam černá M",
+    "name": "2in1 šortky Pace Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -218889,7 +218924,7 @@
     "ean": "8586028786116",
     "ean_raw": "8586028786116",
     "sku": "124001",
-    "name": "Pace 2in1 Shorts Black - GymBeam černá L",
+    "name": "2in1 šortky Pace Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -218900,7 +218935,7 @@
     "ean": "8586028786123",
     "ean_raw": "8586028786123",
     "sku": "124006",
-    "name": "Pace 2in1 Shorts Black - GymBeam černá XL",
+    "name": "2in1 šortky Pace Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -218911,7 +218946,7 @@
     "ean": "8586028786130",
     "ean_raw": "8586028786130",
     "sku": "124011",
-    "name": "Pace 2in1 Shorts Black - GymBeam černá XXL",
+    "name": "2in1 šortky Pace Black - GymBeam černá XXL",
     "feeds": [
       "gymbeam"
     ],
@@ -218922,7 +218957,7 @@
     "ean": "8586028786147",
     "ean_raw": "8586028786147",
     "sku": "124021",
-    "name": "Women's Pace 2in1 Shorts Black - GymBeam černá XS",
+    "name": "Dámské 2in1 šortky Pace Black - GymBeam černá XS",
     "feeds": [
       "gymbeam"
     ],
@@ -218933,7 +218968,7 @@
     "ean": "8586028786154",
     "ean_raw": "8586028786154",
     "sku": "124026",
-    "name": "Women's Pace 2in1 Shorts Black - GymBeam černá S",
+    "name": "Dámské 2in1 šortky Pace Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -218944,7 +218979,7 @@
     "ean": "8586028786161",
     "ean_raw": "8586028786161",
     "sku": "124031",
-    "name": "Women's Pace 2in1 Shorts Black - GymBeam černá M",
+    "name": "Dámské 2in1 šortky Pace Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -218955,7 +218990,7 @@
     "ean": "8586028786178",
     "ean_raw": "8586028786178",
     "sku": "124036",
-    "name": "Women's Pace 2in1 Shorts Black - GymBeam černá L",
+    "name": "Dámské 2in1 šortky Pace Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -218966,7 +219001,7 @@
     "ean": "8586028786185",
     "ean_raw": "8586028786185",
     "sku": "124041",
-    "name": "Women's Pace 2in1 Shorts Black - GymBeam černá XL",
+    "name": "Dámské 2in1 šortky Pace Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -218977,7 +219012,7 @@
     "ean": "8586028786192",
     "ean_raw": "8586028786192",
     "sku": "124051",
-    "name": "Pace Bra Black - GymBeam černá XS",
+    "name": "Podprsenka Pace Black - GymBeam černá XS",
     "feeds": [
       "gymbeam"
     ],
@@ -218988,7 +219023,7 @@
     "ean": "8586028786208",
     "ean_raw": "8586028786208",
     "sku": "124056",
-    "name": "Pace Bra Black - GymBeam černá S",
+    "name": "Podprsenka Pace Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -218999,7 +219034,7 @@
     "ean": "8586028786215",
     "ean_raw": "8586028786215",
     "sku": "124061",
-    "name": "Pace Bra Black - GymBeam černá M",
+    "name": "Podprsenka Pace Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -219010,7 +219045,7 @@
     "ean": "8586028786222",
     "ean_raw": "8586028786222",
     "sku": "124066",
-    "name": "Pace Bra Black - GymBeam černá L",
+    "name": "Podprsenka Pace Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -219021,7 +219056,7 @@
     "ean": "8586028786239",
     "ean_raw": "8586028786239",
     "sku": "124071",
-    "name": "Pace Bra Black - GymBeam černá XL",
+    "name": "Podprsenka Pace Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -234671,70 +234706,76 @@
     "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793122",
     "ean_raw": "8594046793122",
-    "sku": "28052",
-    "name": "Amix Black Line Micellar Casein 2000g - vanilla bliss",
+    "sku": "410285",
+    "name": "Amix Black Line Micellar Casein vanilla bliss 2000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793139",
     "ean_raw": "8594046793139",
-    "sku": "28050",
-    "name": "Amix Black Line Micellar Casein 2000g - classic chocolate",
+    "sku": "410281",
+    "name": "Amix Black Line Micellar Casein classic chocolate 2000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793153",
     "ean_raw": "8594046793153",
-    "sku": "28042",
-    "name": "Amix Black Line Micellar Casein 2000g - raspberry cream kiss",
+    "sku": "410284",
+    "name": "Amix Black Line Micellar Casein raspberry cream kiss 2000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793160",
     "ean_raw": "8594046793160",
-    "sku": "28048",
-    "name": "Amix Black Line Micellar Casein 2000g - bombon crunchy",
+    "sku": "410282",
+    "name": "Amix Black Line Micellar Casein bombón crunchy 2000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793177",
     "ean_raw": "8594046793177",
-    "sku": "28049",
-    "name": "Amix Black Line Micellar Casein 2000g - milky white chocolate",
+    "sku": "410283",
+    "name": "Amix Black Line Micellar Casein milky white chocolate 2000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793184",
     "ean_raw": "8594046793184",
-    "sku": "28051",
-    "name": "Amix Black Line Micellar Casein 2000g - salted caramel ice-cream",
+    "sku": "410286",
+    "name": "Amix Black Line Micellar Casein salted caramel ice cream 2000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "kulturistika",
@@ -234771,48 +234812,52 @@
     "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793221",
     "ean_raw": "8594046793221",
-    "sku": "28045",
-    "name": "Amix Black Line Micellar Casein 1000g - raspberry cream kiss",
+    "sku": "410291",
+    "name": "Amix Black Line Micellar Casein raspberry cream kiss 1000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793238",
     "ean_raw": "8594046793238",
-    "sku": "28041",
-    "name": "Amix Black Line Micellar Casein 1000g - bombon crunchy",
+    "sku": "410294",
+    "name": "Amix Black Line Micellar Casein bombón crunchy 1000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793245",
     "ean_raw": "8594046793245",
-    "sku": "28043",
-    "name": "Amix Black Line Micellar Casein 1000g - milky white chocolate",
+    "sku": "410287",
+    "name": "Amix Black Line Micellar Casein milky white chocolate 1000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793252",
     "ean_raw": "8594046793252",
-    "sku": "28046",
-    "name": "Amix Black Line Micellar Casein 1000g - salted caramel ice-cream",
+    "sku": "410290",
+    "name": "Amix Black Line Micellar Casein salted caramel ice cream 1000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "kulturistika",
@@ -234914,15 +234959,16 @@
     "occurrences": 1
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594046793641",
     "ean_raw": "8594046793641",
-    "sku": "28044",
-    "name": "Amix Black Line Micellar Casein 1000g - classic chocolate",
+    "sku": "410289",
+    "name": "Amix Black Line Micellar Casein classic chocolate 1000 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -234935,6 +234981,28 @@
       "kulturistika"
     ],
     "occurrences": 2
+  },
+  {
+    "feed": "dafit",
+    "ean": "8594046794419",
+    "ean_raw": "8594046794419",
+    "sku": "410292",
+    "name": "Amix Black Line Yeep Pump No Caff 2.0 pear strike 375 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "8594046794433",
+    "ean_raw": "8594046794433",
+    "sku": "410293",
+    "name": "Amix Black Line Yeep Pump No Caff 2.0 jungle monster 375 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -263026,6 +263094,17 @@
   },
   {
     "feed": "dafit",
+    "ean": "8594235180009",
+    "ean_raw": "8594235180009",
+    "sku": "404812",
+    "name": "Goated Protein Drink cocoa 330 ml",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "8594235180016",
     "ean_raw": "8594235180016",
     "sku": "404811",
@@ -269437,17 +269516,6 @@
     "name": "Grizly Blanšírované mandle v olivovém oleji se solí by @mamadomisha - 180g",
     "feeds": [
       "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "8595678427140",
-    "ean_raw": "8595678427140",
-    "sku": "404812",
-    "name": "Goated Protein Drink cocoa 330 ml",
-    "feeds": [
-      "dafit"
     ],
     "occurrences": 1
   },

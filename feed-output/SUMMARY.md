@@ -1,6 +1,6 @@
 # Fitnessio feed audit
 
-- Unique EANs: 25184
-- Duplicate EAN groups: 2361
-- Products without EAN: 6585
+- Unique EANs: 25189
+- Duplicate EAN groups: 2374
+- Products without EAN: 6619
 - Feed errors: 0
