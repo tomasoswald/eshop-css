@@ -253540,6 +253540,17 @@
   },
   {
     "feed": "dafit",
+    "ean": "8594181604178",
+    "ean_raw": "8594181604178",
+    "sku": "214654",
+    "name": "Extrifit Agrezz 416 g orange",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "8594181604185",
     "ean_raw": "8594181604185",
     "sku": "214656",
@@ -265330,7 +265341,7 @@
       "dafit",
       "kulturistika"
     ],
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -266137,7 +266148,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -266536,7 +266547,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -266855,7 +266866,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 4
+    "occurrences": 1
   },
   {
     "feed": "dafit",
