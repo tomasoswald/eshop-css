@@ -1749,7 +1749,7 @@
     "ean": "13505110",
     "ean_raw": "13505110",
     "sku": "14220",
-    "name": "Kulturistika.com New 100% Whey Protein 30g - vanilkové latte",
+    "name": "EXP. 14/10/2026 Kulturistika.com New 100% Whey Protein 30g - vanilkové latte",
     "feeds": [
       "kulturistika"
     ],
@@ -23165,6 +23165,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "4779039731198",
+    "ean_raw": "4779039731198",
+    "sku": "38062",
+    "name": "BIO Pikantní kari polévka - Activus",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "4779039731945",
     "ean_raw": "4779039731945",
     "sku": "60910",
@@ -28086,7 +28097,7 @@
     "ean": "5056555202142",
     "ean_raw": "5056555202142",
     "sku": "410026",
-    "name": "Applied Nutrition Creatine Monohydrate 250 g strawberry raspberry",
+    "name": "Applied Nutrition Creatine Monohydrate strawberry raspberry 250 g",
     "feeds": [
       "dafit"
     ],
@@ -28244,7 +28255,7 @@
     "ean": "5056555204450",
     "ean_raw": "5056555204450",
     "sku": "410027",
-    "name": "Applied Nutrition Original Critical Mass 6000 g banana",
+    "name": "Applied Nutrition Original Critical Mass banana 6000 g",
     "feeds": [
       "dafit"
     ],
@@ -28787,7 +28798,7 @@
     "ean": "5056555208083",
     "ean_raw": "5056555208083",
     "sku": "407509",
-    "name": "Applied Nutrition Protein Cookie Dough choco bueno 1000 G",
+    "name": "Applied Nutrition Protein Cookie Dough choco bueno 1000 g",
     "feeds": [
       "dafit"
     ],
@@ -28798,7 +28809,7 @@
     "ean": "5056555208106",
     "ean_raw": "5056555208106",
     "sku": "407511",
-    "name": "Applied Nutrition Protein Cookie Dough double chocolate 1000 G",
+    "name": "Applied Nutrition Protein Cookie Dough double chocolate 1000 g",
     "feeds": [
       "dafit"
     ],
@@ -33680,7 +33691,7 @@
     "ean": "5060245607445",
     "ean_raw": "5060245607445",
     "sku": "410021",
-    "name": "Optimum Nutrition Essential Amino Energy 270 g fruit fusion",
+    "name": "Optimum Nutrition Essential Amino Energy fruit fusion 270 g",
     "feeds": [
       "dafit",
       "gymbeam"
@@ -37651,7 +37662,7 @@
     "ean": "5060751999300",
     "ean_raw": "5060751999300",
     "sku": "409957",
-    "name": "Optimum Nutrition Electrolyte Powder 264 g orange",
+    "name": "Optimum Nutrition Electrolyte Powder orange 264 g",
     "feeds": [
       "dafit"
     ],
@@ -38499,17 +38510,6 @@
     "ean_raw": "5060811101575",
     "sku": "27233",
     "name": "Nutrigums Black Maca 60 želé - tutti frutti",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5060811381953",
-    "ean_raw": "5060811381953",
-    "sku": "16796",
-    "name": "Grenade Carb Killa Protein bar 60g - citron",
     "feeds": [
       "kulturistika"
     ],
@@ -46932,6 +46932,17 @@
     "ean_raw": "5907534281293",
     "sku": "5277",
     "name": "HiTec Tyrosin - 100 kapslí",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5907534281361",
+    "ean_raw": "5907534281361",
+    "sku": "7712",
+    "name": "HiTec A.M.G. 925g - mango, meloun",
     "feeds": [
       "kulturistika"
     ],
@@ -60137,7 +60148,7 @@
     "ean": "5999076264162",
     "ean_raw": "5999076264162",
     "sku": "410190",
-    "name": "BioTech Iso Whey Zero 454 g black biscuit",
+    "name": "BioTech Iso Whey Zero black biscuit 454 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -62506,7 +62517,7 @@
     "ean": "5999100022362",
     "ean_raw": "5999100022362",
     "sku": "384741",
-    "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g apple",
+    "name": "Scitec Nutrition BCAA + Glutamine Xpress apple 600 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -62518,7 +62529,7 @@
     "ean": "5999100022379",
     "ean_raw": "5999100022379",
     "sku": "378256",
-    "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g bubble gum",
+    "name": "Scitec Nutrition BCAA + Glutamine Xpress bubble gum 600 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -62530,7 +62541,7 @@
     "ean": "5999100022386",
     "ean_raw": "5999100022386",
     "sku": "409945",
-    "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g citrus mix",
+    "name": "Scitec Nutrition BCAA + Glutamine Xpress citrus mix 600 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -62553,7 +62564,7 @@
     "ean": "5999100022409",
     "ean_raw": "5999100022409",
     "sku": "378255",
-    "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g long island ice tea",
+    "name": "Scitec Nutrition BCAA + Glutamine Xpress long island ice tea 600 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -62576,7 +62587,7 @@
     "ean": "5999100022423",
     "ean_raw": "5999100022423",
     "sku": "375270",
-    "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g watermelon",
+    "name": "Scitec Nutrition BCAA + Glutamine Xpress watermelon 600 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -62796,17 +62807,6 @@
     "ean_raw": "5999100022669",
     "sku": "22633",
     "name": "Scitec 100% Vegan Protein 33g - lískový oříšek",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "5999100022966",
-    "ean_raw": "5999100022966",
-    "sku": "23680",
-    "name": "Scitec Supercarb Xpress 1000g - bez příchutě",
     "feeds": [
       "kulturistika"
     ],
@@ -65026,7 +65026,7 @@
     "ean": "5999100040564",
     "ean_raw": "5999100040564",
     "sku": "409939",
-    "name": "Scitec Nutrition 100% Vegan Protein 400 g vanilla",
+    "name": "Scitec Nutrition 100% Vegan Protein vanilla 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65049,7 +65049,7 @@
     "ean": "5999100040588",
     "ean_raw": "5999100040588",
     "sku": "409940",
-    "name": "Scitec Nutrition 100% Vegan Protein 400 g hazelnut walnut",
+    "name": "Scitec Nutrition 100% Vegan Protein hazelnut walnut 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65138,7 +65138,7 @@
     "ean": "5999100041882",
     "ean_raw": "5999100041882",
     "sku": "408027",
-    "name": "Scitec Nutrition 100% WP Professional 4000 g vanilla",
+    "name": "Scitec Nutrition 100% WP Professional vanilla 4000 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65150,7 +65150,7 @@
     "ean": "5999100041899",
     "ean_raw": "5999100041899",
     "sku": "409936",
-    "name": "Scitec Nutrition 100% WP Professional 4000 g chocolate",
+    "name": "Scitec Nutrition 100% WP Professional chocolate 4000 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65162,7 +65162,7 @@
     "ean": "5999100041905",
     "ean_raw": "5999100041905",
     "sku": "408024",
-    "name": "Scitec Nutrition 100% WP Professional 4000 g chocolate hazelnut",
+    "name": "Scitec Nutrition 100% WP Professional chocolate hazelnut 4000 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65174,7 +65174,7 @@
     "ean": "5999100041912",
     "ean_raw": "5999100041912",
     "sku": "408025",
-    "name": "Scitec Nutrition 100% WP Professional 4000 g strawberry white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional strawberry white chocolate 4000 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65186,7 +65186,7 @@
     "ean": "5999100041929",
     "ean_raw": "5999100041929",
     "sku": "409938",
-    "name": "Scitec Nutrition 100% WP Professional 4000 g chocolate cookies cream",
+    "name": "Scitec Nutrition 100% WP Professional chocolate cookies cream 4000 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65198,7 +65198,7 @@
     "ean": "5999100041936",
     "ean_raw": "5999100041936",
     "sku": "408021",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g vanilla",
+    "name": "Scitec Nutrition 100% WP Professional vanilla 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65210,7 +65210,7 @@
     "ean": "5999100041943",
     "ean_raw": "5999100041943",
     "sku": "408010",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g chocolate",
+    "name": "Scitec Nutrition 100% WP Professional chocolate 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65222,7 +65222,7 @@
     "ean": "5999100041950",
     "ean_raw": "5999100041950",
     "sku": "408019",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g strawberry",
+    "name": "Scitec Nutrition 100% WP Professional strawberry 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65234,7 +65234,7 @@
     "ean": "5999100041967",
     "ean_raw": "5999100041967",
     "sku": "408013",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g chocolate hazelnut",
+    "name": "Scitec Nutrition 100% WP Professional chocolate hazelnut 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65246,7 +65246,7 @@
     "ean": "5999100041974",
     "ean_raw": "5999100041974",
     "sku": "408020",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g strawberry white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional strawberry white chocolate 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65258,7 +65258,7 @@
     "ean": "5999100041981",
     "ean_raw": "5999100041981",
     "sku": "408011",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g chocolate coconut",
+    "name": "Scitec Nutrition 100% WP Professional chocolate coconut 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65270,7 +65270,7 @@
     "ean": "5999100041998",
     "ean_raw": "5999100041998",
     "sku": "408012",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g chocolate cookies cream",
+    "name": "Scitec Nutrition 100% WP Professional chocolate cookies cream 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65282,7 +65282,7 @@
     "ean": "5999100042001",
     "ean_raw": "5999100042001",
     "sku": "408009",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g banana",
+    "name": "Scitec Nutrition 100% WP Professional banana 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65294,7 +65294,7 @@
     "ean": "5999100042018",
     "ean_raw": "5999100042018",
     "sku": "409911",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g coconut",
+    "name": "Scitec Nutrition 100% WP Professional coconut 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65306,7 +65306,7 @@
     "ean": "5999100042025",
     "ean_raw": "5999100042025",
     "sku": "408015",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g kiwi banana",
+    "name": "Scitec Nutrition 100% WP Professional kiwi banana 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65318,7 +65318,7 @@
     "ean": "5999100042032",
     "ean_raw": "5999100042032",
     "sku": "408016",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g lemon cheesecake",
+    "name": "Scitec Nutrition 100% WP Professional lemon cheesecake 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65330,7 +65330,7 @@
     "ean": "5999100042049",
     "ean_raw": "5999100042049",
     "sku": "408022",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g vanilla very berry",
+    "name": "Scitec Nutrition 100% WP Professional vanilla very berry 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65342,7 +65342,7 @@
     "ean": "5999100042056",
     "ean_raw": "5999100042056",
     "sku": "408014",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g ice coffee with real coffee",
+    "name": "Scitec Nutrition 100% WP Professional ice coffee with real coffee 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65354,7 +65354,7 @@
     "ean": "5999100042063",
     "ean_raw": "5999100042063",
     "sku": "408018",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g salted caramel",
+    "name": "Scitec Nutrition 100% WP Professional salted caramel 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65377,7 +65377,7 @@
     "ean": "5999100042087",
     "ean_raw": "5999100042087",
     "sku": "408023",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional white chocolate 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65389,7 +65389,7 @@
     "ean": "5999100042094",
     "ean_raw": "5999100042094",
     "sku": "408017",
-    "name": "Scitec Nutrition 100% WP Professional 1816 g pistachio white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional pistachio white chocolate 1816 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65413,7 +65413,7 @@
     "ean": "5999100042117",
     "ean_raw": "5999100042117",
     "sku": "409917",
-    "name": "Scitec Nutrition 100% WP Professional 780 g chocolate",
+    "name": "Scitec Nutrition 100% WP Professional chocolate 780 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65473,7 +65473,7 @@
     "ean": "5999100042162",
     "ean_raw": "5999100042162",
     "sku": "409919",
-    "name": "Scitec Nutrition 100% WP Professional 780 g chocolate cookies cream",
+    "name": "Scitec Nutrition 100% WP Professional chocolate cookies cream 780 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65485,7 +65485,7 @@
     "ean": "5999100042179",
     "ean_raw": "5999100042179",
     "sku": "409913",
-    "name": "Scitec Nutrition 100% WP Professional 780 g banana",
+    "name": "Scitec Nutrition 100% WP Professional banana 780 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65497,7 +65497,7 @@
     "ean": "5999100042186",
     "ean_raw": "5999100042186",
     "sku": "409916",
-    "name": "Scitec Nutrition 100% WP Professional 780 g coconut",
+    "name": "Scitec Nutrition 100% WP Professional coconut 780 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65509,7 +65509,7 @@
     "ean": "5999100042193",
     "ean_raw": "5999100042193",
     "sku": "409946",
-    "name": "Scitec Nutrition 100% WP Professional 780 g kiwi banana",
+    "name": "Scitec Nutrition 100% WP Professional kiwi banana 780 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65557,7 +65557,7 @@
     "ean": "5999100042230",
     "ean_raw": "5999100042230",
     "sku": "409915",
-    "name": "Scitec Nutrition 100% WP Professional 780 g salted caramel",
+    "name": "Scitec Nutrition 100% WP Professional salted caramel 780 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65569,7 +65569,7 @@
     "ean": "5999100042247",
     "ean_raw": "5999100042247",
     "sku": "409918",
-    "name": "Scitec Nutrition 100% WP Professional 780 g peanut butter",
+    "name": "Scitec Nutrition 100% WP Professional peanut butter 780 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65581,7 +65581,7 @@
     "ean": "5999100042254",
     "ean_raw": "5999100042254",
     "sku": "409914",
-    "name": "Scitec Nutrition 100% WP Professional 780 g white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional white chocolate 780 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65593,7 +65593,7 @@
     "ean": "5999100042261",
     "ean_raw": "5999100042261",
     "sku": "409912",
-    "name": "Scitec Nutrition 100% WP Professional 780 g pistachio white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional pistachio white chocolate 780 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65793,7 +65793,7 @@
     "ean": "5999100042445",
     "ean_raw": "5999100042445",
     "sku": "409920",
-    "name": "Scitec Nutrition 100% WP Professional 780 g chocolate donut",
+    "name": "Scitec Nutrition 100% WP Professional chocolate donut 780 g",
     "feeds": [
       "dafit"
     ],
@@ -80087,7 +80087,7 @@
     "ean": "7350000154511",
     "ean_raw": "7350000154511",
     "sku": "405327",
-    "name": "Pandy Candy 50 g berry ovals",
+    "name": "Pandy Candy berry ovals 50 g",
     "feeds": [
       "dafit"
     ],
@@ -80098,7 +80098,7 @@
     "ean": "7350000154689",
     "ean_raw": "7350000154689",
     "sku": "410238",
-    "name": "Pandy Candy 50 g tutti frutti",
+    "name": "Pandy Candy tutti frutti 50 g",
     "feeds": [
       "dafit"
     ],
@@ -80133,7 +80133,7 @@
     "ean": "7350000159318",
     "ean_raw": "7350000159318",
     "sku": "369182",
-    "name": "Pandy Candy 50 g strawberry liquorice",
+    "name": "Pandy Candy strawberry liquorice 50 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -103697,7 +103697,7 @@
     "ean": "8586022214288",
     "ean_raw": "8586022214288",
     "sku": "57067",
-    "name": "Protein True Whey - GymBeam čokoláda kokos",
+    "name": "True Whey - GymBeam čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -103708,7 +103708,7 @@
     "ean": "8586022214295",
     "ean_raw": "8586022214295",
     "sku": "57070",
-    "name": "Protein True Whey - GymBeam jahoda",
+    "name": "True Whey - GymBeam jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -103719,7 +103719,7 @@
     "ean": "8586022214301",
     "ean_raw": "8586022214301",
     "sku": "57073",
-    "name": "Protein True Whey - GymBeam vanilka stévie",
+    "name": "True Whey - GymBeam vanilka stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -106667,7 +106667,7 @@
     "ean": "8586022218347",
     "ean_raw": "8586022218347",
     "sku": "28438",
-    "name": "Protein True Whey - GymBeam cookies & cream",
+    "name": "True Whey - GymBeam cookies & cream",
     "feeds": [
       "gymbeam"
     ],
@@ -106678,7 +106678,7 @@
     "ean": "8586022218354",
     "ean_raw": "8586022218354",
     "sku": "5079",
-    "name": "Protein True Whey - GymBeam cookies & cream",
+    "name": "True Whey - GymBeam cookies & cream",
     "feeds": [
       "gymbeam"
     ],
@@ -107151,7 +107151,7 @@
     "ean": "8586022218859",
     "ean_raw": "8586022218859",
     "sku": "67336",
-    "name": "Hericium (Leví hříva) - GymBeam 90 kaps.",
+    "name": "Hericium (Lion‘s Mane) - GymBeam 90 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -109529,7 +109529,7 @@
     "ean": "8586024621688",
     "ean_raw": "8586024621688",
     "sku": "81016",
-    "name": "Protein True Whey - GymBeam vanilka",
+    "name": "True Whey - GymBeam vanilka",
     "feeds": [
       "gymbeam"
     ],
@@ -189422,7 +189422,7 @@
     "ean": "8586028122389",
     "ean_raw": "8586028122389",
     "sku": "110326",
-    "name": "Protein True Whey - GymBeam bez příchuti",
+    "name": "True Whey - GymBeam bez příchuti",
     "feeds": [
       "gymbeam"
     ],
@@ -189433,7 +189433,7 @@
     "ean": "8586028122396",
     "ean_raw": "8586028122396",
     "sku": "110329",
-    "name": "Protein True Whey - GymBeam bez příchuti",
+    "name": "True Whey - GymBeam bez příchuti",
     "feeds": [
       "gymbeam"
     ],
@@ -204811,7 +204811,7 @@
     "ean": "8586028594483",
     "ean_raw": "8586028594483",
     "sku": "115654",
-    "name": "Melatonin Plus šumivý - GymBeam malina",
+    "name": "Melatonin Plus šumivý – GymBeam malina",
     "feeds": [
       "gymbeam"
     ],
@@ -215335,6 +215335,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028774014",
+    "ean_raw": "8586028774014",
+    "sku": "123475",
+    "name": "Kešu krém s vanilkou - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028774250",
     "ean_raw": "8586028774250",
     "sku": "120745",
@@ -217043,7 +217054,7 @@
     "ean": "8586028777572",
     "ean_raw": "8586028777572",
     "sku": "123716",
-    "name": "Protein True Whey - GymBeam mango marakuja",
+    "name": "True Whey - GymBeam mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -217054,7 +217065,7 @@
     "ean": "8586028777589",
     "ean_raw": "8586028777589",
     "sku": "123721",
-    "name": "Protein True Whey - GymBeam mango marakuja",
+    "name": "True Whey - GymBeam mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -217065,7 +217076,7 @@
     "ean": "8586028777596",
     "ean_raw": "8586028777596",
     "sku": "123726",
-    "name": "Protein True Whey - GymBeam černý rybíz",
+    "name": "True Whey - GymBeam černý rybíz",
     "feeds": [
       "gymbeam"
     ],
@@ -217076,7 +217087,7 @@
     "ean": "8586028777602",
     "ean_raw": "8586028777602",
     "sku": "123731",
-    "name": "Protein True Whey - GymBeam černý rybíz",
+    "name": "True Whey - GymBeam černý rybíz",
     "feeds": [
       "gymbeam"
     ],
@@ -218650,61 +218661,6 @@
     "ean_raw": "8586028785201",
     "sku": "123394",
     "name": "Kurkumin + Vitamin E - GymBeam 180 kaps.",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586028785775",
-    "ean_raw": "8586028785775",
-    "sku": "123811",
-    "name": "Tílko Pace Black - GymBeam černá S",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586028785782",
-    "ean_raw": "8586028785782",
-    "sku": "123816",
-    "name": "Tílko Pace Black - GymBeam černá M",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586028785799",
-    "ean_raw": "8586028785799",
-    "sku": "123821",
-    "name": "Tílko Pace Black - GymBeam černá L",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586028785805",
-    "ean_raw": "8586028785805",
-    "sku": "123826",
-    "name": "Tílko Pace Black - GymBeam černá XL",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586028785812",
-    "ean_raw": "8586028785812",
-    "sku": "123831",
-    "name": "Tílko Pace Black - GymBeam černá XXL",
     "feeds": [
       "gymbeam"
     ],
@@ -221201,7 +221157,7 @@
     "ean": "8588006139068",
     "ean_raw": "8588006139068",
     "sku": "5218",
-    "name": "Protein True Whey - GymBeam čokoláda kokos",
+    "name": "True Whey - GymBeam čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -221256,7 +221212,7 @@
     "ean": "8588006139235",
     "ean_raw": "8588006139235",
     "sku": "5217",
-    "name": "Protein True Whey - GymBeam bílá čokoláda",
+    "name": "True Whey - GymBeam bílá čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -221289,7 +221245,7 @@
     "ean": "8588006139273",
     "ean_raw": "8588006139273",
     "sku": "5219",
-    "name": "Protein True Whey - GymBeam banán",
+    "name": "True Whey - GymBeam banán",
     "feeds": [
       "gymbeam"
     ],
@@ -221608,7 +221564,7 @@
     "ean": "8588006139808",
     "ean_raw": "8588006139808",
     "sku": "5076",
-    "name": "Protein True Whey - GymBeam čokoláda",
+    "name": "True Whey - GymBeam čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -221619,7 +221575,7 @@
     "ean": "8588006139815",
     "ean_raw": "8588006139815",
     "sku": "5077",
-    "name": "Protein True Whey - GymBeam vanilka",
+    "name": "True Whey - GymBeam vanilka",
     "feeds": [
       "gymbeam"
     ],
@@ -221630,7 +221586,7 @@
     "ean": "8588006139822",
     "ean_raw": "8588006139822",
     "sku": "5078",
-    "name": "Protein True Whey - GymBeam jahoda",
+    "name": "True Whey - GymBeam jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -221773,7 +221729,7 @@
     "ean": "8588006485028",
     "ean_raw": "8588006485028",
     "sku": "5663",
-    "name": "Protein True Whey - GymBeam čokoláda lískový oříšek",
+    "name": "True Whey - GymBeam čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -221971,7 +221927,7 @@
     "ean": "8588006485387",
     "ean_raw": "8588006485387",
     "sku": "5216",
-    "name": "Protein True Whey - GymBeam karamel",
+    "name": "True Whey - GymBeam karamel",
     "feeds": [
       "gymbeam"
     ],
@@ -222114,7 +222070,7 @@
     "ean": "8588006485622",
     "ean_raw": "8588006485622",
     "sku": "6428",
-    "name": "Protein True Whey - GymBeam čokoláda",
+    "name": "True Whey - GymBeam čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -222125,7 +222081,7 @@
     "ean": "8588006485639",
     "ean_raw": "8588006485639",
     "sku": "6429",
-    "name": "Protein True Whey - GymBeam čokoláda kokos",
+    "name": "True Whey - GymBeam čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -222136,7 +222092,7 @@
     "ean": "8588006485646",
     "ean_raw": "8588006485646",
     "sku": "6430",
-    "name": "Protein True Whey - GymBeam vanilka",
+    "name": "True Whey - GymBeam vanilka",
     "feeds": [
       "gymbeam"
     ],
@@ -222147,7 +222103,7 @@
     "ean": "8588006485653",
     "ean_raw": "8588006485653",
     "sku": "6431",
-    "name": "Protein True Whey - GymBeam jahoda",
+    "name": "True Whey - GymBeam jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -222169,7 +222125,7 @@
     "ean": "8588006485684",
     "ean_raw": "8588006485684",
     "sku": "6617",
-    "name": "Protein True Whey - GymBeam bílá čokoláda",
+    "name": "True Whey - GymBeam bílá čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -222180,7 +222136,7 @@
     "ean": "8588006485721",
     "ean_raw": "8588006485721",
     "sku": "6670",
-    "name": "Protein True Whey - GymBeam banán",
+    "name": "True Whey - GymBeam banán",
     "feeds": [
       "gymbeam"
     ],
@@ -222389,7 +222345,7 @@
     "ean": "8588006751024",
     "ean_raw": "8588006751024",
     "sku": "7276",
-    "name": "Protein True Whey - GymBeam pistácie",
+    "name": "True Whey - GymBeam pistácie",
     "feeds": [
       "gymbeam"
     ],
@@ -222400,7 +222356,7 @@
     "ean": "8588006751031",
     "ean_raw": "8588006751031",
     "sku": "7277",
-    "name": "Protein True Whey - GymBeam pistácie",
+    "name": "True Whey - GymBeam pistácie",
     "feeds": [
       "gymbeam"
     ],
@@ -222587,7 +222543,7 @@
     "ean": "8588006751208",
     "ean_raw": "8588006751208",
     "sku": "7912",
-    "name": "Protein True Whey - GymBeam čokoláda stévie",
+    "name": "True Whey - GymBeam čokoláda stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222598,7 +222554,7 @@
     "ean": "8588006751215",
     "ean_raw": "8588006751215",
     "sku": "7911",
-    "name": "Protein True Whey - GymBeam vanilka stévie",
+    "name": "True Whey - GymBeam vanilka stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222609,7 +222565,7 @@
     "ean": "8588006751222",
     "ean_raw": "8588006751222",
     "sku": "7910",
-    "name": "Protein True Whey - GymBeam jahoda stévie",
+    "name": "True Whey - GymBeam jahoda stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222620,7 +222576,7 @@
     "ean": "8588006751239",
     "ean_raw": "8588006751239",
     "sku": "7916",
-    "name": "Protein True Whey - GymBeam čokoláda stévie",
+    "name": "True Whey - GymBeam čokoláda stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222631,7 +222587,7 @@
     "ean": "8588006751246",
     "ean_raw": "8588006751246",
     "sku": "7914",
-    "name": "Protein True Whey - GymBeam vanilka stévie",
+    "name": "True Whey - GymBeam vanilka stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222642,7 +222598,7 @@
     "ean": "8588006751253",
     "ean_raw": "8588006751253",
     "sku": "7913",
-    "name": "Protein True Whey - GymBeam jahoda stévie",
+    "name": "True Whey - GymBeam jahoda stévie",
     "feeds": [
       "gymbeam"
     ],
@@ -222928,7 +222884,7 @@
     "ean": "8588006751635",
     "ean_raw": "8588006751635",
     "sku": "7064",
-    "name": "Protein True Whey - GymBeam čokoláda lískový oříšek",
+    "name": "True Whey - GymBeam čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -224834,7 +224790,7 @@
     "ean": "8588007570174",
     "ean_raw": "8588007570174",
     "sku": "30361",
-    "name": "Protein True Whey - GymBeam karamel",
+    "name": "True Whey - GymBeam karamel",
     "feeds": [
       "gymbeam"
     ],
@@ -224845,7 +224801,7 @@
     "ean": "8588007570181",
     "ean_raw": "8588007570181",
     "sku": "30299",
-    "name": "Protein True Whey - GymBeam čokoláda třešeň",
+    "name": "True Whey - GymBeam čokoláda třešeň",
     "feeds": [
       "gymbeam"
     ],
@@ -224856,7 +224812,7 @@
     "ean": "8588007570198",
     "ean_raw": "8588007570198",
     "sku": "30298",
-    "name": "Protein True Whey - GymBeam čokoláda třešeň",
+    "name": "True Whey - GymBeam čokoláda třešeň",
     "feeds": [
       "gymbeam"
     ],
@@ -224867,7 +224823,7 @@
     "ean": "8588007570204",
     "ean_raw": "8588007570204",
     "sku": "6427",
-    "name": "Protein True Whey - GymBeam bílá čokoláda malina",
+    "name": "True Whey - GymBeam bílá čokoláda malina",
     "feeds": [
       "gymbeam"
     ],
@@ -224878,7 +224834,7 @@
     "ean": "8588007570211",
     "ean_raw": "8588007570211",
     "sku": "6168",
-    "name": "Protein True Whey - GymBeam bílá čokoláda malina",
+    "name": "True Whey - GymBeam bílá čokoláda malina",
     "feeds": [
       "gymbeam"
     ],
@@ -224889,7 +224845,7 @@
     "ean": "8588007570228",
     "ean_raw": "8588007570228",
     "sku": "30297",
-    "name": "Protein True Whey - GymBeam arašídové máslo",
+    "name": "True Whey - GymBeam arašídové máslo",
     "feeds": [
       "gymbeam"
     ],
@@ -224900,7 +224856,7 @@
     "ean": "8588007570235",
     "ean_raw": "8588007570235",
     "sku": "30296",
-    "name": "Protein True Whey - GymBeam arašídové máslo",
+    "name": "True Whey - GymBeam arašídové máslo",
     "feeds": [
       "gymbeam"
     ],
@@ -232866,17 +232822,6 @@
       "kulturistika"
     ],
     "occurrences": 2
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594032108695",
-    "ean_raw": "8594032108695",
-    "sku": "11830",
-    "name": "MAXXWIN Taurine 1600 - 60 kapslí",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -258474,21 +258419,10 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "8594193033058",
-    "ean_raw": "8594193033058",
-    "sku": "29267",
-    "name": "Big Boy Big Mrkváček - 220g",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "8594193033225",
     "ean_raw": "8594193033225",
     "sku": "28489",
-    "name": "Big Boy Vánoční lázeňská promenáda - 220g",
+    "name": "EXP. 24/10/2026 Big Boy Vánoční lázeňská promenáda - 220g",
     "feeds": [
       "kulturistika"
     ],
@@ -258760,27 +258694,15 @@
     "occurrences": 1
   },
   {
-    "feed": "kulturistika",
-    "ean": "8594193034857",
-    "ean_raw": "8594193034857",
-    "sku": "28523",
-    "name": "Big Boy Zimní pohádka 2-pack - 440g",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
     "feed": "dafit",
     "ean": "8594193035007",
     "ean_raw": "8594193035007",
     "sku": "400547",
     "name": "Big Boy Zamilovaná Pistácie 220 g",
     "feeds": [
-      "dafit",
-      "kulturistika"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -262811,7 +262733,7 @@
     "ean": "8594226410610",
     "ean_raw": "8594226410610",
     "sku": "410864",
-    "name": "Accurate+ Pure Whey 2000 g nut",
+    "name": "Accurate+ Pure Whey nut 2000 g",
     "feeds": [
       "dafit"
     ],
@@ -262888,7 +262810,7 @@
     "ean": "8594226410696",
     "ean_raw": "8594226410696",
     "sku": "410865",
-    "name": "Accurate+ Pure Whey 2000 g forest fruit",
+    "name": "Accurate+ Pure Whey forest fruit 2000 g",
     "feeds": [
       "dafit"
     ],
@@ -265341,7 +265263,7 @@
       "dafit",
       "kulturistika"
     ],
-    "occurrences": 2
+    "occurrences": 3
   },
   {
     "feed": "dafit",
@@ -266148,7 +266070,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -266547,7 +266469,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -266866,7 +266788,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 4
   },
   {
     "feed": "dafit",
@@ -270415,7 +270337,7 @@
     "ean": "8595688402601",
     "ean_raw": "8595688402601",
     "sku": "26550",
-    "name": "Kulturistika.com New 100% Whey Protein 30g - banán v čokoládě",
+    "name": "EXP. 14/10/2026 Kulturistika.com New 100% Whey Protein 30g - banán v čokoládě",
     "feeds": [
       "kulturistika"
     ],

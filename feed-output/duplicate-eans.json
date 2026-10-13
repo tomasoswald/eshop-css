@@ -8994,7 +8994,7 @@
         "ean": "5060245607445",
         "ean_raw": "5060245607445",
         "sku": "410021",
-        "name": "Optimum Nutrition Essential Amino Energy 270 g fruit fusion"
+        "name": "Optimum Nutrition Essential Amino Energy fruit fusion 270 g"
       },
       {
         "feed": "gymbeam",
@@ -16770,7 +16770,7 @@
         "ean": "5999076264162",
         "ean_raw": "5999076264162",
         "sku": "410190",
-        "name": "BioTech Iso Whey Zero 454 g black biscuit"
+        "name": "BioTech Iso Whey Zero black biscuit 454 g"
       },
       {
         "feed": "kulturistika",
@@ -18649,7 +18649,7 @@
         "ean": "5999100022171",
         "ean_raw": "5999100022171",
         "sku": "4989",
-        "name": "Scitec BCAA Xpress 700g - hruška"
+        "name": "EXP. 2/11/2026 Scitec BCAA Xpress 700g - hruška"
       }
     ]
   },
@@ -18714,7 +18714,7 @@
         "ean": "5999100022362",
         "ean_raw": "5999100022362",
         "sku": "384741",
-        "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g apple"
+        "name": "Scitec Nutrition BCAA + Glutamine Xpress apple 600 g"
       },
       {
         "feed": "kulturistika",
@@ -18738,7 +18738,7 @@
         "ean": "5999100022379",
         "ean_raw": "5999100022379",
         "sku": "378256",
-        "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g bubble gum"
+        "name": "Scitec Nutrition BCAA + Glutamine Xpress bubble gum 600 g"
       },
       {
         "feed": "kulturistika",
@@ -18762,7 +18762,7 @@
         "ean": "5999100022386",
         "ean_raw": "5999100022386",
         "sku": "409945",
-        "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g citrus mix"
+        "name": "Scitec Nutrition BCAA + Glutamine Xpress citrus mix 600 g"
       },
       {
         "feed": "kulturistika",
@@ -18786,7 +18786,7 @@
         "ean": "5999100022409",
         "ean_raw": "5999100022409",
         "sku": "378255",
-        "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g long island ice tea"
+        "name": "Scitec Nutrition BCAA + Glutamine Xpress long island ice tea 600 g"
       },
       {
         "feed": "kulturistika",
@@ -18810,7 +18810,7 @@
         "ean": "5999100022423",
         "ean_raw": "5999100022423",
         "sku": "375270",
-        "name": "Scitec Nutrition BCAA + Glutamine Xpress 600 g watermelon"
+        "name": "Scitec Nutrition BCAA + Glutamine Xpress watermelon 600 g"
       },
       {
         "feed": "kulturistika",
@@ -20322,7 +20322,7 @@
         "ean": "5999100040564",
         "ean_raw": "5999100040564",
         "sku": "409939",
-        "name": "Scitec Nutrition 100% Vegan Protein 400 g vanilla"
+        "name": "Scitec Nutrition 100% Vegan Protein vanilla 400 g"
       },
       {
         "feed": "kulturistika",
@@ -20346,7 +20346,7 @@
         "ean": "5999100040588",
         "ean_raw": "5999100040588",
         "sku": "409940",
-        "name": "Scitec Nutrition 100% Vegan Protein 400 g hazelnut walnut"
+        "name": "Scitec Nutrition 100% Vegan Protein hazelnut walnut 400 g"
       },
       {
         "feed": "kulturistika",
@@ -20370,7 +20370,7 @@
         "ean": "5999100041882",
         "ean_raw": "5999100041882",
         "sku": "408027",
-        "name": "Scitec Nutrition 100% WP Professional 4000 g vanilla"
+        "name": "Scitec Nutrition 100% WP Professional vanilla 4000 g"
       },
       {
         "feed": "kulturistika",
@@ -20394,7 +20394,7 @@
         "ean": "5999100041899",
         "ean_raw": "5999100041899",
         "sku": "409936",
-        "name": "Scitec Nutrition 100% WP Professional 4000 g chocolate"
+        "name": "Scitec Nutrition 100% WP Professional chocolate 4000 g"
       },
       {
         "feed": "kulturistika",
@@ -20418,7 +20418,7 @@
         "ean": "5999100041905",
         "ean_raw": "5999100041905",
         "sku": "408024",
-        "name": "Scitec Nutrition 100% WP Professional 4000 g chocolate hazelnut"
+        "name": "Scitec Nutrition 100% WP Professional chocolate hazelnut 4000 g"
       },
       {
         "feed": "kulturistika",
@@ -20442,7 +20442,7 @@
         "ean": "5999100041912",
         "ean_raw": "5999100041912",
         "sku": "408025",
-        "name": "Scitec Nutrition 100% WP Professional 4000 g strawberry white chocolate"
+        "name": "Scitec Nutrition 100% WP Professional strawberry white chocolate 4000 g"
       },
       {
         "feed": "kulturistika",
@@ -20466,7 +20466,7 @@
         "ean": "5999100041929",
         "ean_raw": "5999100041929",
         "sku": "409938",
-        "name": "Scitec Nutrition 100% WP Professional 4000 g chocolate cookies cream"
+        "name": "Scitec Nutrition 100% WP Professional chocolate cookies cream 4000 g"
       },
       {
         "feed": "kulturistika",
@@ -20490,7 +20490,7 @@
         "ean": "5999100041936",
         "ean_raw": "5999100041936",
         "sku": "408021",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g vanilla"
+        "name": "Scitec Nutrition 100% WP Professional vanilla 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20514,7 +20514,7 @@
         "ean": "5999100041943",
         "ean_raw": "5999100041943",
         "sku": "408010",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g chocolate"
+        "name": "Scitec Nutrition 100% WP Professional chocolate 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20538,7 +20538,7 @@
         "ean": "5999100041950",
         "ean_raw": "5999100041950",
         "sku": "408019",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g strawberry"
+        "name": "Scitec Nutrition 100% WP Professional strawberry 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20562,7 +20562,7 @@
         "ean": "5999100041967",
         "ean_raw": "5999100041967",
         "sku": "408013",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g chocolate hazelnut"
+        "name": "Scitec Nutrition 100% WP Professional chocolate hazelnut 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20586,7 +20586,7 @@
         "ean": "5999100041974",
         "ean_raw": "5999100041974",
         "sku": "408020",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g strawberry white chocolate"
+        "name": "Scitec Nutrition 100% WP Professional strawberry white chocolate 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20610,7 +20610,7 @@
         "ean": "5999100041981",
         "ean_raw": "5999100041981",
         "sku": "408011",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g chocolate coconut"
+        "name": "Scitec Nutrition 100% WP Professional chocolate coconut 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20634,7 +20634,7 @@
         "ean": "5999100041998",
         "ean_raw": "5999100041998",
         "sku": "408012",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g chocolate cookies cream"
+        "name": "Scitec Nutrition 100% WP Professional chocolate cookies cream 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20658,7 +20658,7 @@
         "ean": "5999100042001",
         "ean_raw": "5999100042001",
         "sku": "408009",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g banana"
+        "name": "Scitec Nutrition 100% WP Professional banana 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20682,7 +20682,7 @@
         "ean": "5999100042018",
         "ean_raw": "5999100042018",
         "sku": "409911",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g coconut"
+        "name": "Scitec Nutrition 100% WP Professional coconut 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20706,7 +20706,7 @@
         "ean": "5999100042025",
         "ean_raw": "5999100042025",
         "sku": "408015",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g kiwi banana"
+        "name": "Scitec Nutrition 100% WP Professional kiwi banana 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20730,7 +20730,7 @@
         "ean": "5999100042032",
         "ean_raw": "5999100042032",
         "sku": "408016",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g lemon cheesecake"
+        "name": "Scitec Nutrition 100% WP Professional lemon cheesecake 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20754,7 +20754,7 @@
         "ean": "5999100042049",
         "ean_raw": "5999100042049",
         "sku": "408022",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g vanilla very berry"
+        "name": "Scitec Nutrition 100% WP Professional vanilla very berry 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20778,7 +20778,7 @@
         "ean": "5999100042056",
         "ean_raw": "5999100042056",
         "sku": "408014",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g ice coffee with real coffee"
+        "name": "Scitec Nutrition 100% WP Professional ice coffee with real coffee 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20802,7 +20802,7 @@
         "ean": "5999100042063",
         "ean_raw": "5999100042063",
         "sku": "408018",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g salted caramel"
+        "name": "Scitec Nutrition 100% WP Professional salted caramel 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20826,7 +20826,7 @@
         "ean": "5999100042087",
         "ean_raw": "5999100042087",
         "sku": "408023",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g white chocolate"
+        "name": "Scitec Nutrition 100% WP Professional white chocolate 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20850,7 +20850,7 @@
         "ean": "5999100042094",
         "ean_raw": "5999100042094",
         "sku": "408017",
-        "name": "Scitec Nutrition 100% WP Professional 1816 g pistachio white chocolate"
+        "name": "Scitec Nutrition 100% WP Professional pistachio white chocolate 1816 g"
       },
       {
         "feed": "kulturistika",
@@ -20898,7 +20898,7 @@
         "ean": "5999100042117",
         "ean_raw": "5999100042117",
         "sku": "409917",
-        "name": "Scitec Nutrition 100% WP Professional 780 g chocolate"
+        "name": "Scitec Nutrition 100% WP Professional chocolate 780 g"
       },
       {
         "feed": "kulturistika",
@@ -21018,7 +21018,7 @@
         "ean": "5999100042162",
         "ean_raw": "5999100042162",
         "sku": "409919",
-        "name": "Scitec Nutrition 100% WP Professional 780 g chocolate cookies cream"
+        "name": "Scitec Nutrition 100% WP Professional chocolate cookies cream 780 g"
       },
       {
         "feed": "kulturistika",
@@ -21042,7 +21042,7 @@
         "ean": "5999100042179",
         "ean_raw": "5999100042179",
         "sku": "409913",
-        "name": "Scitec Nutrition 100% WP Professional 780 g banana"
+        "name": "Scitec Nutrition 100% WP Professional banana 780 g"
       },
       {
         "feed": "kulturistika",
@@ -21066,7 +21066,7 @@
         "ean": "5999100042186",
         "ean_raw": "5999100042186",
         "sku": "409916",
-        "name": "Scitec Nutrition 100% WP Professional 780 g coconut"
+        "name": "Scitec Nutrition 100% WP Professional coconut 780 g"
       },
       {
         "feed": "kulturistika",
@@ -21090,7 +21090,7 @@
         "ean": "5999100042193",
         "ean_raw": "5999100042193",
         "sku": "409946",
-        "name": "Scitec Nutrition 100% WP Professional 780 g kiwi banana"
+        "name": "Scitec Nutrition 100% WP Professional kiwi banana 780 g"
       },
       {
         "feed": "kulturistika",
@@ -21186,7 +21186,7 @@
         "ean": "5999100042230",
         "ean_raw": "5999100042230",
         "sku": "409915",
-        "name": "Scitec Nutrition 100% WP Professional 780 g salted caramel"
+        "name": "Scitec Nutrition 100% WP Professional salted caramel 780 g"
       },
       {
         "feed": "kulturistika",
@@ -21210,7 +21210,7 @@
         "ean": "5999100042247",
         "ean_raw": "5999100042247",
         "sku": "409918",
-        "name": "Scitec Nutrition 100% WP Professional 780 g peanut butter"
+        "name": "Scitec Nutrition 100% WP Professional peanut butter 780 g"
       },
       {
         "feed": "kulturistika",
@@ -21234,7 +21234,7 @@
         "ean": "5999100042254",
         "ean_raw": "5999100042254",
         "sku": "409914",
-        "name": "Scitec Nutrition 100% WP Professional 780 g white chocolate"
+        "name": "Scitec Nutrition 100% WP Professional white chocolate 780 g"
       },
       {
         "feed": "kulturistika",
@@ -21258,7 +21258,7 @@
         "ean": "5999100042261",
         "ean_raw": "5999100042261",
         "sku": "409912",
-        "name": "Scitec Nutrition 100% WP Professional 780 g pistachio white chocolate"
+        "name": "Scitec Nutrition 100% WP Professional pistachio white chocolate 780 g"
       },
       {
         "feed": "kulturistika",
@@ -26186,7 +26186,7 @@
         "ean": "7350000159318",
         "ean_raw": "7350000159318",
         "sku": "369182",
-        "name": "Pandy Candy 50 g strawberry liquorice"
+        "name": "Pandy Candy strawberry liquorice 50 g"
       },
       {
         "feed": "kulturistika",
@@ -45748,30 +45748,6 @@
     ]
   },
   {
-    "ean": "8594193035007",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8594193035007",
-        "ean_raw": "8594193035007",
-        "sku": "400547",
-        "name": "Big Boy Zamilovaná Pistácie 220 g"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "8594193035007",
-        "ean_raw": "8594193035007",
-        "sku": "29219",
-        "name": "Big Boy Zamilovaná pistácie - 220g"
-      }
-    ]
-  },
-  {
     "ean": "8594193035359",
     "feeds": [
       "dafit",
@@ -48559,13 +48535,20 @@
       "dafit",
       "kulturistika"
     ],
-    "occurrences": 2,
+    "occurrences": 3,
     "products": [
       {
         "feed": "dafit",
         "ean": "8595612010698",
         "ean_raw": "8595612010698",
         "sku": "347825",
+        "name": "ATP Vitality Gelatina Caps 100 tob"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612010698",
+        "ean_raw": "8595612010698",
+        "sku": "406873",
         "name": "ATP Vitality Gelatina Caps 100 tob"
       },
       {
@@ -49202,6 +49185,29 @@
     ]
   },
   {
+    "ean": "8595612013613",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595612013613",
+        "ean_raw": "8595612013613",
+        "sku": "390039",
+        "name": "ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612013613",
+        "ean_raw": "8595612013613",
+        "sku": "408423",
+        "name": "ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko"
+      }
+    ]
+  },
+  {
     "ean": "8595612013675",
     "feeds": [
       "dafit",
@@ -49270,6 +49276,66 @@
         "ean_raw": "8595612013736",
         "sku": "27977",
         "name": "ATP Pure Erythritol Sweetener - 750g"
+      }
+    ]
+  },
+  {
+    "ean": "8595612014009",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595612014009",
+        "ean_raw": "8595612014009",
+        "sku": "396163",
+        "name": "ATP Vitality Ginger Extract + Vitamin C 90 tob"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612014009",
+        "ean_raw": "8595612014009",
+        "sku": "406594",
+        "name": "ATP Vitality Ginger Extract + Vitamin C 90 tob"
+      }
+    ]
+  },
+  {
+    "ean": "8595612014627",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 4,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8595612014627",
+        "ean_raw": "8595612014627",
+        "sku": "402375",
+        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612014627",
+        "ean_raw": "8595612014627",
+        "sku": "405606",
+        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612014627",
+        "ean_raw": "8595612014627",
+        "sku": "406603",
+        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
+      },
+      {
+        "feed": "dafit",
+        "ean": "8595612014627",
+        "ean_raw": "8595612014627",
+        "sku": "410479",
+        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
       }
     ]
   },
