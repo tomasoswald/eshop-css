@@ -1206,6 +1206,30 @@
     ]
   },
   {
+    "ean": "4044782117712",
+    "feeds": [
+      "gymbeam",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "kulturistika",
+        "ean": "4044782117712",
+        "ean_raw": "4044782117712",
+        "sku": "58588",
+        "name": "Weider Premium EAA + L-Glutamine - 180 kapslí"
+      },
+      {
+        "feed": "gymbeam",
+        "ean": "4044782117712",
+        "ean_raw": "4044782117712",
+        "sku": "116020",
+        "name": "Premium EAA + L-glutamin - Weider 180 kaps."
+      }
+    ]
+  },
+  {
     "ean": "4044782300954",
     "feeds": [
       "gymbeam",
@@ -1850,6 +1874,30 @@
         "ean_raw": "4044782326251",
         "sku": "4837",
         "name": "Mega Mass 4000 - Weider jahoda"
+      }
+    ]
+  },
+  {
+    "ean": "4044782376409",
+    "feeds": [
+      "gymbeam",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "kulturistika",
+        "ean": "4044782376409",
+        "ean_raw": "4044782376409",
+        "sku": "58602",
+        "name": "Weider Premium Tribulus 90% Saponins - 90 kapslí"
+      },
+      {
+        "feed": "gymbeam",
+        "ean": "4044782376409",
+        "ean_raw": "4044782376409",
+        "sku": "94372",
+        "name": "Premium Tribulus - Weider 90 kaps."
       }
     ]
   },
@@ -3122,30 +3170,6 @@
         "ean_raw": "5033579001401",
         "sku": "2612",
         "name": "Reflex Instant Mass Heavyweight 5,4kg - vanilka"
-      }
-    ]
-  },
-  {
-    "ean": "5033579001470",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "5033579001470",
-        "ean_raw": "5033579001470",
-        "sku": "351371",
-        "name": "Reflex Instant Mass Heavy Weight 5400 g blueberry"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "5033579001470",
-        "ean_raw": "5033579001470",
-        "sku": "17162",
-        "name": "Reflex Instant Mass Heavyweight 5,4kg - borůvka"
       }
     ]
   },
@@ -4609,7 +4633,7 @@
         "ean": "5056357999424",
         "ean_raw": "5056357999424",
         "sku": "27423",
-        "name": "Mars Low Sugar High Protein Bar 57g - mléčná čokoláda"
+        "name": "EXP. 15/10/2026 Mars Low Sugar High Protein Bar 57g - mléčná čokoláda"
       }
     ]
   },
@@ -17982,6 +18006,78 @@
     ]
   },
   {
+    "ean": "5999076270644",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999076270644",
+        "ean_raw": "5999076270644",
+        "sku": "408059",
+        "name": "BioTech Iso Whey Zero Limited Edition dubai chocolate 908 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999076270644",
+        "ean_raw": "5999076270644",
+        "sku": "58591",
+        "name": "BiotechUSA Iso Whey Zero 908g - dubajská čokoláda"
+      }
+    ]
+  },
+  {
+    "ean": "5999076270682",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999076270682",
+        "ean_raw": "5999076270682",
+        "sku": "404858",
+        "name": "BioTech 100% Pure Whey Limited Edition strawberry matcha latte 900 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999076270682",
+        "ean_raw": "5999076270682",
+        "sku": "58593",
+        "name": "BiotechUSA 100% Pure Whey 900g - jahodové matcha latte"
+      }
+    ]
+  },
+  {
+    "ean": "5999076271085",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999076271085",
+        "ean_raw": "5999076271085",
+        "sku": "407456",
+        "name": "BioTech 100% Pure Whey Limited Edition baklava 900 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999076271085",
+        "ean_raw": "5999076271085",
+        "sku": "58592",
+        "name": "BiotechUSA 100% Pure Whey 900g - baklava"
+      }
+    ]
+  },
+  {
     "ean": "5999100019553",
     "feeds": [
       "dafit",
@@ -20354,6 +20450,126 @@
         "ean_raw": "5999100040588",
         "sku": "58562",
         "name": "Scitec 100% Vegan Protein 400g - lískový oříšek"
+      }
+    ]
+  },
+  {
+    "ean": "5999100041141",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100041141",
+        "ean_raw": "5999100041141",
+        "sku": "405027",
+        "name": "Scitec Nutrition Whey Infusion strawberry 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100041141",
+        "ean_raw": "5999100041141",
+        "sku": "58597",
+        "name": "Scitec Whey Infusion 2000g - jahoda"
+      }
+    ]
+  },
+  {
+    "ean": "5999100041158",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100041158",
+        "ean_raw": "5999100041158",
+        "sku": "405023",
+        "name": "Scitec Nutrition Whey Infusion banana 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100041158",
+        "ean_raw": "5999100041158",
+        "sku": "58599",
+        "name": "Scitec Whey Infusion 2000g - banán"
+      }
+    ]
+  },
+  {
+    "ean": "5999100041165",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100041165",
+        "ean_raw": "5999100041165",
+        "sku": "405026",
+        "name": "Scitec Nutrition Whey Infusion peanut butter 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100041165",
+        "ean_raw": "5999100041165",
+        "sku": "58598",
+        "name": "Scitec Whey Infusion 2000g - arašídové máslo"
+      }
+    ]
+  },
+  {
+    "ean": "5999100041172",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100041172",
+        "ean_raw": "5999100041172",
+        "sku": "405028",
+        "name": "Scitec Nutrition Whey Infusion vanilla ice cream 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100041172",
+        "ean_raw": "5999100041172",
+        "sku": "58596",
+        "name": "Scitec Whey Infusion 2000g - vanilková zmrzlina"
+      }
+    ]
+  },
+  {
+    "ean": "5999100041189",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5999100041189",
+        "ean_raw": "5999100041189",
+        "sku": "405025",
+        "name": "Scitec Nutrition Whey Infusion chocolate ice cream 2000 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "5999100041189",
+        "ean_raw": "5999100041189",
+        "sku": "58595",
+        "name": "Scitec Whey Infusion 2000g - čokoládová zmrzlina"
       }
     ]
   },
@@ -48535,20 +48751,13 @@
       "dafit",
       "kulturistika"
     ],
-    "occurrences": 3,
+    "occurrences": 2,
     "products": [
       {
         "feed": "dafit",
         "ean": "8595612010698",
         "ean_raw": "8595612010698",
         "sku": "347825",
-        "name": "ATP Vitality Gelatina Caps 100 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612010698",
-        "ean_raw": "8595612010698",
-        "sku": "406873",
         "name": "ATP Vitality Gelatina Caps 100 tob"
       },
       {
@@ -49185,29 +49394,6 @@
     ]
   },
   {
-    "ean": "8595612013613",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595612013613",
-        "ean_raw": "8595612013613",
-        "sku": "390039",
-        "name": "ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612013613",
-        "ean_raw": "8595612013613",
-        "sku": "408423",
-        "name": "ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko"
-      }
-    ]
-  },
-  {
     "ean": "8595612013675",
     "feeds": [
       "dafit",
@@ -49276,66 +49462,6 @@
         "ean_raw": "8595612013736",
         "sku": "27977",
         "name": "ATP Pure Erythritol Sweetener - 750g"
-      }
-    ]
-  },
-  {
-    "ean": "8595612014009",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595612014009",
-        "ean_raw": "8595612014009",
-        "sku": "396163",
-        "name": "ATP Vitality Ginger Extract + Vitamin C 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014009",
-        "ean_raw": "8595612014009",
-        "sku": "406594",
-        "name": "ATP Vitality Ginger Extract + Vitamin C 90 tob"
-      }
-    ]
-  },
-  {
-    "ean": "8595612014627",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 4,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "402375",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "405606",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "406603",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "410479",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
       }
     ]
   },

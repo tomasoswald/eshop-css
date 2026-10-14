@@ -12621,7 +12621,7 @@
     "ean": "4006665110494",
     "ean_raw": "4006665110494",
     "sku": "10191",
-    "name": "EXP. 31/10/2026 SizeandSymmetry Multivitamine Complex - 60 kapslí",
+    "name": "SizeandSymmetry Multivitamine Complex - 60 kapslí",
     "feeds": [
       "kulturistika"
     ],
@@ -13568,13 +13568,36 @@
     "occurrences": 1
   },
   {
-    "feed": "gymbeam",
+    "feed": "kulturistika",
+    "ean": "4044782117477",
+    "ean_raw": "4044782117477",
+    "sku": "58583",
+    "name": "Weider Mega Mass Pump 270g - černý rybíz",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "4044782117712",
     "ean_raw": "4044782117712",
-    "sku": "116020",
-    "name": "Premium EAA + L-glutamin - Weider 180 kaps.",
+    "sku": "58588",
+    "name": "Weider Premium EAA + L-Glutamine - 180 kapslí",
     "feeds": [
-      "gymbeam"
+      "gymbeam",
+      "kulturistika"
+    ],
+    "occurrences": 2
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "4044782118665",
+    "ean_raw": "4044782118665",
+    "sku": "58584",
+    "name": "Weider Premium Citrulline - 100 kapslí",
+    "feeds": [
+      "kulturistika"
     ],
     "occurrences": 1
   },
@@ -14530,15 +14553,16 @@
     "occurrences": 1
   },
   {
-    "feed": "gymbeam",
+    "feed": "kulturistika",
     "ean": "4044782376409",
     "ean_raw": "4044782376409",
-    "sku": "94372",
-    "name": "Premium Tribulus - Weider 90 kaps.",
+    "sku": "58602",
+    "name": "Weider Premium Tribulus 90% Saponins - 90 kapslí",
     "feeds": [
-      "gymbeam"
+      "gymbeam",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "kulturistika",
@@ -19133,7 +19157,7 @@
     "ean": "4251650802308",
     "ean_raw": "4251650802308",
     "sku": "23336",
-    "name": "Mammut Whey protein 3000g - karamel",
+    "name": "EXP. 31/10/2026 Mammut Whey protein 3000g - karamel",
     "feeds": [
       "kulturistika"
     ],
@@ -23154,6 +23178,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "4779039730429",
+    "ean_raw": "4779039730429",
+    "sku": "38065",
+    "name": "BIO Rajčatová krémová polévka - Activus",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "4779039731174",
     "ean_raw": "4779039731174",
     "sku": "41989",
@@ -24808,10 +24843,9 @@
     "sku": "351371",
     "name": "Reflex Instant Mass Heavy Weight 5400 g blueberry",
     "feeds": [
-      "dafit",
-      "kulturistika"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -26796,6 +26830,50 @@
     "name": "MyProtein baked cookie 75 g double chocolate",
     "feeds": [
       "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5056185744371",
+    "ean_raw": "5056185744371",
+    "sku": "58621",
+    "name": "MyProtein FlavDrops 50ml - třešeň",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5056185744425",
+    "ean_raw": "5056185744425",
+    "sku": "58618",
+    "name": "MyProtein FlavDrops 50ml - mango",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5056185744432",
+    "ean_raw": "5056185744432",
+    "sku": "58619",
+    "name": "MyProtein FlavDrops 50ml - kokos",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5056185744463",
+    "ean_raw": "5056185744463",
+    "sku": "58620",
+    "name": "MyProtein FlavDrops 50ml - borůvka",
+    "feeds": [
+      "kulturistika"
     ],
     "occurrences": 1
   },
@@ -29786,6 +29864,39 @@
     "name": "MyProtein Origin Pre-Workout Stim Free orange mango 600 g",
     "feeds": [
       "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5059883468181",
+    "ean_raw": "5059883468181",
+    "sku": "58623",
+    "name": "MyProtein Hyrox The Electrofuel 1020g - pomeranč, mango",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5059883468198",
+    "ean_raw": "5059883468198",
+    "sku": "58624",
+    "name": "MyProtein Hyrox The Electrofuel 1020g - malinová limonáda",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5059883468730",
+    "ean_raw": "5059883468730",
+    "sku": "58622",
+    "name": "MyProtein Hyrox The Recovery 689g - pomeranč, mango",
+    "feeds": [
+      "kulturistika"
     ],
     "occurrences": 1
   },
@@ -43194,6 +43305,17 @@
     "ean_raw": "5902837749266",
     "sku": "26760",
     "name": "Allnutrition 280ml - bílá čokoláda, malina",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5902837753508",
+    "ean_raw": "5902837753508",
+    "sku": "58590",
+    "name": "Allnutrition Sauce 410g - kari",
     "feeds": [
       "kulturistika"
     ],
@@ -61125,7 +61247,19 @@
     "sku": "408059",
     "name": "BioTech Iso Whey Zero Limited Edition dubai chocolate 908 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999076270651",
+    "ean_raw": "5999076270651",
+    "sku": "58594",
+    "name": "BiotechUSA EAA Zero 350g - máta a limetka",
+    "feeds": [
+      "kulturistika"
     ],
     "occurrences": 1
   },
@@ -61136,9 +61270,10 @@
     "sku": "404858",
     "name": "BioTech 100% Pure Whey Limited Edition strawberry matcha latte 900 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -61290,9 +61425,10 @@
     "sku": "407456",
     "name": "BioTech 100% Pure Whey Limited Edition baklava 900 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -64549,28 +64685,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "5999100034624",
-    "ean_raw": "5999100034624",
-    "sku": "377385",
-    "name": "Scitec Nutrition Mega Daily One 120 cps",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "5999100034631",
-    "ean_raw": "5999100034631",
-    "sku": "377384",
-    "name": "Scitec Nutrition Mega Daily One 60 cps",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "5999100035980",
     "ean_raw": "5999100035980",
     "sku": "355644",
@@ -65022,6 +65136,17 @@
     "occurrences": 1
   },
   {
+    "feed": "kulturistika",
+    "ean": "5999100039575",
+    "ean_raw": "5999100039575",
+    "sku": "58600",
+    "name": "Scitec Cyclic Dextrin 1000g - bez příchutě",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
     "feed": "dafit",
     "ean": "5999100040564",
     "ean_raw": "5999100040564",
@@ -65085,9 +65210,10 @@
     "sku": "405027",
     "name": "Scitec Nutrition Whey Infusion strawberry 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -65096,9 +65222,10 @@
     "sku": "405023",
     "name": "Scitec Nutrition Whey Infusion banana 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -65107,9 +65234,10 @@
     "sku": "405026",
     "name": "Scitec Nutrition Whey Infusion peanut butter 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -65118,9 +65246,10 @@
     "sku": "405028",
     "name": "Scitec Nutrition Whey Infusion vanilla ice cream 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -65129,9 +65258,10 @@
     "sku": "405025",
     "name": "Scitec Nutrition Whey Infusion chocolate ice cream 2000 g",
     "feeds": [
-      "dafit"
+      "dafit",
+      "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -66110,17 +66240,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "5999576920346",
-    "ean_raw": "5999576920346",
-    "sku": "27480",
-    "name": "Näno Supps Creatine monohydrate - 500g",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "5999576920353",
     "ean_raw": "5999576920353",
     "sku": "28014",
@@ -66473,6 +66592,28 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "5999576921558",
+    "ean_raw": "5999576921558",
+    "sku": "58615",
+    "name": "Näno Supps Creatine Pop 200g - cola",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576921565",
+    "ean_raw": "5999576921565",
+    "sku": "58614",
+    "name": "Näno Supps Creatine Pop 200g - žvýkačka",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "5999576921930",
     "ean_raw": "5999576921930",
     "sku": "57932",
@@ -66510,6 +66651,17 @@
     "ean_raw": "5999576921961",
     "sku": "57933",
     "name": "Näno Supps Egg White Protein Powder 750g - vanilka",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922043",
+    "ean_raw": "5999576922043",
+    "sku": "27480",
+    "name": "Näno Supps Creatine monohydrate - 500g",
     "feeds": [
       "kulturistika"
     ],
@@ -66583,6 +66735,127 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "5999576922135",
+    "ean_raw": "5999576922135",
+    "sku": "58617",
+    "name": "Näno Supps Beta Alanine - 300g",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922142",
+    "ean_raw": "5999576922142",
+    "sku": "58603",
+    "name": "Näno Supps Arginine ALPHA-KG - 300g",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922159",
+    "ean_raw": "5999576922159",
+    "sku": "58604",
+    "name": "Näno Supps L-citrulline DL-malate 2:1 - 300g",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922258",
+    "ean_raw": "5999576922258",
+    "sku": "58608",
+    "name": "Näno Supps Protein Water 450g - lesní ovoce",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922265",
+    "ean_raw": "5999576922265",
+    "sku": "58605",
+    "name": "Näno Supps Protein Water 450g - ananas",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922272",
+    "ean_raw": "5999576922272",
+    "sku": "58607",
+    "name": "Näno Supps Protein Water 450g - tropical",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922289",
+    "ean_raw": "5999576922289",
+    "sku": "58606",
+    "name": "Näno Supps Protein Water 450g - meloun",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922302",
+    "ean_raw": "5999576922302",
+    "sku": "58612",
+    "name": "Näno Supps Protein Water 1800g - lesní ovoce",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922319",
+    "ean_raw": "5999576922319",
+    "sku": "58609",
+    "name": "Näno Supps Protein Water 1800g - ananas",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922326",
+    "ean_raw": "5999576922326",
+    "sku": "58611",
+    "name": "Näno Supps Protein Water 1800g - tropical",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922333",
+    "ean_raw": "5999576922333",
+    "sku": "58610",
+    "name": "Näno Supps Protein Water 1800g - meloun",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "5999576922487",
     "ean_raw": "5999576922487",
     "sku": "58528",
@@ -66631,6 +66904,28 @@
     "ean_raw": "5999576922807",
     "sku": "58531",
     "name": "Näno Supps Protein Cups 42g - slaný karamel",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922975",
+    "ean_raw": "5999576922975",
+    "sku": "58616",
+    "name": "Näno Supps Creatine Pop 200g - energy drink",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999576922982",
+    "ean_raw": "5999576922982",
+    "sku": "58613",
+    "name": "Näno Supps Creatine Pop 200g - kyselé zelené jablko",
     "feeds": [
       "kulturistika"
     ],
@@ -67887,28 +68182,6 @@
     "occurrences": 2
   },
   {
-    "feed": "kulturistika",
-    "ean": "6009544938118",
-    "ean_raw": "6009544938118",
-    "sku": "26647",
-    "name": "USN BlueLab 100% Whey Premium Protein 34g - jahoda",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "6009544938125",
-    "ean_raw": "6009544938125",
-    "sku": "26648",
-    "name": "USN BlueLab 100% Whey Premium Protein 34g - vanilka",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
     "feed": "dafit",
     "ean": "6009544938767",
     "ean_raw": "6009544938767",
@@ -68995,8 +69268,8 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "6009544962427",
-    "ean_raw": "6009544962427",
+    "ean": "6009544962410",
+    "ean_raw": "6009544962410",
     "sku": "26651",
     "name": "USN BlueLab 100% Whey Premium Protein 34g - čokoládová borůvka",
     "feeds": [
@@ -69379,6 +69652,28 @@
     "name": "USN Omega 3 Ultra Sport 120 cps",
     "feeds": [
       "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "6009544973447",
+    "ean_raw": "6009544973447",
+    "sku": "26647",
+    "name": "USN BlueLab 100% Whey Premium Protein 34g - jahoda",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "6009544973454",
+    "ean_raw": "6009544973454",
+    "sku": "26648",
+    "name": "USN BlueLab 100% Whey Premium Protein 34g - vanilka",
+    "feeds": [
+      "kulturistika"
     ],
     "occurrences": 1
   },
@@ -88249,6 +88544,28 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "8414192310601",
+    "ean_raw": "8414192310601",
+    "sku": "58585",
+    "name": "Weider Sportovní lahev 600ml - černá",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8414192310618",
+    "ean_raw": "8414192310618",
+    "sku": "58586",
+    "name": "Weider Sportovní lahev 600ml - růžová",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "8414192311325",
     "ean_raw": "8414192311325",
     "sku": "9531",
@@ -88271,6 +88588,72 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "8414192312766",
+    "ean_raw": "8414192312766",
+    "sku": "58577",
+    "name": "Weider Isolate Whey 100 CFM 2000g - jahodová zmrzlina",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8414192312773",
+    "ean_raw": "8414192312773",
+    "sku": "58578",
+    "name": "Weider Isolate Whey 100 CFM 2000g - cookies cream",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8414192313237",
+    "ean_raw": "8414192313237",
+    "sku": "58580",
+    "name": "Weider Isolate Whey 100 CFM 908g - čokoládový fondán",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8414192313244",
+    "ean_raw": "8414192313244",
+    "sku": "58581",
+    "name": "Weider Isolate Whey 100 CFM 908g - vanilkový krém",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8414192313251",
+    "ean_raw": "8414192313251",
+    "sku": "58582",
+    "name": "Weider Isolate Whey 100 CFM 908g - jahodová zmrzlina",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8414192313268",
+    "ean_raw": "8414192313268",
+    "sku": "58579",
+    "name": "Weider Isolate Whey 100 CFM 908g - cookies cream",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "8414192346860",
     "ean_raw": "8414192346860",
     "sku": "9530",
@@ -88286,6 +88669,28 @@
     "ean_raw": "8414192346877",
     "sku": "9528",
     "name": "Weider Vegan Protein 750g - kapučíno",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8414192347393",
+    "ean_raw": "8414192347393",
+    "sku": "58589",
+    "name": "Weider Micronized Creatine Monohydrate 300g - žvýkačka modrá malina",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8414192349670",
+    "ean_raw": "8414192349670",
+    "sku": "58601",
+    "name": "Weider Micronized Creatine Gummies - 60 želé",
     "feeds": [
       "kulturistika"
     ],
@@ -89884,6 +90289,17 @@
     "ean_raw": "847280054466",
     "sku": "20885",
     "name": "BlenderBottle Koda Barel 2200ml - modrý",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8472800754476",
+    "ean_raw": "8472800754476",
+    "sku": "58587",
+    "name": "Weider Weider Šejkr Blender 600 ml - oranžový",
     "feeds": [
       "kulturistika"
     ],
@@ -205149,6 +205565,28 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028595251",
+    "ean_raw": "8586028595251",
+    "sku": "119584",
+    "name": "Manuka med MGO 512+ - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028595268",
+    "ean_raw": "8586028595268",
+    "sku": "119578",
+    "name": "Manuka med MGO 261+ - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028595275",
     "ean_raw": "8586028595275",
     "sku": "115879",
@@ -226175,8 +226613,8 @@
     "feed": "kulturistika",
     "ean": "8588010097682",
     "ean_raw": "8588010097682",
-    "sku": "29275",
-    "name": "Maxsport No added sugar 40g - arašídy, karamel",
+    "sku": "58574",
+    "name": "Maxsport No added sugar CRUNCHY Protein 40g - arašídy, karamel",
     "feeds": [
       "kulturistika"
     ],
@@ -226186,8 +226624,8 @@
     "feed": "kulturistika",
     "ean": "8588010097699",
     "ean_raw": "8588010097699",
-    "sku": "29276",
-    "name": "Maxsport No added sugar 40g - vanilka, kokos",
+    "sku": "58575",
+    "name": "Maxsport No added sugar CRUNCHY Protein 40g - vanilka, kokos",
     "feeds": [
       "kulturistika"
     ],
@@ -226197,8 +226635,8 @@
     "feed": "kulturistika",
     "ean": "8588010097705",
     "ean_raw": "8588010097705",
-    "sku": "29277",
-    "name": "Maxsport No added sugar 40g - čokoláda",
+    "sku": "58576",
+    "name": "Maxsport No added sugar CRUNCHY Protein 40g - čokoláda",
     "feeds": [
       "kulturistika"
     ],
@@ -232155,17 +232593,6 @@
     "ean_raw": "8594017421375",
     "sku": "27291",
     "name": "Nutrend Delicious Bar 50g - vanilka, karamel, mléčná čokoláda",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594017421443",
-    "ean_raw": "8594017421443",
-    "sku": "26521",
-    "name": "Nutrend balíček zdravé klouby 2",
     "feeds": [
       "kulturistika"
     ],
@@ -239024,28 +239451,6 @@
     "ean_raw": "8594068231169",
     "sku": "19360",
     "name": "Jihočeské Jerky 20g - hovězí teriyaki",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594068231534",
-    "ean_raw": "8594068231534",
-    "sku": "23867",
-    "name": "Jihočeské Jerky Vánoční masové potěšení - 10x20g",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594068231541",
-    "ean_raw": "8594068231541",
-    "sku": "23866",
-    "name": "Jihočeské Jerky Vánoční masové potěšení - 17x20g",
     "feeds": [
       "kulturistika"
     ],
@@ -258422,7 +258827,7 @@
     "ean": "8594193033225",
     "ean_raw": "8594193033225",
     "sku": "28489",
-    "name": "EXP. 24/10/2026 Big Boy Vánoční lázeňská promenáda - 220g",
+    "name": "Big Boy Vánoční lázeňská promenáda - 220g",
     "feeds": [
       "kulturistika"
     ],
@@ -258562,7 +258967,7 @@
     "ean": "8594193034192",
     "ean_raw": "8594193034192",
     "sku": "28487",
-    "name": "EXP. 9/10/2026 Big Boy Mandle v mléčné čokoládě s perníkovým kořením - 140g",
+    "name": "Big Boy Mandle v mléčné čokoládě s perníkovým kořením - 140g",
     "feeds": [
       "kulturistika"
     ],
@@ -259482,28 +259887,6 @@
     "ean_raw": "8594193039968",
     "sku": "371403",
     "name": "Dafit Pistácie ve skořápce pražené solené 1000 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "8594193039975",
-    "ean_raw": "8594193039975",
-    "sku": "371402",
-    "name": "Dafit Mandle loupané pražené solené 1000 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "8594193039982",
-    "ean_raw": "8594193039982",
-    "sku": "371401",
-    "name": "Dafit Kešu jádra nepražená 1000 g",
     "feeds": [
       "dafit"
     ],
@@ -263219,7 +263602,7 @@
     "ean": "8595016500559",
     "ean_raw": "8595016500559",
     "sku": "27403",
-    "name": "Country Life Granola BIO 350g - bez příchutě",
+    "name": "EXP. 13/10/2026 Country Life Granola BIO 350g - bez příchutě",
     "feeds": [
       "kulturistika"
     ],
@@ -263252,7 +263635,7 @@
     "ean": "8595016500672",
     "ean_raw": "8595016500672",
     "sku": "27405",
-    "name": "Country Life Granola BIO 350g - jablko",
+    "name": "EXP. 14/10/2026 Country Life Granola BIO 350g - jablko",
     "feeds": [
       "kulturistika"
     ],
@@ -263362,7 +263745,7 @@
     "ean": "8595016503055",
     "ean_raw": "8595016503055",
     "sku": "11461",
-    "name": "EXP. 15/10/2026 Country Life Kakaové boby nepražené drcené BIO - 100g",
+    "name": "Country Life Kakaové boby nepražené drcené BIO - 100g",
     "feeds": [
       "kulturistika"
     ],
@@ -263747,7 +264130,7 @@
     "ean": "8595016597535",
     "ean_raw": "8595016597535",
     "sku": "16463",
-    "name": "EXP. 30/10/2026 Country Life Fazole adzuki - 500g",
+    "name": "Country Life Fazole adzuki - 500g",
     "feeds": [
       "kulturistika"
     ],
@@ -265263,7 +265646,7 @@
       "dafit",
       "kulturistika"
     ],
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -266070,7 +266453,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -266469,7 +266852,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -266788,7 +267171,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 4
+    "occurrences": 1
   },
   {
     "feed": "dafit",
