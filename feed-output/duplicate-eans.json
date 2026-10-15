@@ -18745,7 +18745,7 @@
         "ean": "5999100022171",
         "ean_raw": "5999100022171",
         "sku": "4989",
-        "name": "EXP. 2/11/2026 Scitec BCAA Xpress 700g - hruška"
+        "name": "Scitec BCAA Xpress 700g - hruška"
       }
     ]
   },
@@ -42927,8 +42927,8 @@
         "feed": "dafit",
         "ean": "8594181606530",
         "ean_raw": "8594181606530",
-        "sku": "316440",
-        "name": "Extrifit 100 % Whey Protein 2000 g chocolate"
+        "sku": "411202",
+        "name": "Extrifit 100% Whey Protein 2000 g double chocolate NEW"
       },
       {
         "feed": "kulturistika",
@@ -42960,30 +42960,6 @@
         "ean_raw": "8594181606547",
         "sku": "10793",
         "name": "Extrifit 100% Instant Whey Protein 80 2000g - čokoláda, kokos"
-      }
-    ]
-  },
-  {
-    "ean": "8594181606554",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8594181606554",
-        "ean_raw": "8594181606554",
-        "sku": "324455",
-        "name": "Extrifit 100 % Whey Protein 2000 g tiramisu"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "8594181606554",
-        "ean_raw": "8594181606554",
-        "sku": "14240",
-        "name": "Extrifit 100% Instant Whey Protein 80 2000g - tiramisu"
       }
     ]
   },
@@ -43023,8 +42999,8 @@
         "feed": "dafit",
         "ean": "8594181606578",
         "ean_raw": "8594181606578",
-        "sku": "316441",
-        "name": "Extrifit 100 % Whey Protein 2000 g vanilla"
+        "sku": "411203",
+        "name": "Extrifit 100% Whey Protein 2000 g creamy vanilla NEW"
       },
       {
         "feed": "kulturistika",
@@ -43047,8 +43023,8 @@
         "feed": "dafit",
         "ean": "8594181606585",
         "ean_raw": "8594181606585",
-        "sku": "316444",
-        "name": "Extrifit 100 % Whey Protein 2000 g strawberry"
+        "sku": "411205",
+        "name": "Extrifit 100% Whey Protein 2000 g strawberry shake NEW"
       },
       {
         "feed": "kulturistika",
@@ -43095,8 +43071,8 @@
         "feed": "dafit",
         "ean": "8594181606608",
         "ean_raw": "8594181606608",
-        "sku": "316446",
-        "name": "Extrifit 100 % Whey Protein 2000 g coconut"
+        "sku": "411204",
+        "name": "Extrifit 100% Whey Protein 2000 g coconut dream NEW"
       },
       {
         "feed": "kulturistika",
@@ -44223,8 +44199,8 @@
         "feed": "dafit",
         "ean": "8594181609562",
         "ean_raw": "8594181609562",
-        "sku": "334145",
-        "name": "Extrifit 100 % Whey Protein 2000 g salted caramel"
+        "sku": "411206",
+        "name": "Extrifit 100% Whey Protein 2000 g salted caramel NEW"
       },
       {
         "feed": "kulturistika",
