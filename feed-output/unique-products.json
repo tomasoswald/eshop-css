@@ -8840,39 +8840,6 @@
     "occurrences": 1
   },
   {
-    "feed": "gymbeam",
-    "ean": "20190922",
-    "ean_raw": "20190922",
-    "sku": "31579",
-    "name": "Dárek - nechám se překvapit",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "20241211",
-    "ean_raw": "20241211",
-    "sku": "100609",
-    "name": "Vzorek - Aminokyseliny černá",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "20241212",
-    "ean_raw": "20241212",
-    "sku": "100612",
-    "name": "Vzorek - Rychlé sacharidy černá",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
     "feed": "kulturistika",
     "ean": "21205019",
     "ean_raw": "21205019",
@@ -33311,39 +33278,6 @@
     "name": "PhD Diet Whey 1kg - bílá čokoláda, malina",
     "feeds": [
       "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "5060245600040",
-    "ean_raw": "5060245600040",
-    "sku": "48814",
-    "name": "Vzorek 100% syrovátky Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "5060245600064",
-    "ean_raw": "5060245600064",
-    "sku": "48808",
-    "name": "Vzorek 100% syrovátky Gold Standard - Optimum Nutrition lahodná jahoda",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "5060245600293",
-    "ean_raw": "5060245600293",
-    "sku": "48820",
-    "name": "Vzorek 100% syrovátky Gold Standard - Optimum Nutrition vanilková zmrzlina",
-    "feeds": [
-      "gymbeam"
     ],
     "occurrences": 1
   },
@@ -105551,17 +105485,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586022216824",
-    "ean_raw": "8586022216824",
-    "sku": "62860",
-    "name": "Vzorek proteinu Yum Yum Whey - BeastPink čokoláda lískový oříšek",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586022216831",
     "ean_raw": "8586022216831",
     "sku": "62851",
@@ -109821,32 +109744,10 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586024621886",
-    "ean_raw": "8586024621886",
-    "sku": "81316",
-    "name": "Vzorek FueRide - GymBeam grapefruit",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586024621893",
     "ean_raw": "8586024621893",
     "sku": "81280",
     "name": "Sportovní nápoj FueRide - GymBeam vodní meloun jahoda",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586024621909",
-    "ean_raw": "8586024621909",
-    "sku": "81325",
-    "name": "Vzorek FueRide - GymBeam vodní meloun jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -109865,32 +109766,10 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586024621923",
-    "ean_raw": "8586024621923",
-    "sku": "81322",
-    "name": "Vzorek FueRide - GymBeam ananas",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586024621930",
     "ean_raw": "8586024621930",
     "sku": "81286",
     "name": "Sportovní nápoj FueRide - GymBeam pomeranč",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586024621947",
-    "ean_raw": "8586024621947",
-    "sku": "81319",
-    "name": "Vzorek FueRide - GymBeam pomeranč",
     "feeds": [
       "gymbeam"
     ],
@@ -152171,39 +152050,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586026390995",
-    "ean_raw": "8586026390995",
-    "sku": "97705",
-    "name": "Vzorek XBEAM Hydrate XP - GymBeam zelené jablko",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026391008",
-    "ean_raw": "8586026391008",
-    "sku": "97708",
-    "name": "Vzorek XBEAM Hydrate XP - GymBeam jahoda kiwi",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026391015",
-    "ean_raw": "8586026391015",
-    "sku": "97711",
-    "name": "Vzorek XBEAM Hydrate XP - GymBeam lesní ovoce",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586026391022",
     "ean_raw": "8586026391022",
     "sku": "96898",
@@ -156520,17 +156366,6 @@
     "ean_raw": "8586026396881",
     "sku": "98272",
     "name": "No Cramp - GymBeam 120 kaps.",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026396898",
-    "ean_raw": "8586026396898",
-    "sku": "98311",
-    "name": "Vzorek Arašídové máslo s karamelovou bílou čokoládou - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -175032,7 +174867,7 @@
     "ean": "8586027395890",
     "ean_raw": "8586027395890",
     "sku": "105916",
-    "name": "Vzorek ElectroFue Packs - GymBeam lesní ovoce",
+    "name": "ElectroFue Packs - GymBeam lesní ovoce",
     "feeds": [
       "gymbeam"
     ],
@@ -175043,7 +174878,7 @@
     "ean": "8586027395906",
     "ean_raw": "8586027395906",
     "sku": "105913",
-    "name": "Vzorek ElectroFue Packs - GymBeam zelené jablko",
+    "name": "ElectroFue Packs - GymBeam zelené jablko",
     "feeds": [
       "gymbeam"
     ],
@@ -175065,7 +174900,7 @@
     "ean": "8586027395920",
     "ean_raw": "8586027395920",
     "sku": "105919",
-    "name": "Vzorek ElectroFue Packs - GymBeam broskev ledový čaj",
+    "name": "ElectroFue Packs - GymBeam broskev ledový čaj",
     "feeds": [
       "gymbeam"
     ],
@@ -175898,32 +175733,10 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586027396941",
-    "ean_raw": "8586027396941",
-    "sku": "106240",
-    "name": "Vzorek Pink burn drink - GymBeam citrón",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586027396958",
     "ean_raw": "8586027396958",
     "sku": "105934",
     "name": "Pink burn drink - GymBeam citrón",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586027396965",
-    "ean_raw": "8586027396965",
-    "sku": "106243",
-    "name": "Vzorek Pink burn drink - GymBeam mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -190462,6 +190275,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028123782",
+    "ean_raw": "8586028123782",
+    "sku": "110809",
+    "name": "L-Leucin prášek - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028123799",
     "ean_raw": "8586028123799",
     "sku": "110812",
@@ -204267,6 +204091,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028593288",
+    "ean_raw": "8586028593288",
+    "sku": "121444",
+    "name": "Thor + Amynel® - GymBeam vodní meloun",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028593301",
     "ean_raw": "8586028593301",
     "sku": "121441",
@@ -209781,6 +209616,17 @@
     "ean": "8586028763223",
     "ean_raw": "8586028763223",
     "sku": "121993",
+    "name": "Protein Pure IsoWhey - GymBeam bez příchuti",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028763230",
+    "ean_raw": "8586028763230",
+    "sku": "121996",
     "name": "Protein Pure IsoWhey - GymBeam bez příchuti",
     "feeds": [
       "gymbeam"
@@ -218820,6 +218666,61 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028785775",
+    "ean_raw": "8586028785775",
+    "sku": "123811",
+    "name": "Tílko Pace Black - GymBeam černá S",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028785782",
+    "ean_raw": "8586028785782",
+    "sku": "123816",
+    "name": "Tílko Pace Black - GymBeam černá M",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028785799",
+    "ean_raw": "8586028785799",
+    "sku": "123821",
+    "name": "Tílko Pace Black - GymBeam černá L",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028785805",
+    "ean_raw": "8586028785805",
+    "sku": "123826",
+    "name": "Tílko Pace Black - GymBeam černá XL",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028785812",
+    "ean_raw": "8586028785812",
+    "sku": "123831",
+    "name": "Tílko Pace Black - GymBeam černá XXL",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028785829",
     "ean_raw": "8586028785829",
     "sku": "123841",
@@ -219208,7 +219109,7 @@
     "ean": "8586028786192",
     "ean_raw": "8586028786192",
     "sku": "124051",
-    "name": "Podprsenka Pace Black - GymBeam černá XS",
+    "name": "Sportovní podprsenka Pace Black - GymBeam černá XS",
     "feeds": [
       "gymbeam"
     ],
@@ -219219,7 +219120,7 @@
     "ean": "8586028786208",
     "ean_raw": "8586028786208",
     "sku": "124056",
-    "name": "Podprsenka Pace Black - GymBeam černá S",
+    "name": "Sportovní podprsenka Pace Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -219230,7 +219131,7 @@
     "ean": "8586028786215",
     "ean_raw": "8586028786215",
     "sku": "124061",
-    "name": "Podprsenka Pace Black - GymBeam černá M",
+    "name": "Sportovní podprsenka Pace Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -219241,7 +219142,7 @@
     "ean": "8586028786222",
     "ean_raw": "8586028786222",
     "sku": "124066",
-    "name": "Podprsenka Pace Black - GymBeam černá L",
+    "name": "Sportovní podprsenka Pace Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -219252,7 +219153,7 @@
     "ean": "8586028786239",
     "ean_raw": "8586028786239",
     "sku": "124071",
-    "name": "Podprsenka Pace Black - GymBeam černá XL",
+    "name": "Sportovní podprsenka Pace Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -252844,7 +252745,7 @@
     "ean": "8594181602914",
     "ean_raw": "8594181602914",
     "sku": "1816",
-    "name": "Extrifit CFM Instant Whey 80 2kg - ledová káva",
+    "name": "Extrifit CFM Instant Whey 80 2270g - ledová káva",
     "feeds": [
       "kulturistika"
     ],
@@ -252855,7 +252756,7 @@
     "ean": "8594181602921",
     "ean_raw": "8594181602921",
     "sku": "1687",
-    "name": "Extrifit CFM Instant Whey 80 2kg - bílý jogurt",
+    "name": "Extrifit CFM Instant Whey 80 2270g - bílý jogurt",
     "feeds": [
       "kulturistika"
     ],
@@ -254477,7 +254378,7 @@
     "ean": "8594181606530",
     "ean_raw": "8594181606530",
     "sku": "411202",
-    "name": "Extrifit 100% Whey Protein 2000 g double chocolate NEW",
+    "name": "Extrifit 100% Whey Protein double chocolate NEW 2000 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -254501,7 +254402,7 @@
     "ean": "8594181606554",
     "ean_raw": "8594181606554",
     "sku": "14240",
-    "name": "Extrifit 100% Instant Whey Protein 80 2000g - tiramisu",
+    "name": "Extrifit 100% Instant Whey Protein 2000g - tiramisu",
     "feeds": [
       "kulturistika"
     ],
@@ -254524,7 +254425,7 @@
     "ean": "8594181606578",
     "ean_raw": "8594181606578",
     "sku": "411203",
-    "name": "Extrifit 100% Whey Protein 2000 g creamy vanilla NEW",
+    "name": "Extrifit 100% Whey Protein creamy vanilla NEW 2000 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -254536,7 +254437,7 @@
     "ean": "8594181606585",
     "ean_raw": "8594181606585",
     "sku": "411205",
-    "name": "Extrifit 100% Whey Protein 2000 g strawberry shake NEW",
+    "name": "Extrifit 100% Whey Protein strawberry shake NEW 2000 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -254560,7 +254461,7 @@
     "ean": "8594181606608",
     "ean_raw": "8594181606608",
     "sku": "411204",
-    "name": "Extrifit 100% Whey Protein 2000 g coconut dream NEW",
+    "name": "Extrifit 100% Whey Protein coconut dream NEW 2000 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -255597,7 +255498,7 @@
     "ean": "8594181609562",
     "ean_raw": "8594181609562",
     "sku": "411206",
-    "name": "Extrifit 100% Whey Protein 2000 g salted caramel NEW",
+    "name": "Extrifit 100% Whey Protein salted caramel NEW 2000 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -261140,17 +261041,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "8594193926831",
-    "ean_raw": "8594193926831",
-    "sku": "16943",
-    "name": "MAXXWIN Calcium Chelated - 120 kapslí",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "8594193926848",
     "ean_raw": "8594193926848",
     "sku": "16934",
@@ -265475,83 +265365,6 @@
       "kulturistika"
     ],
     "occurrences": 2
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8595612011084",
-    "ean_raw": "8595612011084",
-    "sku": "19389",
-    "name": "ATP 100% Pure Whey Protein 2000g - vanilka",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8595612011091",
-    "ean_raw": "8595612011091",
-    "sku": "19390",
-    "name": "ATP 100% Pure Whey Protein 2000g - slaný karamel",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8595612011107",
-    "ean_raw": "8595612011107",
-    "sku": "19386",
-    "name": "ATP 100% Pure Whey Protein 2000g - čokoláda",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8595612011114",
-    "ean_raw": "8595612011114",
-    "sku": "19387",
-    "name": "ATP 100% Pure Whey Protein 2000g - čokoláda, kokos",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8595612011121",
-    "ean_raw": "8595612011121",
-    "sku": "19388",
-    "name": "ATP 100% Pure Whey Protein 2000g - banán",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8595612011138",
-    "ean_raw": "8595612011138",
-    "sku": "19392",
-    "name": "ATP 100% Pure Whey Protein 2000g - pistácie",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8595612011145",
-    "ean_raw": "8595612011145",
-    "sku": "19391",
-    "name": "ATP 100% Pure Whey Protein 2000g - jahoda",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -272441,7 +272254,7 @@
     "ean": "8595697603419",
     "ean_raw": "8595697603419",
     "sku": "2379",
-    "name": "Extrifit CFM Instant Whey 80 2kg - karamel",
+    "name": "Extrifit CFM Instant Whey 80 2270g - karamel",
     "feeds": [
       "kulturistika"
     ],
@@ -279568,17 +279381,6 @@
     "name": "Zázračné proměny",
     "feeds": [
       "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "9876543210",
-    "ean_raw": "9876543210",
-    "sku": "33385",
-    "name": "Vzorek - nechám se překvapit hnědá",
-    "feeds": [
-      "gymbeam"
     ],
     "occurrences": 1
   },
