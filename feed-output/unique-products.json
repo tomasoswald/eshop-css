@@ -9462,17 +9462,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "2800001833335",
-    "ean_raw": "2800001833335",
-    "sku": "20183",
-    "name": "Power System Rukavice Power Grip PS 2800 červené - M",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "2800001855559",
     "ean_raw": "2800001855559",
     "sku": "15881",
@@ -22947,17 +22936,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "4260558434580",
-    "ean_raw": "4260558434580",
-    "sku": "53698",
-    "name": "Sada činek - Climaqx multicolor",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "4260558439233",
     "ean_raw": "4260558439233",
     "sku": "95563",
@@ -35338,6 +35316,17 @@
     "name": "Optimum Gold Standard 100% Whey 2270g - skořicová rolka",
     "feeds": [
       "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "5060469987538",
+    "ean_raw": "5060469987538",
+    "sku": "125430",
+    "name": "Gold Standard 100% Isolate - Optimum Nutrition čokoláda",
+    "feeds": [
+      "gymbeam"
     ],
     "occurrences": 1
   },
@@ -63340,7 +63329,7 @@
     "ean": "5999100029378",
     "ean_raw": "5999100029378",
     "sku": "362887",
-    "name": "Scitec Nutrition 100% WP Professional 1000 g white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional white chocolate 1000 g",
     "feeds": [
       "dafit"
     ],
@@ -63488,7 +63477,7 @@
     "ean": "5999100031708",
     "ean_raw": "5999100031708",
     "sku": "366383",
-    "name": "Scitec Nutrition 100% WP Professional 2350 g white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional white chocolate 2350 g",
     "feeds": [
       "dafit"
     ],
@@ -63976,7 +63965,7 @@
     "ean": "5999100033597",
     "ean_raw": "5999100033597",
     "sku": "377379",
-    "name": "Scitec Nutrition 100% WP Professional 2350 g pistachio white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional pistachio white chocolate 2350 g",
     "feeds": [
       "dafit"
     ],
@@ -64009,7 +63998,7 @@
     "ean": "5999100033627",
     "ean_raw": "5999100033627",
     "sku": "381899",
-    "name": "Scitec Nutrition 100% WP Professional 30 g pistachio white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional pistachio white chocolate 30 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -64697,6 +64686,17 @@
   },
   {
     "feed": "dafit",
+    "ean": "5999100038684",
+    "ean_raw": "5999100038684",
+    "sku": "409944",
+    "name": "Scitec Nutrition Beta Alanine 350 g unflavored",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "5999100039247",
     "ean_raw": "5999100039247",
     "sku": "403805",
@@ -64740,15 +64740,16 @@
     "occurrences": 1
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "5999100039575",
     "ean_raw": "5999100039575",
-    "sku": "58600",
-    "name": "Scitec Cyclic Dextrin 1000g - bez příchutě",
+    "sku": "409943",
+    "name": "Scitec Nutrition Cyclic Dextrin 1000 g unflavoured",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -64790,7 +64791,7 @@
     "ean": "5999100041080",
     "ean_raw": "5999100041080",
     "sku": "405029",
-    "name": "Scitec Nutrition 100% WP Professional 2350 g chocolate wafer",
+    "name": "Scitec Nutrition 100% WP Professional chocolate wafer 2350 g",
     "feeds": [
       "dafit"
     ],
@@ -65339,7 +65340,7 @@
     "ean": "5999100042278",
     "ean_raw": "5999100042278",
     "sku": "409927",
-    "name": "Scitec Nutrition 100% WP Professional 400 g vanilla",
+    "name": "Scitec Nutrition 100% WP Professional vanilla 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65362,7 +65363,7 @@
     "ean": "5999100042292",
     "ean_raw": "5999100042292",
     "sku": "409926",
-    "name": "Scitec Nutrition 100% WP Professional 400 g strawberry",
+    "name": "Scitec Nutrition 100% WP Professional strawberry 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65396,7 +65397,7 @@
     "ean": "5999100042322",
     "ean_raw": "5999100042322",
     "sku": "409925",
-    "name": "Scitec Nutrition 100% WP Professional 400 g chocolate coconut",
+    "name": "Scitec Nutrition 100% WP Professional 400 g chocolate coconut 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65408,7 +65409,7 @@
     "ean": "5999100042339",
     "ean_raw": "5999100042339",
     "sku": "409932",
-    "name": "Scitec Nutrition 100% WP Professional 400 g chocolate cookies cream",
+    "name": "Scitec Nutrition 100% WP Professional 400 g chocolate cookies cream 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65431,7 +65432,7 @@
     "ean": "5999100042360",
     "ean_raw": "5999100042360",
     "sku": "409922",
-    "name": "Scitec Nutrition 100% WP Professional 400 g kiwi banana",
+    "name": "Scitec Nutrition 100% WP Professional kiwi banana 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65443,7 +65444,7 @@
     "ean": "5999100042377",
     "ean_raw": "5999100042377",
     "sku": "409929",
-    "name": "Scitec Nutrition 100% WP Professional 400 g lemon cheesecake",
+    "name": "Scitec Nutrition 100% WP Professional lemon cheesecake 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65455,7 +65456,7 @@
     "ean": "5999100042384",
     "ean_raw": "5999100042384",
     "sku": "409924",
-    "name": "Scitec Nutrition 100% WP Professional 400 g vanilla very berry",
+    "name": "Scitec Nutrition 100% WP Professional vanilla very berry 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65467,7 +65468,7 @@
     "ean": "5999100042391",
     "ean_raw": "5999100042391",
     "sku": "409921",
-    "name": "Scitec Nutrition 100% WP Professional 400 g ice coffee with real coffee",
+    "name": "Scitec Nutrition 100% WP Professional ice coffee with real coffee 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65479,7 +65480,7 @@
     "ean": "5999100042407",
     "ean_raw": "5999100042407",
     "sku": "409933",
-    "name": "Scitec Nutrition 100% WP Professional 400 g salted caramel",
+    "name": "Scitec Nutrition 100% WP Professional salted caramel 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65491,7 +65492,7 @@
     "ean": "5999100042414",
     "ean_raw": "5999100042414",
     "sku": "409931",
-    "name": "Scitec Nutrition 100% WP Professional 400 g peanut butter",
+    "name": "Scitec Nutrition 100% WP Professional peanut butter 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65503,7 +65504,7 @@
     "ean": "5999100042421",
     "ean_raw": "5999100042421",
     "sku": "409923",
-    "name": "Scitec Nutrition 100% WP Professional 400 g white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional white chocolate 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65515,7 +65516,7 @@
     "ean": "5999100042438",
     "ean_raw": "5999100042438",
     "sku": "409930",
-    "name": "Scitec Nutrition 100% WP Professional 400 g pistachio white chocolate",
+    "name": "Scitec Nutrition 100% WP Professional pistachio white chocolate 400 g",
     "feeds": [
       "dafit",
       "kulturistika"
@@ -65538,7 +65539,7 @@
     "ean": "5999100042582",
     "ean_raw": "5999100042582",
     "sku": "409928",
-    "name": "Scitec Nutrition 100% WP Professional 400 g unflavoured",
+    "name": "Scitec Nutrition 100% WP Professional unflavoured 400 g",
     "feeds": [
       "dafit"
     ],
@@ -67929,15 +67930,16 @@
     "occurrences": 2
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "6009544942368",
     "ean_raw": "6009544942368",
-    "sku": "26625",
-    "name": "USN BlueLab 100% Whey Premium Protein 2000g - slaný karamel",
+    "sku": "359175",
+    "name": "USN BlueLab 100% Whey Protein Premium 2000 g slaný karamel",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "kulturistika",
@@ -159533,7 +159535,7 @@
     "ean": "8586026895377",
     "ean_raw": "8586026895377",
     "sku": "44239",
-    "name": "Appetite Control - BeastPink 120 kaps.",
+    "name": "Appetite Control - BeastPink + dárek 120 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -204102,6 +204104,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028593295",
+    "ean_raw": "8586028593295",
+    "sku": "121447",
+    "name": "Thor + Amynel® - GymBeam zelené jablko",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028593301",
     "ean_raw": "8586028593301",
     "sku": "121441",
@@ -205206,6 +205219,17 @@
     "ean_raw": "8586028597903",
     "sku": "115918",
     "name": "Beta-karoten (Provitamin A) - GymBeam 60 kaps.",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028598009",
+    "ean_raw": "8586028598009",
+    "sku": "125266",
+    "name": "Extrakt z Poria cocos - GymBeam 90 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -210493,6 +210517,61 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028765074",
+    "ean_raw": "8586028765074",
+    "sku": "122953",
+    "name": "EAA Hydrate - GymBeam modrá malina",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028765081",
+    "ean_raw": "8586028765081",
+    "sku": "122959",
+    "name": "EAA Hydrate - GymBeam zelené jablko",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028765098",
+    "ean_raw": "8586028765098",
+    "sku": "122956",
+    "name": "EAA Hydrate - GymBeam citrón limetka",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028765111",
+    "ean_raw": "8586028765111",
+    "sku": "122950",
+    "name": "EAA Hydrate - GymBeam pomeranč",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028765128",
+    "ean_raw": "8586028765128",
+    "sku": "122947",
+    "name": "EAA Hydrate - GymBeam vodní meloun",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028765135",
     "ean_raw": "8586028765135",
     "sku": "118903",
@@ -214105,6 +214184,28 @@
     "ean_raw": "8586028772034",
     "sku": "118837",
     "name": "Kreatin + Dextróza - GymBeam zelené jablko",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028772041",
+    "ean_raw": "8586028772041",
+    "sku": "124171",
+    "name": "Kreatin monohydrát Creapure® - GymBeam citrón limetka",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028772058",
+    "ean_raw": "8586028772058",
+    "sku": "124176",
+    "name": "Kreatin monohydrát Creapure® - GymBeam pomeranč",
     "feeds": [
       "gymbeam"
     ],
@@ -218207,7 +218308,7 @@
     "ean": "8586028779781",
     "ean_raw": "8586028779781",
     "sku": "125096",
-    "name": "Boxing Gloves Grind Black/Red - GymBeam černá 10 OZ",
+    "name": "Boxerské rukavice Grind Black/Red - GymBeam černá 10 OZ",
     "feeds": [
       "gymbeam"
     ],
@@ -218218,7 +218319,7 @@
     "ean": "8586028779798",
     "ean_raw": "8586028779798",
     "sku": "125101",
-    "name": "Boxing Gloves Grind Black/Red - GymBeam černá 12 OZ",
+    "name": "Boxerské rukavice Grind Black/Red - GymBeam černá 12 OZ",
     "feeds": [
       "gymbeam"
     ],
@@ -218229,7 +218330,7 @@
     "ean": "8586028779804",
     "ean_raw": "8586028779804",
     "sku": "125106",
-    "name": "Boxing Gloves Grind Black/Red - GymBeam černá 14 OZ",
+    "name": "Boxerské rukavice Grind Black/Red - GymBeam černá 14 OZ",
     "feeds": [
       "gymbeam"
     ],
@@ -218240,7 +218341,7 @@
     "ean": "8586028779811",
     "ean_raw": "8586028779811",
     "sku": "125111",
-    "name": "Boxing Gloves Grind Black/Red - GymBeam černá 16 OZ",
+    "name": "Boxerské rukavice Grind Black/Red - GymBeam černá 16 OZ",
     "feeds": [
       "gymbeam"
     ],
@@ -218251,7 +218352,7 @@
     "ean": "8586028779828",
     "ean_raw": "8586028779828",
     "sku": "125121",
-    "name": "Boxing Gloves Grind Black/Gold - GymBeam černá 10 OZ",
+    "name": "Boxerské rukavice Grind Black/Gold - GymBeam černá 10 OZ",
     "feeds": [
       "gymbeam"
     ],
@@ -218262,7 +218363,7 @@
     "ean": "8586028779835",
     "ean_raw": "8586028779835",
     "sku": "125126",
-    "name": "Boxing Gloves Grind Black/Gold - GymBeam černá 12 OZ",
+    "name": "Boxerské rukavice Grind Black/Gold - GymBeam černá 12 OZ",
     "feeds": [
       "gymbeam"
     ],
@@ -218273,7 +218374,7 @@
     "ean": "8586028779842",
     "ean_raw": "8586028779842",
     "sku": "125131",
-    "name": "Boxing Gloves Grind Black/Gold - GymBeam černá 14 OZ",
+    "name": "Boxerské rukavice Grind Black/Gold - GymBeam černá 14 OZ",
     "feeds": [
       "gymbeam"
     ],
@@ -218284,7 +218385,7 @@
     "ean": "8586028779859",
     "ean_raw": "8586028779859",
     "sku": "125136",
-    "name": "Boxing Gloves Grind Black/Gold - GymBeam černá 16 OZ",
+    "name": "Boxerské rukavice Grind Black/Gold - GymBeam černá 16 OZ",
     "feeds": [
       "gymbeam"
     ],
@@ -265260,7 +265361,7 @@
       "dafit",
       "kulturistika"
     ],
-    "occurrences": 2
+    "occurrences": 3
   },
   {
     "feed": "dafit",
@@ -265990,7 +266091,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -266389,7 +266490,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -266708,7 +266809,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 4
   },
   {
     "feed": "dafit",
@@ -273390,6 +273491,17 @@
     "ean_raw": "8595713101783",
     "sku": "20182",
     "name": "Power System Rukavice Power Grip PS 2800 červené - S",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "8595713101790",
+    "ean_raw": "8595713101790",
+    "sku": "20183",
+    "name": "Power System Rukavice Power Grip PS 2800 červené - M",
     "feeds": [
       "kulturistika"
     ],
