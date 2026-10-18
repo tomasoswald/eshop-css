@@ -210759,6 +210759,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028767634",
+    "ean_raw": "8586028767634",
+    "sku": "124096",
+    "name": "Bacopa + Gotu kola - GymBeam 90 kaps.",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028767658",
     "ean_raw": "8586028767658",
     "sku": "120208",
@@ -265361,7 +265372,7 @@
       "dafit",
       "kulturistika"
     ],
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -266091,7 +266102,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -266490,7 +266501,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -266809,7 +266820,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 4
+    "occurrences": 1
   },
   {
     "feed": "dafit",
