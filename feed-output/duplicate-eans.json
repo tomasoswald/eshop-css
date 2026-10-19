@@ -46516,6 +46516,30 @@
     ]
   },
   {
+    "ean": "8594193039715",
+    "feeds": [
+      "dafit",
+      "kulturistika"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "8594193039715",
+        "ean_raw": "8594193039715",
+        "sku": "373265",
+        "name": "Big Boy vanilkový rohlíček 220 g"
+      },
+      {
+        "feed": "kulturistika",
+        "ean": "8594193039715",
+        "ean_raw": "8594193039715",
+        "sku": "23631",
+        "name": "Big Boy Vanilkový rohlíček - 220g"
+      }
+    ]
+  },
+  {
     "ean": "8594193039784",
     "feeds": [
       "dafit",

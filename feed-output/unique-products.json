@@ -66516,6 +66516,17 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "5999576922814",
+    "ean_raw": "5999576922814",
+    "sku": "58628",
+    "name": "Näno Supps Protein Cups 80g - arašídové máslo",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "5999576922975",
     "ean_raw": "5999576922975",
     "sku": "58616",
@@ -66564,6 +66575,17 @@
     "ean_raw": "5999860634850",
     "sku": "20906",
     "name": "Näno Supps Collagen VIBE drink 330ml - mojito",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
+    "ean": "5999860634942",
+    "ean_raw": "5999860634942",
+    "sku": "58629",
+    "name": "Näno Supps Creatine Monohydrate Creapure - 300g",
     "feeds": [
       "kulturistika"
     ],
@@ -258438,6 +258460,17 @@
     "occurrences": 1
   },
   {
+    "feed": "dafit",
+    "ean": "8594193031641",
+    "ean_raw": "8594193031641",
+    "sku": "411153",
+    "name": "Big Boy Big Vánočka 220 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
     "feed": "kulturistika",
     "ean": "8594193031672",
     "ean_raw": "8594193031672",
@@ -259540,15 +259573,16 @@
     "occurrences": 1
   },
   {
-    "feed": "kulturistika",
+    "feed": "dafit",
     "ean": "8594193039715",
     "ean_raw": "8594193039715",
-    "sku": "23631",
-    "name": "Big Boy Vanilkový rohlíček - 220g",
+    "sku": "373265",
+    "name": "Big Boy vanilkový rohlíček 220 g",
     "feeds": [
+      "dafit",
       "kulturistika"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "kulturistika",

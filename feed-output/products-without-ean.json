@@ -9300,7 +9300,7 @@
     "ean": "",
     "ean_raw": "",
     "sku": "325535",
-    "name": "Flapjack 100 g"
+    "name": "Bombus Flapjack 100 g"
   },
   {
     "feed": "dafit",
@@ -12974,6 +12974,20 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "339548",
+    "name": "BioTech Zero Bar 50 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "339580",
     "name": "Extrifit CFM Instant Whey 80 30 g"
   },
@@ -13198,20 +13212,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "340059",
-    "name": "Extrifit High Whey 80 2270 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "340061",
     "name": "Legal Power Tepláky 6202-405 černá"
   },
@@ -13368,6 +13368,20 @@
     "ean_raw": "",
     "sku": "340099",
     "name": "Rehband Ortéza lokte Strong Man pravá"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "340169",
+    "name": "Prom-In Essential BCAA Synergy 550 g"
   },
   {
     "feed": "dafit",
@@ -14957,20 +14971,6 @@
     "ean_raw": "",
     "sku": "342833",
     "name": "Extrifit AKCE BCAA Instant 300 g AKCE"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "343307",
-    "name": "Extrifit Rice Oat Mash 900 g"
   },
   {
     "feed": "dafit",
@@ -17111,20 +17111,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "350957",
-    "name": "Take-a-Whey Whey Protein 907 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "",
     "name": ""
   },
@@ -17855,20 +17841,6 @@
     "ean_raw": "",
     "sku": "",
     "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "354979",
-    "name": "Reflex One Stop Xtreme 2030 g"
   },
   {
     "feed": "dafit",
@@ -18835,20 +18807,6 @@
     "ean_raw": "",
     "sku": "357791",
     "name": "USN 100% Premium Whey Protein 2000 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "357915",
-    "name": "USN 100% Plant Protein 900 g"
   },
   {
     "feed": "dafit",
@@ -22417,20 +22375,6 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
-    "sku": "369588",
-    "name": "BioTech Protein Pancake 1000 g"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
     "sku": "",
     "name": ""
   },
@@ -23397,6 +23341,20 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "372489",
+    "name": "Scitec Nutrition Jumbo Hardcore 1530 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "",
     "name": ""
   },
@@ -23546,6 +23504,13 @@
     "ean_raw": "",
     "sku": "373206",
     "name": "USN Qhush Energy Drink 500 ml"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
   },
   {
     "feed": "dafit",
@@ -26199,20 +26164,6 @@
     "ean_raw": "",
     "sku": "",
     "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "378130",
-    "name": "Prom-In CFM Pure Performance 1000 g"
   },
   {
     "feed": "dafit",
@@ -29690,6 +29641,20 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "382436",
+    "name": "Snickers Hiprotein Low Sugar 55 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "",
     "name": ""
   },
@@ -30091,20 +30056,6 @@
     "ean_raw": "",
     "sku": "",
     "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "383104",
-    "name": "Amix Tigger Zero CHOCO Protein Bar 60 g"
   },
   {
     "feed": "dafit",
@@ -30812,6 +30763,20 @@
     "ean_raw": "",
     "sku": "386235",
     "name": "Extrifit Triko 55 bílé L"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "386282",
+    "name": "Mars HiProtein Mars Low Sugar 55 g"
   },
   {
     "feed": "dafit",
@@ -31673,6 +31638,20 @@
     "ean_raw": "",
     "sku": "388851",
     "name": "Extrifit Tepláky Pánské E03 šedá XXL"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "388885",
+    "name": "QNT Milkii Protein Bar 60 g"
   },
   {
     "feed": "dafit",
@@ -34249,20 +34228,6 @@
     "ean_raw": "",
     "sku": "396248",
     "name": "AKCE ATP Nutrition 100% Hydro Whey Protein 750 g + ZDARMA Šejkr 700 ml"
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "",
-    "name": ""
-  },
-  {
-    "feed": "dafit",
-    "ean": "",
-    "ean_raw": "",
-    "sku": "396269",
-    "name": "AKCE Dafit Ginger Shot For Immunity 500 ml + ZDARMA 2x 60 ml"
   },
   {
     "feed": "dafit",
@@ -39651,6 +39616,20 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "406934",
+    "name": "MyProtein Crispy Wafer 40,4 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "406936",
     "name": "Kevin Levrone Shaaboom Pump Juice Shot 120 ml"
   },
@@ -42087,6 +42066,27 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "411152",
+    "name": "Big Boy Big Perníček 220 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "411181",
     "name": "Extrifit 100% Whey Protein 2000 g NEW"
   },
@@ -42138,6 +42138,34 @@
     "ean_raw": "",
     "sku": "411307",
     "name": "AKCE Dafit Ginger Shot For Immunity 500 ml + ZDARMA 3x Summer Ginger Shot 60 ml"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "411313",
+    "name": "BioTech Protein Bar 70 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "411316",
+    "name": "QNT L-Carnitine 2000 mg 700 ml"
   },
   {
     "feed": "dafit",
