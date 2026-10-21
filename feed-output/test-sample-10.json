@@ -1,17 +1,6 @@
 [
   {
     "feed": "dafit",
-    "ean": "1230000066617",
-    "ean_raw": "1230000066617",
-    "sku": "322061",
-    "name": "Lenny & Larry´s The Complete Cookie 113 g white chocolate macadamia",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "2700002411115",
     "ean_raw": "2700002411115",
     "sku": "51479",
@@ -27,6 +16,17 @@
     "ean_raw": "2700002422227",
     "sku": "51474",
     "name": "Power System No Compromise PS-2700",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "2720001311117",
+    "ean_raw": "2720001311117",
+    "sku": "309356",
+    "name": "Power System Fitness Chica PS-2710",
     "feeds": [
       "dafit"
     ],

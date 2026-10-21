@@ -583,17 +583,6 @@
     "occurrences": 1
   },
   {
-    "feed": "dafit",
-    "ean": "1230000066617",
-    "ean_raw": "1230000066617",
-    "sku": "322061",
-    "name": "Lenny & Larry´s The Complete Cookie 113 g white chocolate macadamia",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
     "feed": "gymbeam",
     "ean": "1709402426578",
     "ean_raw": "1709402426578",
@@ -20297,10 +20286,9 @@
     "sku": "400263",
     "name": "Optimum Nutrition Electrolyte Powder lemon 264 g",
     "feeds": [
-      "dafit",
-      "gymbeam"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -20320,10 +20308,9 @@
     "sku": "404342",
     "name": "Optimum Nutrition Micronised Creatine Powder blue raspberry 247,5 g",
     "feeds": [
-      "dafit",
-      "gymbeam"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -20332,10 +20319,9 @@
     "sku": "400265",
     "name": "Optimum Nutrition Micronised Creatine Powder blue raspberry 360 g",
     "feeds": [
-      "dafit",
-      "gymbeam"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -20344,10 +20330,9 @@
     "sku": "400267",
     "name": "Optimum Nutrition Micronised Creatine Powder fruit punch 247,5 g",
     "feeds": [
-      "dafit",
-      "gymbeam"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -20356,10 +20341,9 @@
     "sku": "404343",
     "name": "Optimum Nutrition Micronised Creatine Powder orange 247,5 g",
     "feeds": [
-      "dafit",
-      "gymbeam"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -20413,17 +20397,6 @@
     "ean_raw": "5060751998525",
     "sku": "117073",
     "name": "Protein 100% Whey Gold Standard - Optimum Nutrition lahodná jahoda",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "5060751998532",
-    "ean_raw": "5060751998532",
-    "sku": "125490",
-    "name": "Creatine TABS - Optimum Nutrition",
     "feeds": [
       "gymbeam"
     ],
@@ -20591,82 +20564,15 @@
     "occurrences": 1
   },
   {
-    "feed": "gymbeam",
-    "ean": "5060751999201",
-    "ean_raw": "5060751999201",
-    "sku": "125466",
-    "name": "Clear Protein - Optimum Nutrition mango marakuja",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "5060751999225",
-    "ean_raw": "5060751999225",
-    "sku": "125469",
-    "name": "Clear Protein - Optimum Nutrition dark berry",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "5060751999249",
-    "ean_raw": "5060751999249",
-    "sku": "125472",
-    "name": "Clear Protein - Optimum Nutrition broskev",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "5060751999256",
-    "ean_raw": "5060751999256",
-    "sku": "125457",
-    "name": "Clear Protein - Optimum Nutrition mango marakuja",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "5060751999263",
-    "ean_raw": "5060751999263",
-    "sku": "125460",
-    "name": "Clear Protein - Optimum Nutrition dark berry",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "5060751999270",
-    "ean_raw": "5060751999270",
-    "sku": "125463",
-    "name": "Clear Protein - Optimum Nutrition broskev",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
     "feed": "dafit",
     "ean": "5060751999300",
     "ean_raw": "5060751999300",
     "sku": "409957",
     "name": "Optimum Nutrition Electrolyte Powder orange 264 g",
     "feeds": [
-      "dafit",
-      "gymbeam"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "gymbeam",
@@ -40218,6 +40124,17 @@
     "occurrences": 1
   },
   {
+    "feed": "dafit",
+    "ean": "787692838349",
+    "ean_raw": "787692838349",
+    "sku": "322061",
+    "name": "Lenny & Larry´s The Complete Cookie 113 g white chocolate macadamia",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
     "feed": "gymbeam",
     "ean": "7890001225143",
     "ean_raw": "7890001225143",
@@ -48101,7 +48018,7 @@
     "ean": "8586022215018",
     "ean_raw": "8586022215018",
     "sku": "57688",
-    "name": "Protein Yum Yum Whey - BeastPink strawberry splash",
+    "name": "Yum Yum Whey - BeastPink strawberry splash",
     "feeds": [
       "gymbeam"
     ],
@@ -49256,7 +49173,7 @@
     "ean": "8586022216831",
     "ean_raw": "8586022216831",
     "sku": "62851",
-    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -49267,7 +49184,7 @@
     "ean": "8586022216848",
     "ean_raw": "8586022216848",
     "sku": "62848",
-    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -49278,7 +49195,7 @@
     "ean": "8586022216855",
     "ean_raw": "8586022216855",
     "sku": "62854",
-    "name": "Protein Yum Yum Whey - BeastPink strawberry splash",
+    "name": "Yum Yum Whey - BeastPink strawberry splash",
     "feeds": [
       "gymbeam"
     ],
@@ -86403,7 +86320,7 @@
     "ean": "8586025953221",
     "ean_raw": "8586025953221",
     "sku": "91735",
-    "name": "Protein Yum Yum Whey - BeastPink karamelová sušenka",
+    "name": "Yum Yum Whey - BeastPink karamelová sušenka",
     "feeds": [
       "gymbeam"
     ],
@@ -97623,7 +97540,7 @@
     "ean": "8586026393682",
     "ean_raw": "8586026393682",
     "sku": "96865",
-    "name": "Protein Yum Yum Whey - BeastPink karamelová sušenka",
+    "name": "Yum Yum Whey - BeastPink karamelová sušenka",
     "feeds": [
       "gymbeam"
     ],
@@ -113156,17 +113073,6 @@
     "ean_raw": "8586027397306",
     "sku": "105010",
     "name": "Zadní světlo na kolo - GymBeam černá",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586027397313",
-    "ean_raw": "8586027397313",
-    "sku": "110437",
-    "name": "Protein Break Bar 3pack - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -149708,7 +149614,7 @@
     "ean": "8586028769720",
     "ean_raw": "8586028769720",
     "sku": "118774",
-    "name": "Kreatin MagnaPower™ - GymBeam bez příchuti",
+    "name": "Creatine MagnaPower™ - GymBeam bez příchuti",
     "feeds": [
       "gymbeam"
     ],
@@ -149719,7 +149625,7 @@
     "ean": "8586028769737",
     "ean_raw": "8586028769737",
     "sku": "118771",
-    "name": "Kreatin MagnaPower™ - GymBeam kyselé jablko",
+    "name": "Creatine MagnaPower™ - GymBeam kyselé jablko",
     "feeds": [
       "gymbeam"
     ],
@@ -149730,7 +149636,7 @@
     "ean": "8586028769744",
     "ean_raw": "8586028769744",
     "sku": "118768",
-    "name": "Kreatin MagnaPower™ - GymBeam citrón limetka",
+    "name": "Creatine MagnaPower™ - GymBeam citrón limetka",
     "feeds": [
       "gymbeam"
     ],
@@ -151325,7 +151231,7 @@
     "ean": "8586028771969",
     "ean_raw": "8586028771969",
     "sku": "122026",
-    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -151336,7 +151242,7 @@
     "ean": "8586028771976",
     "ean_raw": "8586028771976",
     "sku": "122023",
-    "name": "Protein Yum Yum Whey - BeastPink čokoláda lískový oříšek",
+    "name": "Yum Yum Whey - BeastPink čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -151347,7 +151253,7 @@
     "ean": "8586028771983",
     "ean_raw": "8586028771983",
     "sku": "122020",
-    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -151358,7 +151264,7 @@
     "ean": "8586028771990",
     "ean_raw": "8586028771990",
     "sku": "122014",
-    "name": "Protein Yum Yum Whey - BeastPink jahoda",
+    "name": "Yum Yum Whey - BeastPink jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -152734,6 +152640,17 @@
     "ean_raw": "8586028774670",
     "sku": "122344",
     "name": "ProEAA + Glutamin - GymBeam ananas",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028774687",
+    "ean_raw": "8586028774687",
+    "sku": "125386",
+    "name": "Veganský burger - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -155979,6 +155896,17 @@
     "ean_raw": "8586028785201",
     "sku": "123394",
     "name": "Kurkumin + Vitamin E - GymBeam 180 kaps.",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028785737",
+    "ean_raw": "8586028785737",
+    "sku": "122575",
+    "name": "CreaGlow Anjablaa - GymBeam Wild berry",
     "feeds": [
       "gymbeam"
     ],
@@ -159542,7 +159470,7 @@
     "ean": "8588007275116",
     "ean_raw": "8588007275116",
     "sku": "28938",
-    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -159553,7 +159481,7 @@
     "ean": "8588007275123",
     "ean_raw": "8588007275123",
     "sku": "28937",
-    "name": "Protein Yum Yum Whey - BeastPink čokoláda lískový oříšek",
+    "name": "Yum Yum Whey - BeastPink čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -159564,7 +159492,7 @@
     "ean": "8588007275130",
     "ean_raw": "8588007275130",
     "sku": "28939",
-    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -172788,6 +172716,17 @@
   },
   {
     "feed": "dafit",
+    "ean": "8594193039982",
+    "ean_raw": "8594193039982",
+    "sku": "371401",
+    "name": "Dafit Kešu jádra nepražená 1000 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "8594193039999",
     "ean_raw": "8594193039999",
     "sku": "371405",
@@ -174885,7 +174824,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -175512,7 +175451,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -175908,7 +175847,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -176227,7 +176166,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 4
+    "occurrences": 1
   },
   {
     "feed": "dafit",
