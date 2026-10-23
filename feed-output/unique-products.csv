@@ -1788,9 +1788,9 @@
 5060469986913,Optimum Nutrition Opti-Women 120 cps,400273,dafit,dafit|gymbeam,2
 5060469987101,Gold Standard 100% Plant - Optimum Nutrition vanilka,51700,gymbeam,gymbeam,1
 5060469987125,Gold Standard 100% Plant - Optimum Nutrition čokoláda,32983,gymbeam,gymbeam,1
-5060469987408,Gold Standard 100% Isolate - Optimum Nutrition vanilka,125433,gymbeam,gymbeam,1
-5060469987415,Gold Standard 100% Isolate - Optimum Nutrition jahoda,125436,gymbeam,gymbeam,1
-5060469987538,Gold Standard 100% Isolate - Optimum Nutrition čokoláda,125430,gymbeam,gymbeam,1
+5060469987408,Gold Standard 100 % Izolát - Optimum Nutrition vanilka,125433,gymbeam,gymbeam,1
+5060469987415,Gold Standard 100 % Izolát - Optimum Nutrition jahoda,125436,gymbeam,gymbeam,1
+5060469987538,Gold Standard 100 % Izolát - Optimum Nutrition čokoláda,125430,gymbeam,gymbeam,1
 5060469988368,Optimum Nutrition Serious Mass strawberry 2730 g,404338,dafit,dafit|gymbeam,2
 5060469989082,Optimum Nutrition 100% Whey Gold Standard banana 2280 g,400239,dafit,dafit,1
 5060469989303,Protein 100% Whey Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda,4290,gymbeam,gymbeam,1
@@ -2631,12 +2631,15 @@
 5999076272501,BioTech Iso Whey Zero Limited Edition churros 908 g,409372,dafit,dafit,1
 5999076273027,BioTech Šejkr Baklava 600 ml,407249,dafit,dafit,1
 5999076273034,BioTech Šejkr Sangria 600 ml,407250,dafit,dafit,1
+5999076273492,BioTech Šejkr Churros 600 ml,411292,dafit,dafit,1
 5999076273706,BioTech Whey Shake Limited Edition peach yoghurt 1000 g,409375,dafit,dafit,1
 5999076273713,BioTech 100% Pure Whey bourbon vanilla 3000 g,409385,dafit,dafit,1
 5999076273720,BioTech 100% Pure Whey chocolate 3000 g,409384,dafit,dafit,1
 5999100004306,Scitec Nutrition Arginine Liquid 1000 ml,36594,dafit,dafit,1
 5999100019553,Scitec Nutrition Šejkr 700 ml pink,362906,dafit,dafit,1
 5999100019607,Scitec Nutrition Šejkr 500 + 120 ml black,362903,dafit,dafit,1
+5999100019614,Scitec Nutrition Šejkr 500 + 120 ml green,410363,dafit,dafit,1
+5999100019638,Scitec Nutrition Šejkr 500 + 120 ml pink,410364,dafit,dafit,1
 5999100019645,Scitec Nutrition Šejkr 500 + 120 ml red,362902,dafit,dafit,1
 5999100019652,Scitec Nutrition Šejkr 500 + 120 ml white,362904,dafit,dafit,1
 5999100019706,Scitec Nutrition Šejkr 700 ml modrá,355645,dafit,dafit,1
@@ -2727,6 +2730,7 @@
 5999100022591,Scitec Nutrition 100% Vegan Protein 1000 g vanilla,359728,dafit,dafit,1
 5999100022607,Scitec Nutrition 100% Vegan Protein 1000 g chocolate,359725,dafit,dafit,1
 5999100022614,Scitec Nutrition 100% Vegan Protein 1000 g hazelnut walnut,359727,dafit,dafit,1
+5999100022973,Scitec Nutrition Super Carb Xpress raspberry tea 1000 g,409941,dafit,dafit,1
 5999100023123,Scitec Nutrition 100% Whey Isolate 700 g vanilla,50128,dafit,dafit,1
 5999100023130,Scitec Nutrition 100% Whey Isolate 700 g chocolate,51187,dafit,dafit,1
 5999100023147,Scitec Nutrition 100% Whey Isolate 700 g strawberry,50127,dafit,dafit,1
@@ -2880,6 +2884,11 @@
 5999100041165,Scitec Nutrition Whey Infusion peanut butter 2000 g,405026,dafit,dafit,1
 5999100041172,Scitec Nutrition Whey Infusion vanilla ice cream 2000 g,405028,dafit,dafit,1
 5999100041189,Scitec Nutrition Whey Infusion chocolate ice cream 2000 g,405025,dafit,dafit,1
+5999100041240,Scitec Nutrition Whey Infusion strawberry 500 g,410369,dafit,dafit,1
+5999100041257,Scitec Nutrition Whey Infusion banana 500 g,410371,dafit,dafit,1
+5999100041264,Scitec Nutrition Whey Infusion peanut butter 500 g,410368,dafit,dafit,1
+5999100041271,Scitec Nutrition Whey Infusion vanilla ice cream 500 g,410370,dafit,dafit,1
+5999100041288,Scitec Nutrition Whey Infusion chocolate ice cream 500 g,410367,dafit,dafit,1
 5999100041882,Scitec Nutrition 100% WP Professional vanilla 4000 g,408027,dafit,dafit,1
 5999100041899,Scitec Nutrition 100% WP Professional chocolate 4000 g,409936,dafit,dafit,1
 5999100041905,Scitec Nutrition 100% WP Professional chocolate hazelnut 4000 g,408024,dafit,dafit,1
@@ -3179,8 +3188,8 @@
 627933026954,Mutant® Mass Gainer chocolate fudge brownie 6800 g,369793,dafit,dafit|gymbeam,2
 627933027203,Mutant® Whey 100% Gourmet Protein 2270 g vanilla ice cream,381835,dafit,dafit|gymbeam,2
 627933027210,Mutant® Whey 100% Gourmet Protein triple chocolate 2270 g,369800,dafit,dafit|gymbeam,2
-627933027227,Mutant Whey - PVL jahodový krém,4378,gymbeam,gymbeam,1
-627933027234,Mutant Whey - PVL cookies & cream,8415,gymbeam,gymbeam,1
+627933027227,Mutant® Whey 100% Gourmet Protein 2270 g strawberry cream,411416,dafit,dafit|gymbeam,2
+627933027234,Mutant® Whey 100% Gourmet Protein 2270 g cookies cream,411418,dafit,dafit|gymbeam,2
 627933027302,Mutant Whey - PVL vanilková zmrzlina,28150,gymbeam,gymbeam,1
 627933027319,Mutant Whey - PVL trojitá čokoláda,28149,gymbeam,gymbeam,1
 627933027326,Mutant Whey - PVL jahodový krém,28151,gymbeam,gymbeam,1
@@ -10551,7 +10560,7 @@
 8586027400716,Dámská sukně BEAT Skort Berrywood - GymBeam fialová XL,108118,gymbeam,gymbeam,1
 8586027400723,Dámská sukně BEAT Skort Berrywood - GymBeam fialová XXL,108121,gymbeam,gymbeam,1
 8586027400730,Mandle v horké čokoládě - GymBeam,64786,gymbeam,gymbeam,1
-8586027400747,Extrakt z lékořice - GymBeam 60 kaps.,110302,gymbeam,gymbeam,1
+8586027400747,Extrakt z lékořice – GymBeam 60 kaps.,110302,gymbeam,gymbeam,1
 8586027400754,TestoBoost Complex - GymBeam 90 kaps.,106675,gymbeam,gymbeam,1
 8586027400761,Extrakt z afrického manga - GymBeam 60 kaps.,105340,gymbeam,gymbeam,1
 8586027400778,BIO Matcha - GymBeam 60 kaps.,111583,gymbeam,gymbeam,1
@@ -12194,7 +12203,7 @@
 8586028135082,Bezešvé kalhotky Comfy 3Pack Black - GymBeam černá XXL,113917,gymbeam,gymbeam,1
 8586028135495,Brokolicový extrakt 400 mg s 2 % DIM – GymBeam 60 kaps.,116038,gymbeam,gymbeam,1
 8586028135518,Kreatin TABS 100% Creapure® - GymBeam,113143,gymbeam,gymbeam,1
-8586028135525,SOD Superoxid dismutáza 280 IU - GymBeam 60 kaps.,113545,gymbeam,gymbeam,1
+8586028135525,SOD superoxiddismutáza 280 IU - GymBeam 60 kaps.,113545,gymbeam,gymbeam,1
 8586028135532,Quercetin + bromelain - GymBeam 90 kaps.,113590,gymbeam,gymbeam,1
 8586028135549,Slávka zelenoústá - GymBeam 90 kaps.,113932,gymbeam,gymbeam,1
 8586028135587,Gain Anabolic Protein - GymBeam slaný karamel,113215,gymbeam,gymbeam,1
@@ -12692,7 +12701,7 @@
 8586028591475,Palmitoylethanolamid (PEA) - GymBeam 90 kaps.,115732,gymbeam,gymbeam,1
 8586028591482,Modrá spirulina - GymBeam,115132,gymbeam,gymbeam,1
 8586028591499,Bulharský Tribulus (90 % saponinů) - GymBeam 90 kaps.,115207,gymbeam,gymbeam,1
-8586028591505,Veganský glukosamin sulfát - GymBeam 120 kaps.,115213,gymbeam,gymbeam,1
+8586028591505,Veganský glukosamin sulfát – GymBeam 120 kaps.,115213,gymbeam,gymbeam,1
 8586028591512,HMB + ZMB6 - GymBeam,115258,gymbeam,gymbeam,1
 8586028591529,Fialový batát extrakt - GymBeam,115126,gymbeam,gymbeam,1
 8586028591543,Dámské tepláky Abyss Charcoal - GymBeam černá M,119815,gymbeam,gymbeam,1
@@ -13352,7 +13361,7 @@
 8586028763490,Triple Blend Protein - GymBeam čokoláda,118381,gymbeam,gymbeam,1
 8586028763506,Triple Blend Protein - GymBeam jahoda,118384,gymbeam,gymbeam,1
 8586028763513,Zázvorový shot s brusinkami - GymBeam,115663,gymbeam,gymbeam,1
-8586028763520,Vitamín B-Komplex Plus - GymBeam 90 kaps.,118468,gymbeam,gymbeam,1
+8586028763520,Vitamín B-komplex Plus – GymBeam 90 kaps.,118468,gymbeam,gymbeam,1
 8586028763551,Ashwagandha Shoden® - GymBeam 60 kaps.,122176,gymbeam,gymbeam,1
 8586028763735,MSM OptiMSM® - GymBeam,118363,gymbeam,gymbeam,1
 8586028763742,100 % Kreatin monohydrát - GymBeam zelené jablko,118801,gymbeam,gymbeam,1
@@ -13875,6 +13884,7 @@
 8586028774250,Triple magnézium drink - GymBeam citrón limetka,120745,gymbeam,gymbeam,1
 8586028774328,Ultra Burner Pack - GymBeam,122446,gymbeam,gymbeam,1
 8586028774625,TestoHype Pack - GymBeam,122314,gymbeam,gymbeam,1
+8586028774632,Lipozomální železo - GymBeam 60 kaps.,122332,gymbeam,gymbeam,1
 8586028774649,ProEAA + Glutamin - GymBeam jahoda kiwi,122341,gymbeam,gymbeam,1
 8586028774656,ProEAA + Glutamin - GymBeam pomeranč,122347,gymbeam,gymbeam,1
 8586028774663,ProEAA + Glutamin - GymBeam citrón limetka,122338,gymbeam,gymbeam,1
@@ -14141,9 +14151,84 @@
 8586028779835,Boxerské rukavice Grind Black/Gold - GymBeam černá 12 OZ,125126,gymbeam,gymbeam,1
 8586028779842,Boxerské rukavice Grind Black/Gold - GymBeam černá 14 OZ,125131,gymbeam,gymbeam,1
 8586028779859,Boxerské rukavice Grind Black/Gold - GymBeam černá 16 OZ,125136,gymbeam,gymbeam,1
+8586028779866,Muay-Thai Šortky Grind Black - GymBeam černá S,124646,gymbeam,gymbeam,1
+8586028779873,Muay-Thai Šortky Grind Black - GymBeam černá M,124651,gymbeam,gymbeam,1
+8586028779880,Muay-Thai Šortky Grind Black - GymBeam černá L,124656,gymbeam,gymbeam,1
+8586028779897,Muay-Thai Šortky Grind Black - GymBeam černá XL,124661,gymbeam,gymbeam,1
+8586028779903,Muay-Thai Šortky Grind Black - GymBeam černá XXL,124666,gymbeam,gymbeam,1
+8586028779910,Muay-Thai Šortky Grind Red - GymBeam červená S,124676,gymbeam,gymbeam,1
+8586028779927,Muay-Thai Šortky Grind Red - GymBeam červená M,124681,gymbeam,gymbeam,1
+8586028779934,Muay-Thai Šortky Grind Red - GymBeam červená L,124686,gymbeam,gymbeam,1
+8586028779941,Muay-Thai Šortky Grind Red - GymBeam červená XL,124691,gymbeam,gymbeam,1
+8586028779958,Muay-Thai Šortky Grind Red - GymBeam červená XXL,124696,gymbeam,gymbeam,1
+8586028779965,Muay-Thai Šortky Grind Teal - GymBeam modrá S,124706,gymbeam,gymbeam,1
+8586028779972,Muay-Thai Šortky Grind Teal - GymBeam modrá M,124711,gymbeam,gymbeam,1
+8586028779989,Muay-Thai Šortky Grind Teal - GymBeam modrá L,124716,gymbeam,gymbeam,1
+8586028779996,Muay-Thai Šortky Grind Teal - GymBeam modrá XL,124721,gymbeam,gymbeam,1
+8586028780008,Muay-Thai Šortky Grind Teal - GymBeam modrá XXL,124726,gymbeam,gymbeam,1
+8586028780015,2in1 šortky Grind Black - GymBeam černá S,124736,gymbeam,gymbeam,1
+8586028780022,2in1 šortky Grind Black - GymBeam černá M,124741,gymbeam,gymbeam,1
+8586028780039,2in1 šortky Grind Black - GymBeam černá L,124746,gymbeam,gymbeam,1
+8586028780046,2in1 šortky Grind Black - GymBeam černá XL,124751,gymbeam,gymbeam,1
+8586028780053,2in1 šortky Grind Black - GymBeam černá XXL,124756,gymbeam,gymbeam,1
+8586028780060,2in1 šortky Grind Red - GymBeam červená S,124766,gymbeam,gymbeam,1
+8586028780077,2in1 šortky Grind Red - GymBeam červená M,124771,gymbeam,gymbeam,1
+8586028780084,2in1 šortky Grind Red - GymBeam červená L,124776,gymbeam,gymbeam,1
+8586028780091,2in1 šortky Grind Red - GymBeam červená XL,124781,gymbeam,gymbeam,1
+8586028780107,2in1 šortky Grind Red - GymBeam červená XXL,124786,gymbeam,gymbeam,1
+8586028780114,2in1 šortky Grind Teal - GymBeam modrá S,124796,gymbeam,gymbeam,1
+8586028780121,2in1 šortky Grind Teal - GymBeam modrá M,124801,gymbeam,gymbeam,1
+8586028780138,2in1 šortky Grind Teal - GymBeam modrá L,124806,gymbeam,gymbeam,1
+8586028780145,2in1 šortky Grind Teal - GymBeam modrá XL,124811,gymbeam,gymbeam,1
+8586028780152,2in1 šortky Grind Teal - GymBeam modrá XXL,124816,gymbeam,gymbeam,1
+8586028780169,Tričko Grind Rashguard Black - GymBeam černá S,124826,gymbeam,gymbeam,1
+8586028780176,Tričko Grind Rashguard Black - GymBeam černá M,124831,gymbeam,gymbeam,1
+8586028780183,Tričko Grind Rashguard Black - GymBeam černá L,124836,gymbeam,gymbeam,1
+8586028780190,Tričko Grind Rashguard Black - GymBeam černá XL,124841,gymbeam,gymbeam,1
+8586028780206,Tričko Grind Rashguard Black - GymBeam černá XXL,124846,gymbeam,gymbeam,1
+8586028780213,Tričko Grind Rashguard Red - GymBeam červená S,124856,gymbeam,gymbeam,1
+8586028780220,Tričko Grind Rashguard Red - GymBeam červená M,124861,gymbeam,gymbeam,1
+8586028780237,Tričko Grind Rashguard Red - GymBeam červená L,124866,gymbeam,gymbeam,1
+8586028780244,Tričko Grind Rashguard Red - GymBeam červená XL,124871,gymbeam,gymbeam,1
+8586028780251,Tričko Grind Rashguard Red - GymBeam červená XXL,124876,gymbeam,gymbeam,1
+8586028780268,Tričko Grind Rashguard Teal - GymBeam modrá S,124886,gymbeam,gymbeam,1
+8586028780275,Tričko Grind Rashguard Teal - GymBeam modrá M,124891,gymbeam,gymbeam,1
+8586028780282,Tričko Grind Rashguard Teal - GymBeam modrá L,124896,gymbeam,gymbeam,1
+8586028780299,Tričko Grind Rashguard Teal - GymBeam modrá XL,124901,gymbeam,gymbeam,1
+8586028780305,Tričko Grind Rashguard Teal - GymBeam modrá XXL,124906,gymbeam,gymbeam,1
+8586028780312,Mikina Grind Black - GymBeam černá S,124916,gymbeam,gymbeam,1
+8586028780329,Mikina Grind Black - GymBeam černá M,124921,gymbeam,gymbeam,1
+8586028780336,Mikina Grind Black - GymBeam černá L,124926,gymbeam,gymbeam,1
+8586028780343,Mikina Grind Black - GymBeam černá XL,124931,gymbeam,gymbeam,1
+8586028780350,Mikina Grind Black - GymBeam černá XXL,124936,gymbeam,gymbeam,1
+8586028780367,Tepláky Grind Black - GymBeam S,124946,gymbeam,gymbeam,1
+8586028780374,Tepláky Grind Black - GymBeam M,124951,gymbeam,gymbeam,1
+8586028780381,Tepláky Grind Black - GymBeam L,124956,gymbeam,gymbeam,1
+8586028780398,Tepláky Grind Black - GymBeam XL,124961,gymbeam,gymbeam,1
+8586028780404,Tepláky Grind Black - GymBeam XXL,124966,gymbeam,gymbeam,1
+8586028780411,Tílko Grind Black - GymBeam černá S,124976,gymbeam,gymbeam,1
+8586028780428,Tílko Grind Black - GymBeam černá M,124981,gymbeam,gymbeam,1
+8586028780435,Tílko Grind Black - GymBeam černá L,124986,gymbeam,gymbeam,1
+8586028780442,Tílko Grind Black - GymBeam černá XL,124991,gymbeam,gymbeam,1
+8586028780459,Tílko Grind Black - GymBeam černá XXL,124996,gymbeam,gymbeam,1
 8586028780466,B-Komplex 100 % šumivý - GymBeam pomeranč,115711,gymbeam,gymbeam,1
 8586028780473,Nattokináza enzym - GymBeam 180 kaps.,122563,gymbeam,gymbeam,1
 8586028780602,Magnézium citrát kapsle - GymBeam 240 kaps.,123385,gymbeam,gymbeam,1
+8586028780619,Tričko Grind Black - GymBeam černá S,125006,gymbeam,gymbeam,1
+8586028780626,Tričko Grind Black - GymBeam černá M,125011,gymbeam,gymbeam,1
+8586028780633,Tričko Grind Black - GymBeam černá L,125016,gymbeam,gymbeam,1
+8586028780640,Tričko Grind Black - GymBeam černá XL,125021,gymbeam,gymbeam,1
+8586028780657,Tričko Grind Black - GymBeam černá XXL,125026,gymbeam,gymbeam,1
+8586028780664,Tričko Grind White - GymBeam bílá S,125036,gymbeam,gymbeam,1
+8586028780671,Tričko Grind White - GymBeam bílá M,125041,gymbeam,gymbeam,1
+8586028780688,Tričko Grind White - GymBeam bílá L,125046,gymbeam,gymbeam,1
+8586028780695,Tričko Grind White - GymBeam bílá XL,125051,gymbeam,gymbeam,1
+8586028780701,Tričko Grind White - GymBeam bílá XXL,125056,gymbeam,gymbeam,1
+8586028780718,Tričko Grind Red - GymBeam červená S,125066,gymbeam,gymbeam,1
+8586028780725,Tričko Grind Red - GymBeam červená M,125071,gymbeam,gymbeam,1
+8586028780732,Tričko Grind Red - GymBeam červená L,125076,gymbeam,gymbeam,1
+8586028780749,Tričko Grind Red - GymBeam červená XL,125081,gymbeam,gymbeam,1
+8586028780756,Tričko Grind Red - GymBeam červená XXL,125086,gymbeam,gymbeam,1
 8586028780763,Bourbon vanilkový cukr - GymBeam,122497,gymbeam,gymbeam,1
 8586028780787,Ponožky Ruffle 3Pack Pink- GymBeam multicolor S,124081,gymbeam,gymbeam,1
 8586028780794,Ponožky Ruffle 3Pack Pink- GymBeam multicolor M,124086,gymbeam,gymbeam,1
@@ -14451,6 +14536,7 @@
 8588007130477,ZERO OMÁČKA boloňská – GymBeam,28649,gymbeam,gymbeam,1
 8588007130484,Ashwagandha 500 mg - GymBeam bez příchuti 90 kaps.,28554,gymbeam,gymbeam,1
 8588007130491,Arašídy nepražené - GymBeam bez příchuti,28705,gymbeam,gymbeam,1
+8588007130507,Arašídy nepražené - GymBeam bez příchuti,5334,gymbeam,gymbeam,1
 8588007130514,Mandle - GymBeam bez příchuti,5381,gymbeam,gymbeam,1
 8588007130538,Kešu ořechy - GymBeam nesolený,5332,gymbeam,gymbeam,1
 8588007130552,Lískové ořechy - GymBeam bez příchuti,28697,gymbeam,gymbeam,1
@@ -15896,7 +15982,7 @@
 8595612010667,ATP Vitality Multivitamin 90 tbl,347830,dafit,dafit,1
 8595612010674,ATP Vitality Multi Vitamin Forte 60 tbl,347828,dafit,dafit,1
 8595612010681,ATP Vitality Glucosamin Chondroitin 100 tob,347820,dafit,dafit,1
-8595612010698,ATP Vitality Gelatina Caps 100 tob,347825,dafit,dafit,1
+8595612010698,ATP Vitality Gelatina Caps 100 tob,347825,dafit,dafit,2
 8595612010742,ATP Vitality Vitamin C 600 mg 90 tob,347819,dafit,dafit,1
 8595612010780,ATP Vitality Vitamin D3 60 tob,347829,dafit,dafit,1
 8595612010797,ATP Vitality Multi Vitality 60 tbl,349604,dafit,dafit,1
@@ -15953,7 +16039,7 @@
 8595612013583,ATP Nutrition High Protein Milk Crispies 250 g,390041,dafit,dafit,1
 8595612013590,ATP Nutrition Milk Protein 85% Lactose Free 750 g,390040,dafit,dafit,1
 8595612013606,ATP Nutrition Skimmed Milk High Protein Low Fat 750 g Sušené odtučněné mléko,390037,dafit,dafit,1
-8595612013613,ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko,390039,dafit,dafit,1
+8595612013613,ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko,390039,dafit,dafit,2
 8595612013620,ATP Nutrition Creatine + EAA + Citicoline red blood orange 400 g,391339,dafit,dafit,1
 8595612013637,ATP Nutrition EAA 360 g passion fruit,391183,dafit,dafit,1
 8595612013644,ATP Nutrition EAA 360 g pomeranč mango,391184,dafit,dafit,1
@@ -15989,7 +16075,7 @@
 8595612013972,ATP Nutrition Hericium Lion´s Extract 180 tob,396167,dafit,dafit,1
 8595612013989,ATP Nutrition Volcano Phase II. 120 tob,396046,dafit,dafit,1
 8595612013996,ATP Nutrition Tribuherb 120 tob,396089,dafit,dafit,1
-8595612014009,ATP Vitality Ginger Extract + Vitamin C 90 tob,396163,dafit,dafit,1
+8595612014009,ATP Vitality Ginger Extract + Vitamin C 90 tob,396163,dafit,dafit,2
 8595612014016,ATP Vitality Berberine Forte 90 tob,396165,dafit,dafit,1
 8595612014023,ATP Vitality ALA 500 mg + B6 90 tob,396160,dafit,dafit,1
 8595612014030,ATP Vitality Beta Carotene Forte 90 tob,403268,dafit,dafit,1
@@ -16018,7 +16104,7 @@
 8595612014573,ATP Vitality Premium Rice Protein 1000 g pistácie,399858,dafit,dafit,1
 8595612014580,ATP Vitality Premium Rice Protein 1000 g cappuccino,399860,dafit,dafit,1
 8595612014610,ATP Vitality Cordyceps Prime 90 tob,402534,dafit,dafit,1
-8595612014627,ATP Vitality K2 MK-7 200µg 90 tob,402375,dafit,dafit,1
+8595612014627,ATP Vitality K2 MK-7 200µg 90 tob,402375,dafit,dafit,4
 8595612014634,ATP Vitality DigeZyme + BioPerine 90 tob,402535,dafit,dafit,1
 8595612014696,ATP Nutrition Clear Whey Isolate 90% 550 g pomelo marshmallow,401964,dafit,dafit,1
 8595612014702,ATP Nutrition Clear Whey Isolate 90% 550 g cherry lollipop,401961,dafit,dafit,1
@@ -16281,7 +16367,6 @@
 8595697601026,Extrifit Carnifresh Sparkling Caffeine free 850 ml mojito,379040,dafit,dafit,1
 8595697601033,Extrifit Carnifresh Sparkling Caffeine free 850 ml wild strawberry mint,378879,dafit,dafit,1
 8595697601040,Extrifit Carnifresh Sparkling Caffeine free 850 ml lemon lime,379729,dafit,dafit,1
-8595697601064,Extrifit Carnifresh Sparkling Caffeine free 850 ml grapes,379554,dafit,dafit,1
 8595697601071,Extrifit Omega 3 1000 mg 100 cps,292474,dafit,dafit,1
 8595697601088,Extrifit Protein Pudding Isolate 30 g blueberry,384866,dafit,dafit,1
 8595697601095,Extrifit Protein Pudding Isolate 30 g chocolate,387726,dafit,dafit,1
