@@ -726,6 +726,54 @@
     ]
   },
   {
+    "ean": "5060751998044",
+    "feeds": [
+      "dafit",
+      "gymbeam"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5060751998044",
+        "ean_raw": "5060751998044",
+        "sku": "400263",
+        "name": "Optimum Nutrition Electrolyte Powder lemon 264 g"
+      },
+      {
+        "feed": "gymbeam",
+        "ean": "5060751998044",
+        "ean_raw": "5060751998044",
+        "sku": "125481",
+        "name": "Electrolyte powder - Optimum Nutrition citrón"
+      }
+    ]
+  },
+  {
+    "ean": "5060751998051",
+    "feeds": [
+      "dafit",
+      "gymbeam"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5060751998051",
+        "ean_raw": "5060751998051",
+        "sku": "400264",
+        "name": "Optimum Nutrition Electrolyte Powder forest berries 264 g"
+      },
+      {
+        "feed": "gymbeam",
+        "ean": "5060751998051",
+        "ean_raw": "5060751998051",
+        "sku": "125478",
+        "name": "Electrolyte powder - Optimum Nutrition lesní ovoce"
+      }
+    ]
+  },
+  {
     "ean": "5060751998488",
     "feeds": [
       "dafit",
@@ -938,6 +986,30 @@
         "ean_raw": "5060751999171",
         "sku": "122008",
         "name": "Protein 100% Whey Gold Standard - Optimum Nutrition čokoláda lískový oříšek"
+      }
+    ]
+  },
+  {
+    "ean": "5060751999300",
+    "feeds": [
+      "dafit",
+      "gymbeam"
+    ],
+    "occurrences": 2,
+    "products": [
+      {
+        "feed": "dafit",
+        "ean": "5060751999300",
+        "ean_raw": "5060751999300",
+        "sku": "409957",
+        "name": "Optimum Nutrition Electrolyte Powder orange 264 g"
+      },
+      {
+        "feed": "gymbeam",
+        "ean": "5060751999300",
+        "ean_raw": "5060751999300",
+        "sku": "125484",
+        "name": "Electrolyte powder - Optimum Nutrition pomeranč"
       }
     ]
   },
@@ -1194,7 +1266,7 @@
         "ean": "627933027203",
         "ean_raw": "627933027203",
         "sku": "381835",
-        "name": "Mutant® Whey 100% Gourmet Protein 2270 g vanilla ice cream"
+        "name": "Mutant® Whey 100% Gourmet Protein vanilla ice cream 2270 g"
       },
       {
         "feed": "gymbeam",
@@ -1242,7 +1314,7 @@
         "ean": "627933027227",
         "ean_raw": "627933027227",
         "sku": "411416",
-        "name": "Mutant® Whey 100% Gourmet Protein 2270 g strawberry cream"
+        "name": "Mutant® Whey 100% Gourmet Protein strawberry cream 2270 g"
       },
       {
         "feed": "gymbeam",
@@ -1266,7 +1338,7 @@
         "ean": "627933027234",
         "ean_raw": "627933027234",
         "sku": "411418",
-        "name": "Mutant® Whey 100% Gourmet Protein 2270 g cookies cream"
+        "name": "Mutant® Whey 100% Gourmet Protein cookies cream 2270 g"
       },
       {
         "feed": "gymbeam",
@@ -1800,112 +1872,6 @@
         "ean_raw": "8595042730142",
         "sku": "50231",
         "name": "Acra Gymnastic Ball 85 cm modrá"
-      }
-    ]
-  },
-  {
-    "ean": "8595612010698",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595612010698",
-        "ean_raw": "8595612010698",
-        "sku": "347825",
-        "name": "ATP Vitality Gelatina Caps 100 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612010698",
-        "ean_raw": "8595612010698",
-        "sku": "406873",
-        "name": "ATP Vitality Gelatina Caps 100 tob"
-      }
-    ]
-  },
-  {
-    "ean": "8595612013613",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595612013613",
-        "ean_raw": "8595612013613",
-        "sku": "390039",
-        "name": "ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612013613",
-        "ean_raw": "8595612013613",
-        "sku": "408423",
-        "name": "ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko"
-      }
-    ]
-  },
-  {
-    "ean": "8595612014009",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595612014009",
-        "ean_raw": "8595612014009",
-        "sku": "396163",
-        "name": "ATP Vitality Ginger Extract + Vitamin C 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014009",
-        "ean_raw": "8595612014009",
-        "sku": "406594",
-        "name": "ATP Vitality Ginger Extract + Vitamin C 90 tob"
-      }
-    ]
-  },
-  {
-    "ean": "8595612014627",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 4,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "402375",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "405606",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "406603",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595612014627",
-        "ean_raw": "8595612014627",
-        "sku": "410479",
-        "name": "ATP Vitality K2 MK-7 200µg 90 tob"
       }
     ]
   },

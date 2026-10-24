@@ -1840,8 +1840,8 @@
 5060751997429,Optimum Nutrition 100% Whey Gold Standard banana cream 450 g,400254,dafit,dafit|gymbeam,2
 5060751997436,Optimum Nutrition 100% Whey Gold Standard cookies cream 480 g,400252,dafit,dafit|gymbeam,2
 5060751997443,Optimum Nutrition 100% Whey Gold Standard chocolate peanut butter 480 g,400251,dafit,dafit|gymbeam,2
-5060751998044,Optimum Nutrition Electrolyte Powder lemon 264 g,400263,dafit,dafit,1
-5060751998051,Optimum Nutrition Electrolyte Powder forest berries 264 g,400264,dafit,dafit,1
+5060751998044,Optimum Nutrition Electrolyte Powder lemon 264 g,400263,dafit,dafit|gymbeam,2
+5060751998051,Optimum Nutrition Electrolyte Powder forest berries 264 g,400264,dafit,dafit|gymbeam,2
 5060751998082,"Optimum Nutrition Micronised Creatine Powder blue raspberry 247,5 g",404342,dafit,dafit,1
 5060751998099,Optimum Nutrition Micronised Creatine Powder blue raspberry 360 g,400265,dafit,dafit,1
 5060751998105,"Optimum Nutrition Micronised Creatine Powder fruit punch 247,5 g",400267,dafit,dafit,1
@@ -1851,6 +1851,7 @@
 5060751998501,Optimum Nutrition 100% Whey Gold Standard double rich chocolate 2020 g,405472,dafit,dafit|gymbeam,2
 5060751998518,Protein 100% Whey Gold Standard - Optimum Nutrition dvojitá bohatá čokoláda,117082,gymbeam,gymbeam,1
 5060751998525,Protein 100% Whey Gold Standard - Optimum Nutrition lahodná jahoda,117073,gymbeam,gymbeam,1
+5060751998532,Kreatin - Optimum Nutrition,125490,gymbeam,gymbeam,1
 5060751998570,Protein 100% Whey Gold Standard - Optimum Nutrition mimořádně mléčná čokoláda,117067,gymbeam,gymbeam,1
 5060751998587,Protein 100% Whey Gold Standard - Optimum Nutrition francouzský vanilkový krém,117076,gymbeam,gymbeam,1
 5060751998594,Protein 100% Whey Gold Standard - Optimum Nutrition čokoláda arašidové máslo,117061,gymbeam,gymbeam,1
@@ -1865,7 +1866,13 @@
 5060751999164,Optimum Nutrition 100% Whey Gold Standard chocolate peanut butter 2020 g,405464,dafit,dafit|gymbeam,2
 5060751999171,Optimum Nutrition 100% Whey Gold Standard chocolate hazelnut 2020 g,405468,dafit,dafit|gymbeam,2
 5060751999188,Protein 100% Whey Gold Standard - Optimum Nutrition bez příchuti,122002,gymbeam,gymbeam,1
-5060751999300,Optimum Nutrition Electrolyte Powder orange 264 g,409957,dafit,dafit,1
+5060751999201,Clear Protein - Optimum Nutrition mango marakuja,125466,gymbeam,gymbeam,1
+5060751999225,Clear Protein - Optimum Nutrition dark berry,125469,gymbeam,gymbeam,1
+5060751999249,Clear Protein - Optimum Nutrition broskev,125472,gymbeam,gymbeam,1
+5060751999256,Clear Protein - Optimum Nutrition mango marakuja,125457,gymbeam,gymbeam,1
+5060751999263,Clear Protein - Optimum Nutrition dark berry,125460,gymbeam,gymbeam,1
+5060751999270,Clear Protein - Optimum Nutrition broskev,125463,gymbeam,gymbeam,1
+5060751999300,Optimum Nutrition Electrolyte Powder orange 264 g,409957,dafit,dafit|gymbeam,2
 5060802522167,Arašídové máslo - The Protein Works jemné,45607,gymbeam,gymbeam,1
 5060802522174,Arašídové máslo - The Protein Works křupavé,45610,gymbeam,gymbeam,1
 5060802524680,Raze Extreme - The Protein Works modrá malina,64561,gymbeam,gymbeam,1
@@ -2868,6 +2875,7 @@
 5999100038370,Scitec Nutrition Hot Blood Infinity 350 g green apple lime,398567,dafit,dafit,1
 5999100038387,Scitec Nutrition Hot Blood Infinity 350 g orange lemonade,398568,dafit,dafit,1
 5999100038394,Scitec Nutrition Hot Blood Infinity 350 g kiwi strawberry,397083,dafit,dafit,1
+5999100038486,Scitec Nutrition M3T 60 tbl,410357,dafit,dafit,1
 5999100038677,Scitec Nutrition L-Arginine 300 g,405008,dafit,dafit,1
 5999100038684,Scitec Nutrition Beta Alanine 350 g unflavored,409944,dafit,dafit,1
 5999100039247,Scitec Nutrition Shilajit 60 cps,403805,dafit,dafit,1
@@ -2875,9 +2883,14 @@
 5999100039407,Scitec Nutrition 100% Beef Protein 30 g cinnamon roll,399348,dafit,dafit,1
 5999100039414,Scitec Nutrition 100% Beef Protein 30 g caramel banana,399347,dafit,dafit,1
 5999100039575,Scitec Nutrition Cyclic Dextrin 1000 g unflavoured,409943,dafit,dafit,1
+5999100040199,Scitec Nutrition COG 60 cps,410356,dafit,dafit,1
 5999100040564,Scitec Nutrition 100% Vegan Protein vanilla 400 g,409939,dafit,dafit,1
 5999100040571,Scitec Nutrition 100% Vegan Protein chocolate 400 g,408006,dafit,dafit,1
 5999100040588,Scitec Nutrition 100% Vegan Protein hazelnut walnut 400 g,409940,dafit,dafit,1
+5999100040595,Scitec Nutrition Protein Delite Shake vanilla berries 420 g,410359,dafit,dafit,1
+5999100040601,Scitec Nutrition Protein Delite Shake chocolate 420 g,410361,dafit,dafit,1
+5999100040618,Scitec Nutrition Protein Delite Shake coconut almond 420 g,410360,dafit,dafit,1
+5999100040625,Scitec Nutrition Protein Delite Shake strawberry white chocolate 420 g,410362,dafit,dafit,1
 5999100041080,Scitec Nutrition 100% WP Professional chocolate wafer 2350 g,405029,dafit,dafit,1
 5999100041141,Scitec Nutrition Whey Infusion strawberry 2000 g,405027,dafit,dafit,1
 5999100041158,Scitec Nutrition Whey Infusion banana 2000 g,405023,dafit,dafit,1
@@ -3186,10 +3199,10 @@
 627933026800,Mutant® Mass Gainer cookeis cream 2270 g,369786,dafit,dafit|gymbeam,2
 627933026817,Mutant® Mass Gainer cookies cream 6800 g,369790,dafit,dafit|gymbeam,2
 627933026954,Mutant® Mass Gainer chocolate fudge brownie 6800 g,369793,dafit,dafit|gymbeam,2
-627933027203,Mutant® Whey 100% Gourmet Protein 2270 g vanilla ice cream,381835,dafit,dafit|gymbeam,2
+627933027203,Mutant® Whey 100% Gourmet Protein vanilla ice cream 2270 g,381835,dafit,dafit|gymbeam,2
 627933027210,Mutant® Whey 100% Gourmet Protein triple chocolate 2270 g,369800,dafit,dafit|gymbeam,2
-627933027227,Mutant® Whey 100% Gourmet Protein 2270 g strawberry cream,411416,dafit,dafit|gymbeam,2
-627933027234,Mutant® Whey 100% Gourmet Protein 2270 g cookies cream,411418,dafit,dafit|gymbeam,2
+627933027227,Mutant® Whey 100% Gourmet Protein strawberry cream 2270 g,411416,dafit,dafit|gymbeam,2
+627933027234,Mutant® Whey 100% Gourmet Protein cookies cream 2270 g,411418,dafit,dafit|gymbeam,2
 627933027302,Mutant Whey - PVL vanilková zmrzlina,28150,gymbeam,gymbeam,1
 627933027319,Mutant Whey - PVL trojitá čokoláda,28149,gymbeam,gymbeam,1
 627933027326,Mutant Whey - PVL jahodový krém,28151,gymbeam,gymbeam,1
@@ -7292,7 +7305,6 @@
 8586025623704,Extrakt z citrusového bergamotu - GymBeam 60 kaps.,87046,gymbeam,gymbeam,1
 8586025623711,Sportovní taška Sling Hyper Ivory - BeastPink šedá,84580,gymbeam,gymbeam,1
 8586025623728,Sportovní taška Sling Hyper Olivine - BeastPink zelená,84586,gymbeam,gymbeam,1
-8586025623766,Toaletní taška Transparent - BeastPink transparentní,84562,gymbeam,gymbeam,1
 8586025623780,Kluzné podložky Core Sliders Pink - GymBeam růžová,86107,gymbeam,gymbeam,1
 8586025623797,Kuchyňská zástěra Black - GymBeam černá,86707,gymbeam,gymbeam,1
 8586025623803,Marine Collg+ - GymBeam mango marakuja,86296,gymbeam,gymbeam,1
@@ -15819,6 +15831,7 @@
 8594205870251,Luskeeto Luštěninové Krekry 70 g černé s aktivním uhlím,367008,dafit,dafit,1
 8594205870268,Luskeeto Luštěninové Krekry 40 g chia,399424,dafit,dafit,1
 8594205870275,Luskeeto Luštěninové Krekry 40 g řepové,399425,dafit,dafit,1
+8594210560093,Dafit Winter Ginger Shot rakytník a kokosová voda 60 ml,411653,dafit,dafit,1
 8594210560130,Dafit Winter Ginger Shot rakytník a kokosová voda 500 ml,411330,dafit,dafit,1
 8594210560185,Dafit Summer Ginger Shot mango lemon coconut water 60 ml,402673,dafit,dafit,1
 8594210560192,Dafit Summer Ginger Shot mango lemon coconut water 500 ml,402909,dafit,dafit,1
@@ -15982,7 +15995,7 @@
 8595612010667,ATP Vitality Multivitamin 90 tbl,347830,dafit,dafit,1
 8595612010674,ATP Vitality Multi Vitamin Forte 60 tbl,347828,dafit,dafit,1
 8595612010681,ATP Vitality Glucosamin Chondroitin 100 tob,347820,dafit,dafit,1
-8595612010698,ATP Vitality Gelatina Caps 100 tob,347825,dafit,dafit,2
+8595612010698,ATP Vitality Gelatina Caps 100 tob,347825,dafit,dafit,1
 8595612010742,ATP Vitality Vitamin C 600 mg 90 tob,347819,dafit,dafit,1
 8595612010780,ATP Vitality Vitamin D3 60 tob,347829,dafit,dafit,1
 8595612010797,ATP Vitality Multi Vitality 60 tbl,349604,dafit,dafit,1
@@ -16029,7 +16042,6 @@
 8595612013392,ATP Nutrition CREA PWO Booster 450 g forest fruit,397012,dafit,dafit,1
 8595612013415,ATP Nutrition CREA PWO Booster mango marakuja 450 g,388677,dafit,dafit,1
 8595612013453,ATP Nutrition Šejkr 700 ml černý,386473,dafit,dafit,1
-8595612013507,ATP Nutrition Volcano Phase III. 90 tob,396047,dafit,dafit,1
 8595612013521,ATP 100% Instant Whey 80 CFM banán 2000 g,390212,dafit,dafit,1
 8595612013538,ATP 100% Instant Whey 80 CFM čokoláda 2000 g,390430,dafit,dafit,1
 8595612013545,ATP Nutrition 100% Instant Whey 80 CFM 2000 g pistácie,391342,dafit,dafit,1
@@ -16039,7 +16051,7 @@
 8595612013583,ATP Nutrition High Protein Milk Crispies 250 g,390041,dafit,dafit,1
 8595612013590,ATP Nutrition Milk Protein 85% Lactose Free 750 g,390040,dafit,dafit,1
 8595612013606,ATP Nutrition Skimmed Milk High Protein Low Fat 750 g Sušené odtučněné mléko,390037,dafit,dafit,1
-8595612013613,ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko,390039,dafit,dafit,2
+8595612013613,ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko,390039,dafit,dafit,1
 8595612013620,ATP Nutrition Creatine + EAA + Citicoline red blood orange 400 g,391339,dafit,dafit,1
 8595612013637,ATP Nutrition EAA 360 g passion fruit,391183,dafit,dafit,1
 8595612013644,ATP Nutrition EAA 360 g pomeranč mango,391184,dafit,dafit,1
@@ -16075,7 +16087,7 @@
 8595612013972,ATP Nutrition Hericium Lion´s Extract 180 tob,396167,dafit,dafit,1
 8595612013989,ATP Nutrition Volcano Phase II. 120 tob,396046,dafit,dafit,1
 8595612013996,ATP Nutrition Tribuherb 120 tob,396089,dafit,dafit,1
-8595612014009,ATP Vitality Ginger Extract + Vitamin C 90 tob,396163,dafit,dafit,2
+8595612014009,ATP Vitality Ginger Extract + Vitamin C 90 tob,396163,dafit,dafit,1
 8595612014016,ATP Vitality Berberine Forte 90 tob,396165,dafit,dafit,1
 8595612014023,ATP Vitality ALA 500 mg + B6 90 tob,396160,dafit,dafit,1
 8595612014030,ATP Vitality Beta Carotene Forte 90 tob,403268,dafit,dafit,1
@@ -16104,7 +16116,7 @@
 8595612014573,ATP Vitality Premium Rice Protein 1000 g pistácie,399858,dafit,dafit,1
 8595612014580,ATP Vitality Premium Rice Protein 1000 g cappuccino,399860,dafit,dafit,1
 8595612014610,ATP Vitality Cordyceps Prime 90 tob,402534,dafit,dafit,1
-8595612014627,ATP Vitality K2 MK-7 200µg 90 tob,402375,dafit,dafit,4
+8595612014627,ATP Vitality K2 MK-7 200µg 90 tob,402375,dafit,dafit,1
 8595612014634,ATP Vitality DigeZyme + BioPerine 90 tob,402535,dafit,dafit,1
 8595612014696,ATP Nutrition Clear Whey Isolate 90% 550 g pomelo marshmallow,401964,dafit,dafit,1
 8595612014702,ATP Nutrition Clear Whey Isolate 90% 550 g cherry lollipop,401961,dafit,dafit,1
@@ -16407,13 +16419,13 @@
 8595697601842,Extrifit Clear Protein Iso Whey 90! 25 g lime,397199,dafit,dafit,1
 8595697601859,Extrifit Actinox 30 g cherry,398522,dafit,dafit,1
 8595697601866,Extrifit Actinox 30 g orange,398521,dafit,dafit,1
-8595697601910,Extrifit 100% Whey Protein 16 x 30 g banana,411063,dafit,dafit,1
-8595697601927,Extrifit 100% Whey Protein 16 x 30 g blueberry,411303,dafit,dafit,1
-8595697601934,Extrifit 100% Whey Protein 16 x 30 g coconut,411064,dafit,dafit,1
-8595697601941,Extrifit 100% Whey Protein 16 x 30 g fruit shake,411065,dafit,dafit,1
-8595697601965,Extrifit 100% Whey Protein 16 x 30 g chocolate,411304,dafit,dafit,1
-8595697601996,Extrifit 100% Whey Protein 16 x 30 g strawberry,411062,dafit,dafit,1
-8595697602009,Extrifit 100% Whey Protein 16 x 30 g tiramisu,411066,dafit,dafit,1
+8595697601910,Extrifit 100% Whey Protein banana 16 x 30 g,411063,dafit,dafit,1
+8595697601927,Extrifit 100% Whey Protein blueberry 16 x 30 g,411303,dafit,dafit,1
+8595697601934,Extrifit 100% Whey Protein coconut 16 x 30 g,411064,dafit,dafit,1
+8595697601941,Extrifit 100% Whey Protein fruit shake 16 x 30 g,411065,dafit,dafit,1
+8595697601965,Extrifit 100% Whey Protein chocolate 16 x 30 g,411304,dafit,dafit,1
+8595697601996,Extrifit 100% Whey Protein strawberry 16 x 30 g,411062,dafit,dafit,1
+8595697602009,Extrifit 100% Whey Protein tiramisu 16 x 30 g,411066,dafit,dafit,1
 8595697602023,Extrifit CFM Instant Whey 80 banana 16 x 30 g,411301,dafit,dafit,1
 8595697602030,Extrifit CFM Instant Whey 80 blueberry 16 x 30 g,411299,dafit,dafit,1
 8595697602047,Extrifit CFM Instant Whey 80 caramel 16 x 30 g,411297,dafit,dafit,1
