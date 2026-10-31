@@ -1526,17 +1526,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "12860043",
-    "ean_raw": "12860043",
-    "sku": "5697",
-    "name": "Extrifit Aminogel 80g - ananas",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "12901692",
     "ean_raw": "12901692",
     "sku": "8443",
@@ -19102,7 +19091,7 @@
     "ean": "4251650802308",
     "ean_raw": "4251650802308",
     "sku": "23336",
-    "name": "EXP. 31/10/2026 Mammut Whey protein 3000g - karamel",
+    "name": "Mammut Whey protein 3000g - karamel",
     "feeds": [
       "kulturistika"
     ],
@@ -49153,7 +49142,7 @@
     "ean": "5907695507454",
     "ean_raw": "5907695507454",
     "sku": "25968",
-    "name": "HMS Masážní válec FS107 31,5cm - růžový",
+    "name": "HMS Masážní válec FS107 31,5cm - fialový",
     "feeds": [
       "kulturistika"
     ],
@@ -57558,6 +57547,17 @@
     "ean_raw": "5999076238286",
     "sku": "397842",
     "name": "BioTech 100% Pure Whey 1000 g milk rice",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "5999076238385",
+    "ean_raw": "5999076238385",
+    "sku": "411842",
+    "name": "BioTech 100% Pure Whey 454 g banana",
     "feeds": [
       "dafit"
     ],
@@ -80212,16 +80212,15 @@
     "occurrences": 2
   },
   {
-    "feed": "dafit",
+    "feed": "kulturistika",
     "ean": "7350000153446",
     "ean_raw": "7350000153446",
-    "sku": "388154",
-    "name": "Pandy Candy peach ring 50 g",
+    "sku": "17067",
+    "name": "PANDY Candy 50g - broskvové kroužky",
     "feeds": [
-      "dafit",
       "kulturistika"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -80234,17 +80233,6 @@
       "kulturistika"
     ],
     "occurrences": 2
-  },
-  {
-    "feed": "dafit",
-    "ean": "7350000153637",
-    "ean_raw": "7350000153637",
-    "sku": "390552",
-    "name": "Pandy Candy sour skulls 50 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -80303,16 +80291,15 @@
     "occurrences": 2
   },
   {
-    "feed": "dafit",
+    "feed": "kulturistika",
     "ean": "7350000159288",
     "ean_raw": "7350000159288",
-    "sku": "366779",
-    "name": "Pandy Candy fluffy clouds 50 g",
+    "sku": "24387",
+    "name": "PANDY Candy 50g - fluffy clouds",
     "feeds": [
-      "dafit",
       "kulturistika"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -136862,6 +136849,17 @@
     "ean_raw": "8586025623728",
     "sku": "84586",
     "name": "Sportovní taška Sling Hyper Olivine - BeastPink zelená",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586025623766",
+    "ean_raw": "8586025623766",
+    "sku": "84562",
+    "name": "Toaletní taška Transparent - BeastPink transparentní",
     "feeds": [
       "gymbeam"
     ],
@@ -210888,6 +210886,39 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028764916",
+    "ean_raw": "8586028764916",
+    "sku": "121249",
+    "name": "NutriShake s kreatinem - GymBeam čokoláda",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028764923",
+    "ean_raw": "8586028764923",
+    "sku": "121252",
+    "name": "NutriShake s kreatinem - GymBeam vanilka",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028764930",
+    "ean_raw": "8586028764930",
+    "sku": "121255",
+    "name": "NutriShake s kreatinem - GymBeam jahoda",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028764947",
     "ean_raw": "8586028764947",
     "sku": "118885",
@@ -214694,10 +214725,76 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028772065",
+    "ean_raw": "8586028772065",
+    "sku": "122980",
+    "name": "ProEAA - GymBeam zelené jablko",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028772218",
     "ean_raw": "8586028772218",
     "sku": "122455",
     "name": "Tekuté vaječné bílky - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028772362",
+    "ean_raw": "8586028772362",
+    "sku": "122968",
+    "name": "ProEAA - GymBeam modrá malina",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028772379",
+    "ean_raw": "8586028772379",
+    "sku": "122971",
+    "name": "ProEAA - GymBeam citrón limetka",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028772386",
+    "ean_raw": "8586028772386",
+    "sku": "122977",
+    "name": "ProEAA - GymBeam pomeranč",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028772393",
+    "ean_raw": "8586028772393",
+    "sku": "122983",
+    "name": "ProEAA - GymBeam vodní meloun",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028772409",
+    "ean_raw": "8586028772409",
+    "sku": "122974",
+    "name": "ProEAA - GymBeam mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -215929,7 +216026,7 @@
     "ean": "8586028774038",
     "ean_raw": "8586028774038",
     "sku": "122506",
-    "name": "L-Glutamine citrón limetka",
+    "name": "L-Glutamin - GymBeam citrón limetka",
     "feeds": [
       "gymbeam"
     ],
@@ -215940,7 +216037,7 @@
     "ean": "8586028774045",
     "ean_raw": "8586028774045",
     "sku": "122503",
-    "name": "L-Glutamine zelené jablko",
+    "name": "L-Glutamin - GymBeam zelené jablko",
     "feeds": [
       "gymbeam"
     ],
@@ -220792,6 +220889,39 @@
     "ean_raw": "8586028787274",
     "sku": "123409",
     "name": "Vápník - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028787403",
+    "ean_raw": "8586028787403",
+    "sku": "124416",
+    "name": "BCAA Sirup - GymBeam sour cherry",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028787410",
+    "ean_raw": "8586028787410",
+    "sku": "124421",
+    "name": "BCAA Sirup - GymBeam meruňka",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028787427",
+    "ean_raw": "8586028787427",
+    "sku": "124426",
+    "name": "BCAA Sirup - GymBeam zelené jablko",
     "feeds": [
       "gymbeam"
     ],
@@ -268517,7 +268647,7 @@
     "ean": "8595612015020",
     "ean_raw": "8595612015020",
     "sku": "411788",
-    "name": "ATP Nutrition 100% Eggcellence Protein 500 g vanilka",
+    "name": "ATP Nutrition 100% Eggcellence Protein vanilka 500 g",
     "feeds": [
       "dafit"
     ],
@@ -268528,7 +268658,7 @@
     "ean": "8595612015044",
     "ean_raw": "8595612015044",
     "sku": "411796",
-    "name": "ATP Nutrition 100% Eggcellence Protein 500 g kokos",
+    "name": "ATP Nutrition 100% Eggcellence Protein kokos 500 g",
     "feeds": [
       "dafit"
     ],
@@ -268539,7 +268669,7 @@
     "ean": "8595612015082",
     "ean_raw": "8595612015082",
     "sku": "411794",
-    "name": "ATP Nutrition 100% Eggcellence Protein 500 g banán",
+    "name": "ATP Nutrition 100% Eggcellence Protein banán 500 g",
     "feeds": [
       "dafit"
     ],
@@ -268550,7 +268680,7 @@
     "ean": "8595612015099",
     "ean_raw": "8595612015099",
     "sku": "411795",
-    "name": "ATP Nutrition 100% Eggcellence Protein 500 g malina",
+    "name": "ATP Nutrition 100% Eggcellence Protein malina 500 g",
     "feeds": [
       "dafit"
     ],
@@ -273601,7 +273731,7 @@
     "ean": "8595697602054",
     "ean_raw": "8595697602054",
     "sku": "411781",
-    "name": "Extrifit CFM Instant Whey 80 16 x 30 g coconut milk",
+    "name": "Extrifit CFM Instant Whey 80 coconut milk 16 x 30 g",
     "feeds": [
       "dafit"
     ],
@@ -273623,7 +273753,7 @@
     "ean": "8595697602078",
     "ean_raw": "8595697602078",
     "sku": "411782",
-    "name": "Extrifit CFM Instant Whey 80 16 x 30 g choco coconut",
+    "name": "Extrifit CFM Instant Whey 80 choco coconut 16 x 30 g",
     "feeds": [
       "dafit"
     ],

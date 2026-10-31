@@ -26550,30 +26550,6 @@
     ]
   },
   {
-    "ean": "7350000153446",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "7350000153446",
-        "ean_raw": "7350000153446",
-        "sku": "388154",
-        "name": "Pandy Candy peach ring 50 g"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "7350000153446",
-        "ean_raw": "7350000153446",
-        "sku": "17067",
-        "name": "PANDY Candy 50g - broskvové kroužky"
-      }
-    ]
-  },
-  {
     "ean": "7350000153477",
     "feeds": [
       "dafit",
@@ -26618,30 +26594,6 @@
         "ean_raw": "7350000158281",
         "sku": "24390",
         "name": "PANDY Candy 50g - třešeň"
-      }
-    ]
-  },
-  {
-    "ean": "7350000159288",
-    "feeds": [
-      "dafit",
-      "kulturistika"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "7350000159288",
-        "ean_raw": "7350000159288",
-        "sku": "366779",
-        "name": "Pandy Candy fluffy clouds 50 g"
-      },
-      {
-        "feed": "kulturistika",
-        "ean": "7350000159288",
-        "ean_raw": "7350000159288",
-        "sku": "24387",
-        "name": "PANDY Candy 50g - fluffy clouds"
       }
     ]
   },
