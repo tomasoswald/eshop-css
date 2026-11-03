@@ -2078,29 +2078,6 @@
     ]
   },
   {
-    "ean": "8595697603570",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 2,
-    "products": [
-      {
-        "feed": "dafit",
-        "ean": "8595697603570",
-        "ean_raw": "8595697603570",
-        "sku": "411814",
-        "name": "Extrifit Creafresh® 360 g cherry"
-      },
-      {
-        "feed": "dafit",
-        "ean": "8595697603570",
-        "ean_raw": "8595697603570",
-        "sku": "411815",
-        "name": "Extrifit Creafresh® 360 g limeta"
-      }
-    ]
-  },
-  {
     "ean": "8595727406621",
     "feeds": [
       "dafit"
