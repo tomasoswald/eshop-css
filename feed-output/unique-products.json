@@ -39009,6 +39009,28 @@
   },
   {
     "feed": "dafit",
+    "ean": "7340001806670",
+    "ean_raw": "7340001806670",
+    "sku": "411869",
+    "name": "Barebells Vegan Protein Bar fudge brownie 55 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "7340001806694",
+    "ean_raw": "7340001806694",
+    "sku": "411870",
+    "name": "Barebells Vegan Protein Bar caramel peanut 55 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "7340001807738",
     "ean_raw": "7340001807738",
     "sku": "411871",
@@ -39522,17 +39544,6 @@
     "ean_raw": "7350042716005",
     "sku": "405048",
     "name": "Vitamin Well Defense 500 ml",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "7350042716500",
-    "ean_raw": "7350042716500",
-    "sku": "404101",
-    "name": "Vitamin Well Reload 500 ml",
     "feeds": [
       "dafit"
     ],
@@ -44552,6 +44563,17 @@
     "ean_raw": "8586022210198",
     "sku": "36229",
     "name": "Multifunkční závěsná hrazda - GymBeam šedá",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586022210211",
+    "ean_raw": "8586022210211",
+    "sku": "36073",
+    "name": "Posilovací guma Cross Band Level 5 - GymBeam červená",
     "feeds": [
       "gymbeam"
     ],
@@ -96284,7 +96306,7 @@
     "ean": "8586026390902",
     "ean_raw": "8586026390902",
     "sku": "94972",
-    "name": "Batoh Bliss Black - BeastPink černá",
+    "name": "Batoh Bliss Black - GymBeam černá",
     "feeds": [
       "gymbeam"
     ],
@@ -155310,7 +155332,7 @@
     "ean": "8586028777336",
     "ean_raw": "8586028777336",
     "sku": "125718",
-    "name": "ARC Jacket Beige - GymBeam cream S",
+    "name": "Bunda ARC Beige - GymBeam cream S",
     "feeds": [
       "gymbeam"
     ],
@@ -155321,7 +155343,7 @@
     "ean": "8586028777343",
     "ean_raw": "8586028777343",
     "sku": "125721",
-    "name": "ARC Jacket Beige - GymBeam cream M",
+    "name": "Bunda ARC Beige - GymBeam cream M",
     "feeds": [
       "gymbeam"
     ],
@@ -155332,7 +155354,7 @@
     "ean": "8586028777350",
     "ean_raw": "8586028777350",
     "sku": "125724",
-    "name": "ARC Jacket Beige - GymBeam cream L",
+    "name": "Bunda ARC Beige - GymBeam cream L",
     "feeds": [
       "gymbeam"
     ],
@@ -155343,7 +155365,7 @@
     "ean": "8586028777367",
     "ean_raw": "8586028777367",
     "sku": "125727",
-    "name": "ARC Jacket Beige - GymBeam cream XL",
+    "name": "Bunda ARC Beige - GymBeam cream XL",
     "feeds": [
       "gymbeam"
     ],
@@ -155354,7 +155376,7 @@
     "ean": "8586028777374",
     "ean_raw": "8586028777374",
     "sku": "125730",
-    "name": "ARC Jacket Beige - GymBeam cream XXL",
+    "name": "Bunda ARC Beige - GymBeam cream XXL",
     "feeds": [
       "gymbeam"
     ],
@@ -155365,7 +155387,7 @@
     "ean": "8586028777381",
     "ean_raw": "8586028777381",
     "sku": "125736",
-    "name": "ARC Pants Black - GymBeam černá S",
+    "name": "Kalhoty ARC Black - GymBeam černá S",
     "feeds": [
       "gymbeam"
     ],
@@ -155376,7 +155398,7 @@
     "ean": "8586028777398",
     "ean_raw": "8586028777398",
     "sku": "125739",
-    "name": "ARC Pants Black - GymBeam černá M",
+    "name": "Kalhoty ARC Black - GymBeam černá M",
     "feeds": [
       "gymbeam"
     ],
@@ -155387,7 +155409,7 @@
     "ean": "8586028777404",
     "ean_raw": "8586028777404",
     "sku": "125742",
-    "name": "ARC Pants Black - GymBeam černá L",
+    "name": "Kalhoty ARC Black - GymBeam černá L",
     "feeds": [
       "gymbeam"
     ],
@@ -155398,7 +155420,7 @@
     "ean": "8586028777411",
     "ean_raw": "8586028777411",
     "sku": "125745",
-    "name": "ARC Pants Black - GymBeam černá XL",
+    "name": "Kalhoty ARC Black - GymBeam černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -155409,7 +155431,7 @@
     "ean": "8586028777428",
     "ean_raw": "8586028777428",
     "sku": "125748",
-    "name": "ARC Pants Black - GymBeam černá XXL",
+    "name": "Kalhoty ARC Black - GymBeam černá XXL",
     "feeds": [
       "gymbeam"
     ],
@@ -158633,6 +158655,28 @@
     "ean_raw": "8586029303275",
     "sku": "125276",
     "name": "Zázvorový shot s pomerančem a skořicí - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586029304227",
+    "ean_raw": "8586029304227",
+    "sku": "125231",
+    "name": "Kešu krém s příchutí vaječného likéru - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586029304241",
+    "ean_raw": "8586029304241",
+    "sku": "125241",
+    "name": "Mandlové máslo s příchutí marcipánu a hořké čokolády - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -175266,6 +175310,17 @@
   },
   {
     "feed": "dafit",
+    "ean": "8594226410207",
+    "ean_raw": "8594226410207",
+    "sku": "401909",
+    "name": "Accurate+ Pure Whey chocolate bounty 1000 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "8594226410214",
     "ean_raw": "8594226410214",
     "sku": "403682",
@@ -175721,17 +175776,6 @@
     "ean_raw": "8594226410696",
     "sku": "410865",
     "name": "Accurate+ Pure Whey forest fruit 2000 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "8594226410702",
-    "ean_raw": "8594226410702",
-    "sku": "401909",
-    "name": "Accurate+ Pure Whey chocolate bounty 1000 g",
     "feeds": [
       "dafit"
     ],

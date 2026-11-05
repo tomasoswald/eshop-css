@@ -3539,6 +3539,8 @@
 7340001806281,Barebells Protein Bar 55 g salty peanut,325967,dafit,dafit,1
 7340001806298,Barebells Protein Bar 55 g white chocolate almond,325965,dafit,dafit,1
 7340001806540,Barebells Soft Protein Bar coco choco 55 g,404704,dafit,dafit|gymbeam,2
+7340001806670,Barebells Vegan Protein Bar fudge brownie 55 g,411869,dafit,dafit,1
+7340001806694,Barebells Vegan Protein Bar caramel peanut 55 g,411870,dafit,dafit,1
 7340001807738,Barebells Soft Protein Bar cinnamon bun 55 g,411871,dafit,dafit,1
 73400180412612,Proteinová tyčinka - Barebells white salty peanut,72298,gymbeam,gymbeam,1
 7340131600001,Nocco BCAA+ 330 ml apple,327734,dafit,dafit,1
@@ -3586,7 +3588,6 @@
 7350021427175,ProBrands BCAA Drink 330 ml raspberry,291333,dafit,dafit,1
 7350021427380,ProBrands BCAA Drink 330 ml cherry,408218,dafit,dafit,1
 7350042716005,Vitamin Well Defense 500 ml,405048,dafit,dafit,1
-7350042716500,Vitamin Well Reload 500 ml,404101,dafit,dafit,1
 7350042716609,Vitamin Well Antioxidant 500 ml,405322,dafit,dafit,1
 7350042719082,Vitamin Well Hydrate 500 ml,404100,dafit,dafit,1
 7350042719488,Vitamin Well Recover 500 ml,405050,dafit,dafit,1
@@ -4043,6 +4044,7 @@
 8586022210174,Silikonové úchopy na činku Grip - GymBeam černá,36217,gymbeam,gymbeam,1
 8586022210181,Posilovací kolečko Grip-Ring - GymBeam oranžová,36223,gymbeam,gymbeam,1
 8586022210198,Multifunkční závěsná hrazda - GymBeam šedá,36229,gymbeam,gymbeam,1
+8586022210211,Posilovací guma Cross Band Level 5 - GymBeam červená,36073,gymbeam,gymbeam,1
 8586022210228,Neoprenová bandáž na koleno - GymBeam multicolor S,36241,gymbeam,gymbeam,1
 8586022210235,Válec na cvičení M-Roll Blue - GymBeam modrá,36280,gymbeam,gymbeam,1
 8586022210242,Masážní pomůcka DuoRoll Black - GymBeam černá,36286,gymbeam,gymbeam,1
@@ -8745,7 +8747,7 @@
 8586026390872,Sportovní taška Sense Pink - GymBeam růžová,94933,gymbeam,gymbeam,1
 8586026390889,Taška Bliss Black - BeastPink černá,94939,gymbeam,gymbeam,1
 8586026390896,Taška Bliss Grey - BeastPink šedá,94945,gymbeam,gymbeam,1
-8586026390902,Batoh Bliss Black - BeastPink černá,94972,gymbeam,gymbeam,1
+8586026390902,Batoh Bliss Black - GymBeam černá,94972,gymbeam,gymbeam,1
 8586026390919,Batoh Bliss Grey - GymBeam šedá,94978,gymbeam,gymbeam,1
 8586026390926,Klíčenka Black - GymBeam černá,94882,gymbeam,gymbeam,1
 8586026390933,Těstoviny z červené čočky - GymBeam,95218,gymbeam,gymbeam,1
@@ -14111,16 +14113,16 @@
 8586028777305,Bunda ARC Olive - GymBeam zelená L,125706,gymbeam,gymbeam,1
 8586028777312,Bunda ARC Olive - GymBeam zelená XL,125709,gymbeam,gymbeam,1
 8586028777329,Bunda ARC Olive - GymBeam zelená XXL,125712,gymbeam,gymbeam,1
-8586028777336,ARC Jacket Beige - GymBeam cream S,125718,gymbeam,gymbeam,1
-8586028777343,ARC Jacket Beige - GymBeam cream M,125721,gymbeam,gymbeam,1
-8586028777350,ARC Jacket Beige - GymBeam cream L,125724,gymbeam,gymbeam,1
-8586028777367,ARC Jacket Beige - GymBeam cream XL,125727,gymbeam,gymbeam,1
-8586028777374,ARC Jacket Beige - GymBeam cream XXL,125730,gymbeam,gymbeam,1
-8586028777381,ARC Pants Black - GymBeam černá S,125736,gymbeam,gymbeam,1
-8586028777398,ARC Pants Black - GymBeam černá M,125739,gymbeam,gymbeam,1
-8586028777404,ARC Pants Black - GymBeam černá L,125742,gymbeam,gymbeam,1
-8586028777411,ARC Pants Black - GymBeam černá XL,125745,gymbeam,gymbeam,1
-8586028777428,ARC Pants Black - GymBeam černá XXL,125748,gymbeam,gymbeam,1
+8586028777336,Bunda ARC Beige - GymBeam cream S,125718,gymbeam,gymbeam,1
+8586028777343,Bunda ARC Beige - GymBeam cream M,125721,gymbeam,gymbeam,1
+8586028777350,Bunda ARC Beige - GymBeam cream L,125724,gymbeam,gymbeam,1
+8586028777367,Bunda ARC Beige - GymBeam cream XL,125727,gymbeam,gymbeam,1
+8586028777374,Bunda ARC Beige - GymBeam cream XXL,125730,gymbeam,gymbeam,1
+8586028777381,Kalhoty ARC Black - GymBeam černá S,125736,gymbeam,gymbeam,1
+8586028777398,Kalhoty ARC Black - GymBeam černá M,125739,gymbeam,gymbeam,1
+8586028777404,Kalhoty ARC Black - GymBeam černá L,125742,gymbeam,gymbeam,1
+8586028777411,Kalhoty ARC Black - GymBeam černá XL,125745,gymbeam,gymbeam,1
+8586028777428,Kalhoty ARC Black - GymBeam černá XXL,125748,gymbeam,gymbeam,1
 8586028777442,Kečup slazený stévií - GymBeam chilli,120214,gymbeam,gymbeam,1
 8586028777558,Mangové čatní - GymBeam,124201,gymbeam,gymbeam,1
 8586028777572,True Whey - GymBeam mango marakuja,123716,gymbeam,gymbeam,1
@@ -14414,6 +14416,8 @@
 8586028789766,Železo chelát - GymBeam - 180 kaps.,124381,gymbeam,gymbeam,1
 8586029301073,POS Stand III černá,123646,gymbeam,gymbeam,1
 8586029303275,Zázvorový shot s pomerančem a skořicí - GymBeam,125276,gymbeam,gymbeam,1
+8586029304227,Kešu krém s příchutí vaječného likéru - GymBeam,125231,gymbeam,gymbeam,1
+8586029304241,Mandlové máslo s příchutí marcipánu a hořké čokolády - GymBeam,125241,gymbeam,gymbeam,1
 8586029304821,Zázvorový shot s pomerančem a skořicí - GymBeam,125351,gymbeam,gymbeam,1
 8586029305323,Mystery Box - GymBeam,125398,gymbeam,gymbeam,1
 8588004346871,Maxx BCAA 330 ml mix berry,387000,dafit,dafit,1
@@ -15925,6 +15929,7 @@
 8594226410177,Accurate+ Pure Whey lemon cake 1000 g,401916,dafit,dafit,1
 8594226410184,Accurate+ Pure Whey banana 1000 g,401911,dafit,dafit,1
 8594226410191,Accurate+ Pure Whey apple cake 1000 g,401917,dafit,dafit,1
+8594226410207,Accurate+ Pure Whey chocolate bounty 1000 g,401909,dafit,dafit,1
 8594226410214,Accurate+ Pure Whey cookies with oreo 1000 g,403682,dafit,dafit,1
 8594226410221,Accurate+ Pure Whey caramel with lotus 1000 g,401903,dafit,dafit,1
 8594226410238,Accurate+ Pure Whey chocolate with kit kat 1000 g,401904,dafit,dafit,1
@@ -15967,7 +15972,6 @@
 8594226410665,Accurate+ Pure Whey caramel lotus 2000 g,407732,dafit,dafit,1
 8594226410689,Accurate+ Pure Whey blueberry 2000 g,407720,dafit,dafit,1
 8594226410696,Accurate+ Pure Whey forest fruit 2000 g,410865,dafit,dafit,1
-8594226410702,Accurate+ Pure Whey chocolate bounty 1000 g,401909,dafit,dafit,1
 8594226410719,Accurate+ Pure Whey chocolate bounty 500 g,397132,dafit,dafit,1
 8594226410726,Accurate+ Pure Whey chocolate bounty 2000 g,407733,dafit,dafit,1
 8594226410733,Accurate+ Pure Whey cinnamon rolls 1000 g,408062,dafit,dafit,1
