@@ -1079,17 +1079,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "194512660101",
-    "ean_raw": "194512660101",
-    "sku": "70372",
-    "name": "Batoh Hustle 5.0 Black - Under Armour černá",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "194513214648",
     "ean_raw": "194513214648",
     "sku": "80623",
@@ -2931,39 +2920,6 @@
     "ean_raw": "196883986767",
     "sku": "99763",
     "name": "Ponožky Performance Tech 3pk Crew White - Under Armour bílá XL",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "196883999859",
-    "ean_raw": "196883999859",
-    "sku": "99712",
-    "name": "Ponožky Performance Tech 3pk NS White - Under Armour bílá L",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "196883999866",
-    "ean_raw": "196883999866",
-    "sku": "99709",
-    "name": "Ponožky Performance Tech 3pk NS White - Under Armour bílá M",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "196883999873",
-    "ean_raw": "196883999873",
-    "sku": "99715",
-    "name": "Ponožky Performance Tech 3pk NS White - Under Armour bílá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -13311,17 +13267,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "4260477126337",
-    "ean_raw": "4260477126337",
-    "sku": "57106",
-    "name": "Trhačky Premium kožené černé - C.P. Sports černá",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "4260495460895",
     "ean_raw": "4260495460895",
     "sku": "56815",
@@ -13447,17 +13392,6 @@
     "ean_raw": "4260558431534",
     "sku": "43084",
     "name": "Neoprenová bandáž na loket - Climaqx černá S/M",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "4260558432418",
-    "ean_raw": "4260558432418",
-    "sku": "52036",
-    "name": "Posilovací guma Booty Band Black - Climaqx černá",
     "feeds": [
       "gymbeam"
     ],
@@ -16996,43 +16930,10 @@
   },
   {
     "feed": "dafit",
-    "ean": "5059883303277",
-    "ean_raw": "5059883303277",
-    "sku": "389044",
-    "name": "MyProtein Origin Pre-Workout Stim Free orange mango 600 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "5059883482286",
     "ean_raw": "5059883482286",
     "sku": "402663",
     "name": "MyProtein Origin Pre-Workout Stim Free 750 g sour lemonade",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "5059883483641",
-    "ean_raw": "5059883483641",
-    "sku": "402660",
-    "name": "MyProtein Origin Pre-Workout Stim Free 600 g strawberry",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "5059883485461",
-    "ean_raw": "5059883485461",
-    "sku": "402661",
-    "name": "MyProtein Origin Pre-Workout Stim Free 630 g cherry",
     "feeds": [
       "dafit"
     ],
@@ -44570,6 +44471,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586022210204",
+    "ean_raw": "8586022210204",
+    "sku": "36058",
+    "name": "Posilovací guma Cross Band Level 4 - GymBeam černá",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586022210211",
     "ean_raw": "8586022210211",
     "sku": "36073",
@@ -47697,7 +47609,7 @@
     "ean": "8586022213953",
     "ean_raw": "8586022213953",
     "sku": "53125",
-    "name": "BIO Greens Mix - VanaVita + dárky",
+    "name": "BIO Greens Mix - VanaVita",
     "feeds": [
       "gymbeam"
     ],
@@ -80716,17 +80628,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586025623681",
-    "ean_raw": "8586025623681",
-    "sku": "85888",
-    "name": "Celozrnný pšeničný bulgur - GymBeam",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586025623698",
     "ean_raw": "8586025623698",
     "sku": "87052",
@@ -81226,17 +81127,6 @@
     "ean_raw": "8586025624213",
     "sku": "86350",
     "name": "Závěsný systém Grip Sticks - GymBeam černá",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586025624220",
-    "ean_raw": "8586025624220",
-    "sku": "85996",
-    "name": "Celozrnný pšeničný bulgur - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -102969,61 +102859,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586026399776",
-    "ean_raw": "8586026399776",
-    "sku": "101278",
-    "name": "Šortky ZOA Black - STRIX černá S",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026399783",
-    "ean_raw": "8586026399783",
-    "sku": "101281",
-    "name": "Šortky ZOA Black - STRIX černá M",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026399790",
-    "ean_raw": "8586026399790",
-    "sku": "101284",
-    "name": "Šortky ZOA Black - STRIX černá L",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026399806",
-    "ean_raw": "8586026399806",
-    "sku": "101287",
-    "name": "Šortky ZOA Black - STRIX černá XL",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026399813",
-    "ean_raw": "8586026399813",
-    "sku": "101290",
-    "name": "Šortky ZOA Black - STRIX černá XXL",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586026399875",
     "ean_raw": "8586026399875",
     "sku": "101269",
@@ -105965,61 +105800,6 @@
     "ean_raw": "8586026897753",
     "sku": "103474",
     "name": "Sportovní šaty Breeze Dove - BeastPink modrá XL",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026897760",
-    "ean_raw": "8586026897760",
-    "sku": "103570",
-    "name": "Dámské kalhoty Breeze Black - BeastPink černá XS",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026897777",
-    "ean_raw": "8586026897777",
-    "sku": "103573",
-    "name": "Dámské kalhoty Breeze Black - BeastPink černá S",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026897784",
-    "ean_raw": "8586026897784",
-    "sku": "103576",
-    "name": "Dámské kalhoty Breeze Black - BeastPink černá M",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026897791",
-    "ean_raw": "8586026897791",
-    "sku": "103579",
-    "name": "Dámské kalhoty Breeze Black - BeastPink černá L",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586026897807",
-    "ean_raw": "8586026897807",
-    "sku": "103582",
-    "name": "Dámské kalhoty Breeze Black - BeastPink černá XL",
     "feeds": [
       "gymbeam"
     ],
@@ -116004,17 +115784,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586027399904",
-    "ean_raw": "8586027399904",
-    "sku": "106162",
-    "name": "Piniové oříšky - Gymbeam",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586027399911",
     "ean_raw": "8586027399911",
     "sku": "105907",
@@ -116173,17 +115942,6 @@
     "ean_raw": "8586027400167",
     "sku": "107518",
     "name": "Gumové frakční kotouče 51 mm - GymBeam",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586027400174",
-    "ean_raw": "8586027400174",
-    "sku": "107524",
-    "name": "Přídavný trn na kotouče - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -134312,17 +134070,6 @@
     "ean_raw": "8586028134030",
     "sku": "113491",
     "name": "Iontový nápoj ReHydrate ZERO - GymBeam citrón limetka",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586028134047",
-    "ean_raw": "8586028134047",
-    "sku": "113047",
-    "name": "Panko strouhanka - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -160774,28 +160521,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8588006751987",
-    "ean_raw": "8588006751987",
-    "sku": "28331",
-    "name": "Posilovací guma Cross Band Level 1 - GymBeam žlutá",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8588007130002",
-    "ean_raw": "8588007130002",
-    "sku": "28335",
-    "name": "Posilovací guma Cross Band Level 3 - GymBeam modrá",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8588007130026",
     "ean_raw": "8588007130026",
     "sku": "28337",
@@ -162427,7 +162152,7 @@
     "ean": "8588007570280",
     "ean_raw": "8588007570280",
     "sku": "30341",
-    "name": "BIO Greens Mix - VanaVita + dárky bez příchuti",
+    "name": "BIO Greens Mix - VanaVita bez příchuti",
     "feeds": [
       "gymbeam"
     ],
@@ -163330,17 +163055,6 @@
     "ean_raw": "8588007709789",
     "sku": "34240",
     "name": "Iron komplex - GymBeam bez příchuti 120 kaps.",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "85880093770166",
-    "ean_raw": "8588009377016-6",
-    "sku": "78310",
-    "name": "Vitamínová voda Matcha - Body & Future",
     "feeds": [
       "gymbeam"
     ],
@@ -178445,6 +178159,17 @@
   },
   {
     "feed": "dafit",
+    "ean": "8595612015013",
+    "ean_raw": "8595612015013",
+    "sku": "412119",
+    "name": "ATP Nutrition 100% Eggcellence Protein dubajská čokoláda 500 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "8595612015020",
     "ean_raw": "8595612015020",
     "sku": "411788",
@@ -178456,10 +178181,32 @@
   },
   {
     "feed": "dafit",
+    "ean": "8595612015037",
+    "ean_raw": "8595612015037",
+    "sku": "412118",
+    "name": "ATP Nutrition 100% Eggcellence Protein pistácie 500 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "8595612015044",
     "ean_raw": "8595612015044",
     "sku": "411796",
     "name": "ATP Nutrition 100% Eggcellence Protein kokos 500 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "8595612015051",
+    "ean_raw": "8595612015051",
+    "sku": "412120",
+    "name": "ATP Nutrition 100% Eggcellence Protein čokoláda 500 g",
     "feeds": [
       "dafit"
     ],
@@ -184356,39 +184103,6 @@
     "ean_raw": "8717472070982",
     "sku": "7993",
     "name": "Testo 4HD - Stacker2 bez příchuti 120 kaps.",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8717472071118",
-    "ean_raw": "8717472071118",
-    "sku": "43762",
-    "name": "100% Whey - Stacker2 vanilka",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8717472071125",
-    "ean_raw": "8717472071125",
-    "sku": "43759",
-    "name": "100% Whey - Stacker2 čokoláda",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8717472071132",
-    "ean_raw": "8717472071132",
-    "sku": "43765",
-    "name": "100% Whey - Stacker2 jahoda",
     "feeds": [
       "gymbeam"
     ],
