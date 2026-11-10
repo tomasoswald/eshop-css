@@ -14136,17 +14136,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "5033579001470",
-    "ean_raw": "5033579001470",
-    "sku": "351371",
-    "name": "Reflex Instant Mass Heavy Weight 5400 g blueberry",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "5033579001487",
     "ean_raw": "5033579001487",
     "sku": "351372",
@@ -32368,6 +32357,17 @@
     "ean_raw": "5999100042292",
     "sku": "409926",
     "name": "Scitec Nutrition 100% WP Professional strawberry 400 g",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "5999100042308",
+    "ean_raw": "5999100042308",
+    "sku": "412063",
+    "name": "Scitec Nutrition 100% WP Professional 400 g chocolate hazelnut",
     "feeds": [
       "dafit"
     ],
@@ -142616,7 +142616,7 @@
     "ean": "8586028595145",
     "ean_raw": "8586028595145",
     "sku": "122461",
-    "name": "Baking soda (Sodium bicarbonate) - GymBeam 120 kaps.",
+    "name": "Jedlá soda (hydrogenuhličitan sodný) - GymBeam 120 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -152099,6 +152099,17 @@
     "ean_raw": "8586028772423",
     "sku": "122194",
     "name": "Bezlepkové těstoviny - špagety - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028772430",
+    "ean_raw": "8586028772430",
+    "sku": "122302",
+    "name": "Vanilkový erythritol - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -175772,17 +175783,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "8595005802213",
-    "ean_raw": "8595005802213",
-    "sku": "78659",
-    "name": "Prom-In LCLT L-Carnitine 240 cps",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "8595005803487",
     "ean_raw": "8595005803487",
     "sku": "37330",
@@ -176758,7 +176758,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -177374,7 +177374,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -177770,7 +177770,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -178089,7 +178089,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 4
   },
   {
     "feed": "dafit",
@@ -180736,7 +180736,7 @@
     "ean": "8595697600456",
     "ean_raw": "8595697600456",
     "sku": "114530",
-    "name": "Extrifit Hellgel 80 g green apple",
+    "name": "Extrifit Hellgel 80 g apple",
     "feeds": [
       "dafit"
     ],

@@ -1284,7 +1284,6 @@
 5033579001388,Reflex Instant Mass Heavy Weight 5400 g strawberries & cream,49654,dafit,dafit,1
 5033579001395,Reflex Instant Mass Heavy Weight 5400 g choc-peanut butter,51236,dafit,dafit,1
 5033579001401,Reflex Instant Mass Heavy Weight 5400 g vanilla ice cream,49739,dafit,dafit,1
-5033579001470,Reflex Instant Mass Heavy Weight 5400 g blueberry,351371,dafit,dafit,1
 5033579001487,Reflex Instant Mass Heavy Weight 5400 g salted caramel,351372,dafit,dafit,1
 5033579001623,Reflex Plant Based Protein 600 g cacao caramel,330326,dafit,dafit,1
 5033579001630,Reflex Plant Based Protein 600 g vanilla bean,330325,dafit,dafit,1
@@ -2938,6 +2937,7 @@
 5999100042261,Scitec Nutrition 100% WP Professional pistachio white chocolate 780 g,409912,dafit,dafit,1
 5999100042278,Scitec Nutrition 100% WP Professional vanilla 400 g,409927,dafit,dafit,1
 5999100042292,Scitec Nutrition 100% WP Professional strawberry 400 g,409926,dafit,dafit,1
+5999100042308,Scitec Nutrition 100% WP Professional 400 g chocolate hazelnut,412063,dafit,dafit,1
 5999100042322,Scitec Nutrition 100% WP Professional 400 g chocolate coconut 400 g,409925,dafit,dafit,1
 5999100042339,Scitec Nutrition 100% WP Professional 400 g chocolate cookies cream 400 g,409932,dafit,dafit,1
 5999100042360,Scitec Nutrition 100% WP Professional kiwi banana 400 g,409922,dafit,dafit,1
@@ -12957,7 +12957,7 @@
 8586028595114,Fitness rukavice Light Black - GymBeam M,115102,gymbeam,gymbeam,1
 8586028595121,Fitness rukavice Light Black - GymBeam L,115105,gymbeam,gymbeam,1
 8586028595138,Fitness rukavice Light Black - GymBeam XL,115108,gymbeam,gymbeam,1
-8586028595145,Baking soda (Sodium bicarbonate) - GymBeam 120 kaps.,122461,gymbeam,gymbeam,1
+8586028595145,Jedlá soda (hydrogenuhličitan sodný) - GymBeam 120 kaps.,122461,gymbeam,gymbeam,1
 8586028595169,HMB - GymBeam 180 kaps.,115252,gymbeam,gymbeam,1
 8586028595176,Enzym xylanáza - GymBeam 60 kaps.,117706,gymbeam,gymbeam,1
 8586028595183,Amino Fizzy - GymBeam modrá malina,115714,gymbeam,gymbeam,1
@@ -13820,6 +13820,7 @@
 8586028772393,ProEAA - GymBeam vodní meloun,122983,gymbeam,gymbeam,1
 8586028772409,ProEAA - GymBeam mango marakuja,122974,gymbeam,gymbeam,1
 8586028772423,Bezlepkové těstoviny - špagety - GymBeam,122194,gymbeam,gymbeam,1
+8586028772430,Vanilkový erythritol - GymBeam,122302,gymbeam,gymbeam,1
 8586028772447,Sušená rajčata - GymBeam,118948,gymbeam,gymbeam,1
 8586028772454,Tričko Premium Heavyweight Varsity - GymBeam bílá S,120226,gymbeam,gymbeam,1
 8586028772461,Tričko Premium Heavyweight Varsity - GymBeam bílá M,120229,gymbeam,gymbeam,1
@@ -15971,7 +15972,6 @@
 8594226410832,Accurate+ Pure Whey dubai chocolate 2000 g,407736,dafit,dafit,1
 8594235180009,Goated Protein Drink cocoa 330 ml,404812,dafit,dafit,1
 8594235180016,Goated Protein Drink vanilla 330 ml,404811,dafit,dafit,1
-8595005802213,Prom-In LCLT L-Carnitine 240 cps,78659,dafit,dafit,1
 8595005803487,Prom-In Vitamín C Basic Line 60 tbl,37330,dafit,dafit,1
 8595042721416,CorbySport 5763 Pumpička na míče 30 cm,336359,dafit,dafit,2
 8595042726374,KUBIsport Péra posilovací - 5 pružin,386494,dafit,dafit,1
@@ -16060,7 +16060,7 @@
 8595612010667,ATP Vitality Multivitamin 90 tbl,347830,dafit,dafit,1
 8595612010674,ATP Vitality Multi Vitamin Forte 60 tbl,347828,dafit,dafit,1
 8595612010681,ATP Vitality Glucosamin Chondroitin 100 tob,347820,dafit,dafit,1
-8595612010698,ATP Vitality Gelatina Caps 100 tob,347825,dafit,dafit,1
+8595612010698,ATP Vitality Gelatina Caps 100 tob,347825,dafit,dafit,2
 8595612010742,ATP Vitality Vitamin C 600 mg 90 tob,347819,dafit,dafit,1
 8595612010780,ATP Vitality Vitamin D3 60 tob,347829,dafit,dafit,1
 8595612010797,ATP Vitality Multi Vitality 60 tbl,349604,dafit,dafit,1
@@ -16116,7 +16116,7 @@
 8595612013583,ATP Nutrition High Protein Milk Crispies 250 g,390041,dafit,dafit,1
 8595612013590,ATP Nutrition Milk Protein 85% Lactose Free 750 g,390040,dafit,dafit,1
 8595612013606,ATP Nutrition Skimmed Milk High Protein Low Fat 750 g Sušené odtučněné mléko,390037,dafit,dafit,1
-8595612013613,ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko,390039,dafit,dafit,1
+8595612013613,ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko,390039,dafit,dafit,2
 8595612013620,ATP Nutrition Creatine + EAA + Citicoline red blood orange 400 g,391339,dafit,dafit,1
 8595612013637,ATP Nutrition EAA 360 g passion fruit,391183,dafit,dafit,1
 8595612013644,ATP Nutrition EAA 360 g pomeranč mango,391184,dafit,dafit,1
@@ -16152,7 +16152,7 @@
 8595612013972,ATP Nutrition Hericium Lion´s Extract 180 tob,396167,dafit,dafit,1
 8595612013989,ATP Nutrition Volcano Phase II. 120 tob,396046,dafit,dafit,1
 8595612013996,ATP Nutrition Tribuherb 120 tob,396089,dafit,dafit,1
-8595612014009,ATP Vitality Ginger Extract + Vitamin C 90 tob,396163,dafit,dafit,1
+8595612014009,ATP Vitality Ginger Extract + Vitamin C 90 tob,396163,dafit,dafit,2
 8595612014016,ATP Vitality Berberine Forte 90 tob,396165,dafit,dafit,1
 8595612014023,ATP Vitality ALA 500 mg + B6 90 tob,396160,dafit,dafit,1
 8595612014030,ATP Vitality Beta Carotene Forte 90 tob,403268,dafit,dafit,1
@@ -16181,7 +16181,7 @@
 8595612014573,ATP Vitality Premium Rice Protein 1000 g pistácie,399858,dafit,dafit,1
 8595612014580,ATP Vitality Premium Rice Protein 1000 g cappuccino,399860,dafit,dafit,1
 8595612014610,ATP Vitality Cordyceps Prime 90 tob,402534,dafit,dafit,1
-8595612014627,ATP Vitality K2 MK-7 200µg 90 tob,402375,dafit,dafit,1
+8595612014627,ATP Vitality K2 MK-7 200µg 90 tob,402375,dafit,dafit,4
 8595612014634,ATP Vitality DigeZyme + BioPerine 90 tob,402535,dafit,dafit,1
 8595612014696,ATP Nutrition Clear Whey Isolate 90% 550 g pomelo marshmallow,401964,dafit,dafit,1
 8595612014702,ATP Nutrition Clear Whey Isolate 90% 550 g cherry lollipop,401961,dafit,dafit,1
@@ -16422,7 +16422,7 @@
 8595697600425,Extrifit Regel 80 g lemon orange,114333,dafit,dafit,1
 8595697600432,Extrifit Regel 80 g pineapple,116683,dafit,dafit,1
 8595697600449,Extrifit Hellgel 80 g orange,115917,dafit,dafit,1
-8595697600456,Extrifit Hellgel 80 g green apple,114530,dafit,dafit,1
+8595697600456,Extrifit Hellgel 80 g apple,114530,dafit,dafit,1
 8595697600463,Extrifit Express Energy Gel 80 g cherry,114781,dafit,dafit,1
 8595697600470,Extrifit Express Energy Gel 80 g lime,114334,dafit,dafit,1
 8595697600500,Extrifit Aminogel 80 g cherry,114335,dafit,dafit,1
