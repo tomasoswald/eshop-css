@@ -8008,17 +8008,6 @@
     "occurrences": 1
   },
   {
-    "feed": "dafit",
-    "ean": "4043001000057",
-    "ean_raw": "4043001000057",
-    "sku": "309323",
-    "name": "Power System Zátěže na zápěstí Wrist Weight Ergo 2 x 0,5 kg",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
     "feed": "gymbeam",
     "ean": "4044782115992",
     "ean_raw": "4044782115992",
@@ -9113,6 +9102,17 @@
     "ean_raw": "4251087100749",
     "sku": "405490",
     "name": "Legal Power Tepláky 6202-777 červená XXL",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "4251087101449",
+    "ean_raw": "4251087101449",
+    "sku": "50489",
+    "name": "Legal Power Tepláky 6202-405 bílá XXL",
     "feeds": [
       "dafit"
     ],
@@ -11764,17 +11764,6 @@
     "ean_raw": "4251087181984",
     "sku": "50490",
     "name": "Legal Power Tepláky 6202-405 bílá XL",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "4251087181991",
-    "ean_raw": "4251087181991",
-    "sku": "50489",
-    "name": "Legal Power Tepláky 6202-405 bílá XXL",
     "feeds": [
       "dafit"
     ],
@@ -24136,17 +24125,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "5999076215393",
-    "ean_raw": "5999076215393",
-    "sku": "365195",
-    "name": "BioTech BCAA 8:1:1 Zero 250 g cola",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "5999076215775",
     "ean_raw": "5999076215775",
     "sku": "24510",
@@ -26703,17 +26681,6 @@
     "ean_raw": "5999076253807",
     "sku": "376781",
     "name": "BioTech Black Blood NOX+ tropical fruit 20 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "5999076253821",
-    "ean_raw": "5999076253821",
-    "sku": "376783",
-    "name": "BioTech Black Blood NOX+ ruby berry 20 g",
     "feeds": [
       "dafit"
     ],
@@ -32367,7 +32334,7 @@
     "ean": "5999100042308",
     "ean_raw": "5999100042308",
     "sku": "412063",
-    "name": "Scitec Nutrition 100% WP Professional 400 g chocolate hazelnut",
+    "name": "Scitec Nutrition 100% WP Professional chocolate hazelnut 400 g",
     "feeds": [
       "dafit"
     ],
@@ -47049,17 +47016,6 @@
     "ean_raw": "8586022213298",
     "sku": "50962",
     "name": "Posilovací lano Battle Rope 12 m - GymBeam černá",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586022213304",
-    "ean_raw": "8586022213304",
-    "sku": "51073",
-    "name": "Taška na jídlo Fit Prep Black + 6 krabiček - GymBeam černá",
     "feeds": [
       "gymbeam"
     ],
@@ -152032,7 +151988,7 @@
     "ean": "8586028772348",
     "ean_raw": "8586028772348",
     "sku": "125176",
-    "name": "Men's Essentials 50+ - GymBeam -",
+    "name": "Men‘s Essentials 50+ - GymBeam -",
     "feeds": [
       "gymbeam"
     ],
@@ -176758,7 +176714,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -177374,7 +177330,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -177770,7 +177726,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -178089,7 +178045,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 4
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -183377,6 +183333,17 @@
     "ean_raw": "8595713104258",
     "sku": "52952",
     "name": "Power System Head har PS-4039",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "8595713104289",
+    "ean_raw": "8595713104289",
+    "sku": "309323",
+    "name": "Power System Zátěže na zápěstí Wrist Weight Ergo 2 x 0,5 kg",
     "feeds": [
       "dafit"
     ],

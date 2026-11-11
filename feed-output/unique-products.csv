@@ -727,7 +727,6 @@
 4033001200007,Power System Crossfit Jump Rope,228222,dafit,dafit,1
 4033001800009,Power System Crossfit Jump Rope,228224,dafit,dafit,1
 4038001100005,Power System AB SLINGS PS 4038,52951,dafit,dafit,1
-4043001000057,"Power System Zátěže na zápěstí Wrist Weight Ergo 2 x 0,5 kg",309323,dafit,dafit,1
 4044782115992,Maximum Krea-Genic Caps - Weider 200 kaps.,94282,gymbeam,gymbeam,1
 4044782117149,Ashwagandha Professional - Weider 120 kaps.,94354,gymbeam,gymbeam,1
 4044782117323,Clear Isolate - Weider broskev ledový čaj,122038,gymbeam,gymbeam,1
@@ -828,6 +827,7 @@
 4251087100725,Legal Power Tepláky 6202-777 červená L,405488,dafit,dafit,1
 4251087100732,Legal Power Tepláky 6202-777 červená XL,405489,dafit,dafit,1
 4251087100749,Legal Power Tepláky 6202-777 červená XXL,405490,dafit,dafit,1
+4251087101449,Legal Power Tepláky 6202-405 bílá XXL,50489,dafit,dafit,1
 4251087101517,Legal Power Tepláky 6202-405 žlutá M,50485,dafit,dafit,1
 4251087101524,Legal Power Tepláky 6202-405 žlutá L,50486,dafit,dafit,1
 4251087101531,Legal Power Tepláky 6202-405 žlutá XL,50487,dafit,dafit,1
@@ -1069,7 +1069,6 @@
 4251087181960,Legal Power Tepláky 6202-405 bílá M,50492,dafit,dafit,1
 4251087181977,Legal Power Tepláky 6202-405 bílá L,50491,dafit,dafit,1
 4251087181984,Legal Power Tepláky 6202-405 bílá XL,50490,dafit,dafit,1
-4251087181991,Legal Power Tepláky 6202-405 bílá XXL,50489,dafit,dafit,1
 4251087182028,Legal Power Tepláky 6202-405 černá M,50493,dafit,dafit,1
 4251087182035,Legal Power Tepláky 6202-405 černá L,50494,dafit,dafit,1
 4251087182042,Legal Power Tepláky 6202-405 černá XL,50495,dafit,dafit,1
@@ -2189,7 +2188,6 @@
 5999076209330,BioTech USA Tribooster 120 tablet,362010,dafit,dafit,1
 5999076212491,BioTech USA Beta Alanine 300 g,349657,dafit,dafit,1
 5999076214365,BioTech BCAA 8:1:1 Zero 250 g blue raspberry,365177,dafit,dafit,1
-5999076215393,BioTech BCAA 8:1:1 Zero 250 g cola,365195,dafit,dafit,1
 5999076215775,BioTech L-Carnitine 500 20 tbl lemon lime (šumivé),24510,dafit,dafit,1
 5999076215782,BioTech L-Carnitine 500 20 tbl blueberry raspberry (šumivé),49831,dafit,dafit,1
 5999076215850,BioTech Citrulline Malate 300 g unflavoured,363046,dafit,dafit,1
@@ -2423,7 +2421,6 @@
 5999076253760,BioTech Black Blood NOX+ 340 g tropical fruit,375181,dafit,dafit,1
 5999076253777,BioTech Black Blood NOX+ 340 g blueberry lime,375182,dafit,dafit,1
 5999076253807,BioTech Black Blood NOX+ tropical fruit 20 g,376781,dafit,dafit,1
-5999076253821,BioTech Black Blood NOX+ ruby berry 20 g,376783,dafit,dafit,1
 5999076254521,BioTech Iso Whey Zero 908 g dark chocolate,388792,dafit,dafit,1
 5999076254545,BioTech Iso Whey Zero 25 g dark chocolate,388794,dafit,dafit,1
 5999076254613,BioTech Clear Collagen Professional peach ice tea 350 g,366406,dafit,dafit,1
@@ -2937,7 +2934,7 @@
 5999100042261,Scitec Nutrition 100% WP Professional pistachio white chocolate 780 g,409912,dafit,dafit,1
 5999100042278,Scitec Nutrition 100% WP Professional vanilla 400 g,409927,dafit,dafit,1
 5999100042292,Scitec Nutrition 100% WP Professional strawberry 400 g,409926,dafit,dafit,1
-5999100042308,Scitec Nutrition 100% WP Professional 400 g chocolate hazelnut,412063,dafit,dafit,1
+5999100042308,Scitec Nutrition 100% WP Professional chocolate hazelnut 400 g,412063,dafit,dafit,1
 5999100042322,Scitec Nutrition 100% WP Professional 400 g chocolate coconut 400 g,409925,dafit,dafit,1
 5999100042339,Scitec Nutrition 100% WP Professional 400 g chocolate cookies cream 400 g,409932,dafit,dafit,1
 5999100042360,Scitec Nutrition 100% WP Professional kiwi banana 400 g,409922,dafit,dafit,1
@@ -4270,7 +4267,6 @@
 8586022213274,Posilovací guma Resistance Band Hard - GymBeam modrá,50956,gymbeam,gymbeam,1
 8586022213281,Hula Hoop obruč - GymBeam multicolor,51067,gymbeam,gymbeam,1
 8586022213298,Posilovací lano Battle Rope 12 m - GymBeam černá,50962,gymbeam,gymbeam,1
-8586022213304,Taška na jídlo Fit Prep Black + 6 krabiček - GymBeam černá,51073,gymbeam,gymbeam,1
 8586022213311,Bradla DIP II černá - GymBeam červená,51079,gymbeam,gymbeam,1
 8586022213328,Skládací podložka Tatami - GymBeam černá,51085,gymbeam,gymbeam,1
 8586022213335,Kettlebell černý - GymBeam černá,51181,gymbeam,gymbeam,1
@@ -13813,7 +13809,7 @@
 8586028772256,Kreatin monohydrát - GymBeam citrón limetka,124321,gymbeam,gymbeam,1
 8586028772263,Kreatin monohydrát - GymBeam zelené jablko,124311,gymbeam,gymbeam,1
 8586028772270,Kreatin monohydrát - GymBeam mango marakuja,124316,gymbeam,gymbeam,1
-8586028772348,Men's Essentials 50+ - GymBeam -,125176,gymbeam,gymbeam,1
+8586028772348,Men‘s Essentials 50+ - GymBeam -,125176,gymbeam,gymbeam,1
 8586028772362,ProEAA - GymBeam modrá malina,122968,gymbeam,gymbeam,1
 8586028772379,ProEAA - GymBeam citrón limetka,122971,gymbeam,gymbeam,1
 8586028772386,ProEAA - GymBeam pomeranč,122977,gymbeam,gymbeam,1
@@ -16060,7 +16056,7 @@
 8595612010667,ATP Vitality Multivitamin 90 tbl,347830,dafit,dafit,1
 8595612010674,ATP Vitality Multi Vitamin Forte 60 tbl,347828,dafit,dafit,1
 8595612010681,ATP Vitality Glucosamin Chondroitin 100 tob,347820,dafit,dafit,1
-8595612010698,ATP Vitality Gelatina Caps 100 tob,347825,dafit,dafit,2
+8595612010698,ATP Vitality Gelatina Caps 100 tob,347825,dafit,dafit,1
 8595612010742,ATP Vitality Vitamin C 600 mg 90 tob,347819,dafit,dafit,1
 8595612010780,ATP Vitality Vitamin D3 60 tob,347829,dafit,dafit,1
 8595612010797,ATP Vitality Multi Vitality 60 tbl,349604,dafit,dafit,1
@@ -16116,7 +16112,7 @@
 8595612013583,ATP Nutrition High Protein Milk Crispies 250 g,390041,dafit,dafit,1
 8595612013590,ATP Nutrition Milk Protein 85% Lactose Free 750 g,390040,dafit,dafit,1
 8595612013606,ATP Nutrition Skimmed Milk High Protein Low Fat 750 g Sušené odtučněné mléko,390037,dafit,dafit,1
-8595612013613,ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko,390039,dafit,dafit,2
+8595612013613,ATP Nutrition Skimmed Milk High Protein Low Fat 300 g Sušené odtučněné mléko,390039,dafit,dafit,1
 8595612013620,ATP Nutrition Creatine + EAA + Citicoline red blood orange 400 g,391339,dafit,dafit,1
 8595612013637,ATP Nutrition EAA 360 g passion fruit,391183,dafit,dafit,1
 8595612013644,ATP Nutrition EAA 360 g pomeranč mango,391184,dafit,dafit,1
@@ -16152,7 +16148,7 @@
 8595612013972,ATP Nutrition Hericium Lion´s Extract 180 tob,396167,dafit,dafit,1
 8595612013989,ATP Nutrition Volcano Phase II. 120 tob,396046,dafit,dafit,1
 8595612013996,ATP Nutrition Tribuherb 120 tob,396089,dafit,dafit,1
-8595612014009,ATP Vitality Ginger Extract + Vitamin C 90 tob,396163,dafit,dafit,2
+8595612014009,ATP Vitality Ginger Extract + Vitamin C 90 tob,396163,dafit,dafit,1
 8595612014016,ATP Vitality Berberine Forte 90 tob,396165,dafit,dafit,1
 8595612014023,ATP Vitality ALA 500 mg + B6 90 tob,396160,dafit,dafit,1
 8595612014030,ATP Vitality Beta Carotene Forte 90 tob,403268,dafit,dafit,1
@@ -16181,7 +16177,7 @@
 8595612014573,ATP Vitality Premium Rice Protein 1000 g pistácie,399858,dafit,dafit,1
 8595612014580,ATP Vitality Premium Rice Protein 1000 g cappuccino,399860,dafit,dafit,1
 8595612014610,ATP Vitality Cordyceps Prime 90 tob,402534,dafit,dafit,1
-8595612014627,ATP Vitality K2 MK-7 200µg 90 tob,402375,dafit,dafit,4
+8595612014627,ATP Vitality K2 MK-7 200µg 90 tob,402375,dafit,dafit,1
 8595612014634,ATP Vitality DigeZyme + BioPerine 90 tob,402535,dafit,dafit,1
 8595612014696,ATP Nutrition Clear Whey Isolate 90% 550 g pomelo marshmallow,401964,dafit,dafit,1
 8595612014702,ATP Nutrition Clear Whey Isolate 90% 550 g cherry lollipop,401961,dafit,dafit,1
@@ -16663,6 +16659,7 @@
 8595713104135,Power System Crossfit Jump Rope,228223,dafit,dafit,1
 8595713104234,POWER SYSTEM DIA 10 BARBELL PAD,52948,dafit,dafit,1
 8595713104258,Power System Head har PS-4039,52952,dafit,dafit,1
+8595713104289,"Power System Zátěže na zápěstí Wrist Weight Ergo 2 x 0,5 kg",309323,dafit,dafit,1
 8595713104296,Power System Zátěže na zápěstí Wrist Weight Ergo 2 x 1 kg,309324,dafit,dafit,1
 8595713104302,"POWER SYSTEM Neoprenové zátěže na kotníky ANKLE WEIGHTS 2 x 0,5 kg",309328,dafit,dafit,1
 8595713104319,POWER SYSTEM Neoprenové zátěže na kotníky ANKLE WEIGHTS 2 x 1 kg,309329,dafit,dafit,1
