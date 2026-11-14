@@ -21836,6 +21836,13 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "366965",
     "name": "Dafit Šejkr NO PAIN NO GAIN bílá/černá 700 ml"
   },
@@ -31195,6 +31202,13 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "388499",
     "name": "Extrifit Exxe Iso Protein Bar 31% 65 g"
   },
@@ -32212,6 +32226,13 @@
     "ean_raw": "",
     "sku": "390297",
     "name": "ATP Nutrition 100% Instant Whey 80 CFM 2000 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
   },
   {
     "feed": "dafit",
@@ -39217,8 +39238,36 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "406044",
     "name": "BioTech 100% Pure Whey coconut chocolate 900 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
   },
   {
     "feed": "dafit",
@@ -40297,6 +40346,13 @@
     "ean_raw": "",
     "sku": "408418",
     "name": "Scitec Nutrition 100% WP Professional 780 g"
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "",
+    "name": ""
   },
   {
     "feed": "dafit",
@@ -41611,6 +41667,13 @@
     "feed": "dafit",
     "ean": "",
     "ean_raw": "",
+    "sku": "",
+    "name": ""
+  },
+  {
+    "feed": "dafit",
+    "ean": "",
+    "ean_raw": "",
     "sku": "410683",
     "name": "Scitec Nutrition 100% WP Professional 400 g"
   },
@@ -42424,7 +42487,7 @@
     "ean": "",
     "ean_raw": "",
     "sku": "412283",
-    "name": "Složeno: Elektrické míchatko"
+    "name": "Složeno: Elektrické míchátko - USB"
   },
   {
     "feed": "dafit",
@@ -43255,13 +43318,6 @@
   {
     "feed": "gymbeam",
     "ean": "",
-    "ean_raw": "5025324007837-12",
-    "sku": "68965",
-    "name": "Go Energy Bake - Věda ve sportu citrón"
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "",
     "ean_raw": "7340001806236-12",
     "sku": "75367",
     "name": "Proteinová tyčinka - Barebells slaný arašídový karamel"
@@ -43664,5 +43720,54 @@
     "ean_raw": "",
     "sku": "125832",
     "name": "Sleepmaxxing - GymBeam"
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "125784",
+    "name": "Protein Bake Club - GymBeam"
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "125793",
+    "name": "Christmas maxxing Tasting Box - GymBeam"
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "125796",
+    "name": "Matcha Clean Girl - GymBeam"
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "125799",
+    "name": "Softmaxxing Box - GymBeam"
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "125817",
+    "name": "Immune Era - GymBeam"
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "125826",
+    "name": "Longevity Mode - GymBeam"
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "",
+    "ean_raw": "",
+    "sku": "125874",
+    "name": "Looksmaxxing Stack - GymBeam"
   }
 ]
