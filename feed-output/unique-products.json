@@ -122527,6 +122527,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028769904",
+    "ean_raw": "8586028769904",
+    "sku": "124461",
+    "name": "Rhodiola rosea + Ashwagandha - GymBeam 60 kaps.",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028769928",
     "ean_raw": "8586028769928",
     "sku": "122125",
@@ -125952,6 +125963,17 @@
     "ean_raw": "8586028775059",
     "sku": "122170",
     "name": "Kšiltovka Flexfit Cap Cream - GymBeam cream UNI",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028775080",
+    "ean_raw": "8586028775080",
+    "sku": "125454",
+    "name": "BIO Ashwagandha KSM-66® - GymBeam 90 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -148972,7 +148994,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -149588,7 +149610,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -149984,7 +150006,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -150303,7 +150325,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 4
+    "occurrences": 1
   },
   {
     "feed": "dafit",
