@@ -122549,6 +122549,17 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028769966",
+    "ean_raw": "8586028769966",
+    "sku": "123031",
+    "name": "D-biotin (vitamín B7) - GymBeam 90 kaps.",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028769973",
     "ean_raw": "8586028769973",
     "sku": "123034",
@@ -130869,6 +130880,28 @@
     "ean_raw": "8586028789766",
     "sku": "124381",
     "name": "Železo chelát - GymBeam - 180 kaps.",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586029300991",
+    "ean_raw": "8586029300991",
+    "sku": "124521",
+    "name": "Tekutý lipozomální vitamín C - GymBeam",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586029301004",
+    "ean_raw": "8586029301004",
+    "sku": "124531",
+    "name": "Tekutý lipozomální multivitamín - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -148994,7 +149027,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -149610,7 +149643,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -150006,7 +150039,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -150325,7 +150358,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 4
   },
   {
     "feed": "dafit",
