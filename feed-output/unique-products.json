@@ -100277,7 +100277,7 @@
     "ean": "8586028123775",
     "ean_raw": "8586028123775",
     "sku": "110899",
-    "name": "HMB - GymBeam",
+    "name": "HMB - GymBeam bez příchuti",
     "feeds": [
       "gymbeam"
     ],
@@ -114687,7 +114687,7 @@
     "ean": "8586028594230",
     "ean_raw": "8586028594230",
     "sku": "117127",
-    "name": "Synefrin Advantra Z® - GymBeam 60 kaps.",
+    "name": "Synefrín Advantra Z® - GymBeam 60 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -120756,6 +120756,28 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028767689",
+    "ean_raw": "8586028767689",
+    "sku": "120766",
+    "name": "Homocysteine Complex - GymBeam 90 kaps.",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028767740",
+    "ean_raw": "8586028767740",
+    "sku": "124256",
+    "name": "BCAA 4:1:1 - GymBeam zelené jablko",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028767764",
     "ean_raw": "8586028767764",
     "sku": "120715",
@@ -120836,7 +120858,7 @@
     "ean": "8586028767894",
     "ean_raw": "8586028767894",
     "sku": "121315",
-    "name": "Panax ginseng + Rhodiola rosea - GymBeam 90 kaps.",
+    "name": "Ženšen pravý + Rhodiola rosea - GymBeam 90 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -129790,7 +129812,7 @@
     "ean": "8586028780770",
     "ean_raw": "8586028780770",
     "sku": "123741",
-    "name": "Bio Tomato passata - GymBeam",
+    "name": "BIO Pasírovaná rajčata - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -130098,7 +130120,7 @@
     "ean": "8586028782613",
     "ean_raw": "8586028782613",
     "sku": "121909",
-    "name": "Nootropický herní komplex LOCK IN x Fnatic - GymBeam mango marakuja",
+    "name": "Nootropický herní nápoj LOCK IN x Fnatic - GymBeam mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -148844,28 +148866,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "8595231221444",
-    "ean_raw": "8595231221444",
-    "sku": "398738",
-    "name": "Prager's Soda 330 ml mango peach",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "8595231221468",
-    "ean_raw": "8595231221468",
-    "sku": "398736",
-    "name": "Prager's Soda yuzu lime 330 ml",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "8595612010056",
     "ean_raw": "8595612010056",
     "sku": "352470",
@@ -149027,7 +149027,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -149643,7 +149643,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -150039,7 +150039,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -150358,7 +150358,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 4
+    "occurrences": 1
   },
   {
     "feed": "dafit",
