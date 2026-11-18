@@ -130931,17 +130931,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586029301073",
-    "ean_raw": "8586029301073",
-    "sku": "123646",
-    "name": "POS Stand III černá",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586029303275",
     "ean_raw": "8586029303275",
     "sku": "125276",
@@ -130990,17 +130979,6 @@
     "ean_raw": "8586029304241",
     "sku": "125241",
     "name": "Mandlové máslo s příchutí marcipánu a hořké čokolády - GymBeam",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586029304821",
-    "ean_raw": "8586029304821",
-    "sku": "125351",
-    "name": "Zázvorový shot s pomerančem a skořicí - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -149027,7 +149005,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -149537,6 +149515,17 @@
   },
   {
     "feed": "dafit",
+    "ean": "8595612013507",
+    "ean_raw": "8595612013507",
+    "sku": "396047",
+    "name": "ATP Nutrition Volcano Phase III. 90 tob",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
     "ean": "8595612013521",
     "ean_raw": "8595612013521",
     "sku": "390212",
@@ -149643,7 +149632,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -150039,7 +150028,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -150358,7 +150347,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 1
+    "occurrences": 4
   },
   {
     "feed": "dafit",
