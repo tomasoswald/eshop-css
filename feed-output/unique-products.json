@@ -17252,17 +17252,6 @@
     "occurrences": 1
   },
   {
-    "feed": "gymbeam",
-    "ean": "50605947786989",
-    "ean_raw": "5060594778698-9",
-    "sku": "84121",
-    "name": "Ridiculous Vegan Protein Bar - The Protein Works čokoláda karamel",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
     "feed": "dafit",
     "ean": "5060746509217",
     "ean_raw": "5060746509217",
@@ -20609,17 +20598,6 @@
     "ean_raw": "5907368852171",
     "sku": "43195",
     "name": "EAA Xtra - ActivLab pomeranč",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "5907368853697",
-    "ean_raw": "5907368853697",
-    "sku": "43363",
-    "name": "De Luxe Beet Shot - ActivLab",
     "feeds": [
       "gymbeam"
     ],
@@ -40778,7 +40756,7 @@
     "ean": "8586022210501",
     "ean_raw": "8586022210501",
     "sku": "36631",
-    "name": "Vitality Complex Drink - GymBeam mango marakuja",
+    "name": "Multivitamín Vitality Complex Drink - GymBeam mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -42351,7 +42329,7 @@
     "ean": "8586022212321",
     "ean_raw": "8586022212321",
     "sku": "49366",
-    "name": "FueSix - GymBeam vanilka",
+    "name": "Protein FueSix - GymBeam vanilka",
     "feeds": [
       "gymbeam"
     ],
@@ -42362,7 +42340,7 @@
     "ean": "8586022212338",
     "ean_raw": "8586022212338",
     "sku": "49363",
-    "name": "FueSix - GymBeam jahoda",
+    "name": "Protein FueSix - GymBeam jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -42373,7 +42351,7 @@
     "ean": "8586022212345",
     "ean_raw": "8586022212345",
     "sku": "49360",
-    "name": "FueSix - GymBeam čokoláda",
+    "name": "Protein FueSix - GymBeam čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -42384,7 +42362,7 @@
     "ean": "8586022212352",
     "ean_raw": "8586022212352",
     "sku": "51682",
-    "name": "Essentials VitaPack - GymBeam",
+    "name": "Multivitamín Essentials VitaPack - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -43396,7 +43374,7 @@
     "ean": "8586022213694",
     "ean_raw": "8586022213694",
     "sku": "52216",
-    "name": "Vitality Complex Drink - GymBeam zelené jablko",
+    "name": "Multivitamín Vitality Complex Drink - GymBeam zelené jablko",
     "feeds": [
       "gymbeam"
     ],
@@ -43451,7 +43429,7 @@
     "ean": "8586022213786",
     "ean_raw": "8586022213786",
     "sku": "53371",
-    "name": "Vitality komplex - GymBeam",
+    "name": "Multivitamín Vitality Complex - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -43693,7 +43671,7 @@
     "ean": "8586022214103",
     "ean_raw": "8586022214103",
     "sku": "53158",
-    "name": "Vitality Complex Drink - GymBeam zelené jablko",
+    "name": "Multivitamín Vitality Complex Drink - GymBeam zelené jablko",
     "feeds": [
       "gymbeam"
     ],
@@ -43704,7 +43682,7 @@
     "ean": "8586022214110",
     "ean_raw": "8586022214110",
     "sku": "53161",
-    "name": "Vitality Complex Drink - GymBeam mango marakuja",
+    "name": "Multivitamín Vitality Complex Drink - GymBeam mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -44419,7 +44397,7 @@
     "ean": "8586022215018",
     "ean_raw": "8586022215018",
     "sku": "57688",
-    "name": "Yum Yum Whey - BeastPink strawberry splash",
+    "name": "Protein Yum Yum Whey - BeastPink strawberry splash",
     "feeds": [
       "gymbeam"
     ],
@@ -44496,7 +44474,7 @@
     "ean": "8586022215377",
     "ean_raw": "8586022215377",
     "sku": "58327",
-    "name": "Men‘s Essentials - GymBeam",
+    "name": "Multivitamín pro muže - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -45519,7 +45497,7 @@
     "ean": "8586022216831",
     "ean_raw": "8586022216831",
     "sku": "62851",
-    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -45530,7 +45508,7 @@
     "ean": "8586022216848",
     "ean_raw": "8586022216848",
     "sku": "62848",
-    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -45541,7 +45519,7 @@
     "ean": "8586022216855",
     "ean_raw": "8586022216855",
     "sku": "62854",
-    "name": "Yum Yum Whey - BeastPink strawberry splash",
+    "name": "Protein Yum Yum Whey - BeastPink strawberry splash",
     "feeds": [
       "gymbeam"
     ],
@@ -45816,7 +45794,7 @@
     "ean": "8586022217142",
     "ean_raw": "8586022217142",
     "sku": "63712",
-    "name": "FueSix - GymBeam cookies & cream",
+    "name": "Protein FueSix - GymBeam cookies & cream",
     "feeds": [
       "gymbeam"
     ],
@@ -47170,6 +47148,17 @@
     "ean_raw": "8586022218897",
     "sku": "67330",
     "name": "Švihadlo s závažím Onyx - GymBeam černá",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586022218910",
+    "ean_raw": "8586022218910",
+    "sku": "67669",
+    "name": "L-karnitin 3000 Liquid Shot - GymBeam černý rybíz",
     "feeds": [
       "gymbeam"
     ],
@@ -58078,17 +58067,6 @@
   },
   {
     "feed": "gymbeam",
-    "ean": "8586025608763",
-    "ean_raw": "8586025608763",
-    "sku": "86182",
-    "name": "Magnéziový shot - GymBeam pomeranč",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
     "ean": "8586025608770",
     "ean_raw": "8586025608770",
     "sku": "86191",
@@ -58104,17 +58082,6 @@
     "ean_raw": "8586025608787",
     "sku": "86188",
     "name": "Magnéziový shot - GymBeam pomeranč",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "8586025608800",
-    "ean_raw": "8586025608800",
-    "sku": "86200",
-    "name": "Magnéziový shot - GymBeam citron",
     "feeds": [
       "gymbeam"
     ],
@@ -69763,7 +69730,7 @@
     "ean": "8586025951081",
     "ean_raw": "8586025951081",
     "sku": "87547",
-    "name": "Men‘s Essentials - GymBeam",
+    "name": "Multivitamín pro muže - GymBeam",
     "feeds": [
       "gymbeam"
     ],
@@ -71160,7 +71127,7 @@
     "ean": "8586025953221",
     "ean_raw": "8586025953221",
     "sku": "91735",
-    "name": "Yum Yum Whey - BeastPink karamelová sušenka",
+    "name": "Protein Yum Yum Whey - BeastPink karamelová sušenka",
     "feeds": [
       "gymbeam"
     ],
@@ -77287,7 +77254,7 @@
     "ean": "8586026393682",
     "ean_raw": "8586026393682",
     "sku": "96865",
-    "name": "Yum Yum Whey - BeastPink karamelová sušenka",
+    "name": "Protein Yum Yum Whey - BeastPink karamelová sušenka",
     "feeds": [
       "gymbeam"
     ],
@@ -79465,7 +79432,7 @@
     "ean": "8586026895322",
     "ean_raw": "8586026895322",
     "sku": "29090",
-    "name": "Vita Pink - BeastPink 120 kaps.",
+    "name": "Multivitamín Vita Pink - BeastPink 120 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -85768,7 +85735,7 @@
     "ean": "8586027396040",
     "ean_raw": "8586027396040",
     "sku": "104926",
-    "name": "Extrakt z kořene čekanky - GymBeam 90 kaps.",
+    "name": "Extrakt z koreňa čakanky - GymBeam 90 kaps.",
     "feeds": [
       "gymbeam"
     ],
@@ -96460,7 +96427,7 @@
     "ean": "8586027409443",
     "ean_raw": "8586027409443",
     "sku": "110254",
-    "name": "FueSix - GymBeam čokoláda",
+    "name": "Protein FueSix - GymBeam čokoláda",
     "feeds": [
       "gymbeam"
     ],
@@ -96471,7 +96438,7 @@
     "ean": "8586027409450",
     "ean_raw": "8586027409450",
     "sku": "110263",
-    "name": "FueSix - GymBeam vanilka",
+    "name": "Protein FueSix - GymBeam vanilka",
     "feeds": [
       "gymbeam"
     ],
@@ -96482,7 +96449,7 @@
     "ean": "8586027409467",
     "ean_raw": "8586027409467",
     "sku": "110260",
-    "name": "FueSix - GymBeam jahoda",
+    "name": "Protein FueSix - GymBeam jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -96493,7 +96460,7 @@
     "ean": "8586027409474",
     "ean_raw": "8586027409474",
     "sku": "110257",
-    "name": "FueSix - GymBeam cookies & cream",
+    "name": "Protein FueSix - GymBeam cookies & cream",
     "feeds": [
       "gymbeam"
     ],
@@ -124224,7 +124191,7 @@
     "ean": "8586028771969",
     "ean_raw": "8586028771969",
     "sku": "122026",
-    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -124235,7 +124202,7 @@
     "ean": "8586028771976",
     "ean_raw": "8586028771976",
     "sku": "122023",
-    "name": "Yum Yum Whey - BeastPink čokoláda lískový oříšek",
+    "name": "Protein Yum Yum Whey - BeastPink čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -124246,7 +124213,7 @@
     "ean": "8586028771983",
     "ean_raw": "8586028771983",
     "sku": "122020",
-    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -124257,7 +124224,7 @@
     "ean": "8586028771990",
     "ean_raw": "8586028771990",
     "sku": "122014",
-    "name": "Yum Yum Whey - BeastPink jahoda",
+    "name": "Protein Yum Yum Whey - BeastPink jahoda",
     "feeds": [
       "gymbeam"
     ],
@@ -124356,7 +124323,7 @@
     "ean": "8586028772256",
     "ean_raw": "8586028772256",
     "sku": "124321",
-    "name": "Kreatin monohydrát - GymBeam citrón limetka",
+    "name": "100 % Kreatin monohydrát - GymBeam citrón limetka",
     "feeds": [
       "gymbeam"
     ],
@@ -124367,7 +124334,7 @@
     "ean": "8586028772263",
     "ean_raw": "8586028772263",
     "sku": "124311",
-    "name": "Kreatin monohydrát - GymBeam zelené jablko",
+    "name": "100 % Kreatin monohydrát - GymBeam zelené jablko",
     "feeds": [
       "gymbeam"
     ],
@@ -124378,7 +124345,7 @@
     "ean": "8586028772270",
     "ean_raw": "8586028772270",
     "sku": "124316",
-    "name": "Kreatin monohydrát - GymBeam mango marakuja",
+    "name": "100 % Kreatin monohydrát - GymBeam mango marakuja",
     "feeds": [
       "gymbeam"
     ],
@@ -124389,7 +124356,7 @@
     "ean": "8586028772348",
     "ean_raw": "8586028772348",
     "sku": "125176",
-    "name": "Men‘s Essentials 50+ - GymBeam -",
+    "name": "Multivitamín pro muže 50+ - GymBeam -",
     "feeds": [
       "gymbeam"
     ],
@@ -131495,7 +131462,7 @@
     "ean": "8588006139860",
     "ean_raw": "8588006139860",
     "sku": "6323",
-    "name": "Vitality komplex - GymBeam bez příchuti",
+    "name": "Multivitamín Vitality Complex - GymBeam bez příchuti",
     "feeds": [
       "gymbeam"
     ],
@@ -132012,7 +131979,7 @@
     "ean": "8588006485660",
     "ean_raw": "8588006485660",
     "sku": "6324",
-    "name": "Vitality komplex - GymBeam bez příchuti",
+    "name": "Multivitamín Vitality Complex - GymBeam bez příchuti",
     "feeds": [
       "gymbeam"
     ],
@@ -133893,7 +133860,7 @@
     "ean": "8588007275116",
     "ean_raw": "8588007275116",
     "sku": "28938",
-    "name": "Yum Yum Whey - BeastPink bílá čokoláda kokos",
+    "name": "Protein Yum Yum Whey - BeastPink bílá čokoláda kokos",
     "feeds": [
       "gymbeam"
     ],
@@ -133904,7 +133871,7 @@
     "ean": "8588007275123",
     "ean_raw": "8588007275123",
     "sku": "28937",
-    "name": "Yum Yum Whey - BeastPink čokoláda lískový oříšek",
+    "name": "Protein Yum Yum Whey - BeastPink čokoláda lískový oříšek",
     "feeds": [
       "gymbeam"
     ],
@@ -133915,7 +133882,7 @@
     "ean": "8588007275130",
     "ean_raw": "8588007275130",
     "sku": "28939",
-    "name": "Yum Yum Whey - BeastPink vanilková zmrzlina",
+    "name": "Protein Yum Yum Whey - BeastPink vanilková zmrzlina",
     "feeds": [
       "gymbeam"
     ],
@@ -135577,17 +135544,6 @@
     "ean_raw": "8588007709789",
     "sku": "34240",
     "name": "Iron komplex - GymBeam bez příchuti 120 kaps.",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "85880093770166",
-    "ean_raw": "8588009377016-6",
-    "sku": "78310",
-    "name": "Vitamínová voda Matcha - Body & Future",
     "feeds": [
       "gymbeam"
     ],
@@ -146567,17 +146523,6 @@
   },
   {
     "feed": "dafit",
-    "ean": "8594193035007",
-    "ean_raw": "8594193035007",
-    "sku": "400547",
-    "name": "Big Boy Zamilovaná Pistácie 220 g",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
     "ean": "8594193035359",
     "ean_raw": "8594193035359",
     "sku": "352910",
@@ -146637,17 +146582,6 @@
     "ean_raw": "8594193035458",
     "sku": "402357",
     "name": "Big Boy Grand Zero 220 g arašídy s mléčnou čokoládou",
-    "feeds": [
-      "dafit"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "dafit",
-    "ean": "8594193035465",
-    "ean_raw": "8594193035465",
-    "sku": "402358",
-    "name": "Big Boy Grand Zero 220 g arašídy s hořkou čokoládou",
     "feeds": [
       "dafit"
     ],
@@ -149156,6 +149090,17 @@
     "ean_raw": "8595612011923",
     "sku": "360710",
     "name": "ATP Vitality Premium Rice Protein 1000 g čokoláda nugát",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "dafit",
+    "ean": "8595612011930",
+    "ean_raw": "8595612011930",
+    "sku": "360729",
+    "name": "ATP Vitality Premium Rice Protein 1000 g slaný karamel",
     "feeds": [
       "dafit"
     ],
@@ -156779,17 +156724,6 @@
     "ean_raw": "9004145007598-6",
     "sku": "74245",
     "name": "BIO Koření na rýži mistra Wonga 40 g - Sonnentor",
-    "feeds": [
-      "gymbeam"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "gymbeam",
-    "ean": "90041450083286",
-    "ean_raw": "9004145008328-6",
-    "sku": "70489",
-    "name": "BIO Kurkuma Latte vanilka - Sonnentor",
     "feeds": [
       "gymbeam"
     ],
