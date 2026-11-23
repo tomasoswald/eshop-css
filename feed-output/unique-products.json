@@ -810,17 +810,6 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "0800265966260",
-    "ean_raw": "0800265966260",
-    "sku": "2625",
-    "name": "Smartlabs Triade BCAA 300g - pomeranč",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "0800265966277",
     "ean_raw": "0800265966277",
     "sku": "2626",
@@ -24993,16 +24982,15 @@
     "occurrences": 1
   },
   {
-    "feed": "dafit",
+    "feed": "kulturistika",
     "ean": "5056357916469",
     "ean_raw": "5056357916469",
-    "sku": "399025",
-    "name": "Snickers HiProtein Low Sugar 55 g crisp",
+    "sku": "29225",
+    "name": "Mars Snickers Low Sugar High Protein Bar 55g - crispy",
     "feeds": [
-      "dafit",
       "kulturistika"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -25015,6 +25003,17 @@
       "kulturistika"
     ],
     "occurrences": 2
+  },
+  {
+    "feed": "dafit",
+    "ean": "5056357917916",
+    "ean_raw": "5056357917916",
+    "sku": "399025",
+    "name": "Snickers HiProtein Low Sugar 55 g crisp",
+    "feeds": [
+      "dafit"
+    ],
+    "occurrences": 1
   },
   {
     "feed": "kulturistika",
@@ -81531,6 +81530,17 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "800265966260",
+    "ean_raw": "800265966260",
+    "sku": "2625",
+    "name": "Smartlabs Triade BCAA 300g - pomeranč",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "800265966307",
     "ean_raw": "800265966307",
     "sku": "27945",
@@ -98134,7 +98144,7 @@
     "ean": "8586022214998",
     "ean_raw": "8586022214998",
     "sku": "57457",
-    "name": "Colla Pink - BeastPink lesní ovoce",
+    "name": "Colla Pink - BeastPink + dárek lesní ovoce",
     "feeds": [
       "gymbeam"
     ],
@@ -98145,7 +98155,7 @@
     "ean": "8586022215001",
     "ean_raw": "8586022215001",
     "sku": "57454",
-    "name": "Colla Pink - BeastPink hrozny",
+    "name": "Colla Pink - BeastPink + dárek hrozny",
     "feeds": [
       "gymbeam"
     ],
@@ -125425,7 +125435,7 @@
     "ean": "8586025955850",
     "ean_raw": "8586025955850",
     "sku": "90922",
-    "name": "Colla Pink - BeastPink malina",
+    "name": "Colla Pink - BeastPink + dárek malina",
     "feeds": [
       "gymbeam"
     ],
@@ -182820,6 +182830,61 @@
   },
   {
     "feed": "gymbeam",
+    "ean": "8586028769799",
+    "ean_raw": "8586028769799",
+    "sku": "122269",
+    "name": "Fitness opasek Lever OG1 - GymBeam černá S",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028769805",
+    "ean_raw": "8586028769805",
+    "sku": "122272",
+    "name": "Fitness opasek Lever OG1 - GymBeam černá M",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028769812",
+    "ean_raw": "8586028769812",
+    "sku": "122275",
+    "name": "Fitness opasek Lever OG1 - GymBeam černá L",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028769829",
+    "ean_raw": "8586028769829",
+    "sku": "122278",
+    "name": "Fitness opasek Lever OG1 - GymBeam černá XL",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
+    "ean": "8586028769836",
+    "ean_raw": "8586028769836",
+    "sku": "122281",
+    "name": "Fitness opasek Lever OG1 - GymBeam černá XXL",
+    "feeds": [
+      "gymbeam"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "gymbeam",
     "ean": "8586028769904",
     "ean_raw": "8586028769904",
     "sku": "124461",
@@ -196551,7 +196616,7 @@
     "ean": "8588007275734",
     "ean_raw": "8588007275734",
     "sku": "29716",
-    "name": "Colla Pink - BeastPink jahodová limonáda",
+    "name": "Colla Pink - BeastPink + dárek jahodová limonáda",
     "feeds": [
       "gymbeam"
     ],
@@ -196562,7 +196627,7 @@
     "ean": "8588007275741",
     "ean_raw": "8588007275741",
     "sku": "29717",
-    "name": "Colla Pink - BeastPink mango pomeranč",
+    "name": "Colla Pink - BeastPink + dárek mango pomeranč",
     "feeds": [
       "gymbeam"
     ],
@@ -228238,6 +228303,17 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "8594188135408",
+    "ean_raw": "8594188135408",
+    "sku": "58729",
+    "name": "Šufan Nekonečná pohoda - 330g",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "8594188135552",
     "ean_raw": "8594188135552",
     "sku": "29391",
@@ -231112,10 +231188,9 @@
     "sku": "401944",
     "name": "Big Boy Velikonoční Beránek 200 g",
     "feeds": [
-      "dafit",
-      "kulturistika"
+      "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "kulturistika",
@@ -231506,32 +231581,10 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "8594193920068",
-    "ean_raw": "8594193920068",
-    "sku": "10528",
-    "name": "GreenFood Dětská kukuřičná kaše bez lepku a laktózy - 500g",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "8594193920075",
     "ean_raw": "8594193920075",
     "sku": "10520",
     "name": "GreenFood Ovesné vločky bezlepkové - 650g",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594193920112",
-    "ean_raw": "8594193920112",
-    "sku": "12918",
-    "name": "GreenFood Proteinová ovesná bezlepková kaše 500g - banán",
     "feeds": [
       "kulturistika"
     ],
@@ -231792,43 +231845,10 @@
   },
   {
     "feed": "kulturistika",
-    "ean": "8594193920679",
-    "ean_raw": "8594193920679",
-    "sku": "12916",
-    "name": "GreenFood Pohanková proteinová kaše bez lepku a laktózy 500g - kakao",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594193920693",
-    "ean_raw": "8594193920693",
-    "sku": "12913",
-    "name": "GreenFood Rýžová proteinová kaše bez lepku a laktózy 500g - kakao",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
     "ean": "8594193920716",
     "ean_raw": "8594193920716",
     "sku": "4547",
     "name": "MAXXWIN Caffeine Energy - 60 kapslí",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594193920815",
-    "ean_raw": "8594193920815",
-    "sku": "12929",
-    "name": "GreenFood Proteinová pohanková bezlepková kaše 500g - kakao",
     "feeds": [
       "kulturistika"
     ],
@@ -231972,28 +231992,6 @@
     "ean_raw": "8594193921157",
     "sku": "11248",
     "name": "GreenFood TribuMaca + Piperine - 90 kapslí",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594193921218",
-    "ean_raw": "8594193921218",
-    "sku": "12921",
-    "name": "GreenFood Proteinová ovesná bezlepková kaše 500g - natural",
-    "feeds": [
-      "kulturistika"
-    ],
-    "occurrences": 1
-  },
-  {
-    "feed": "kulturistika",
-    "ean": "8594193921232",
-    "ean_raw": "8594193921232",
-    "sku": "12931",
-    "name": "GreenFood Proteinová pohanková bezlepková kaše 500g - natural",
     "feeds": [
       "kulturistika"
     ],
@@ -232549,6 +232547,17 @@
   },
   {
     "feed": "kulturistika",
+    "ean": "8594193924547",
+    "ean_raw": "8594193924547",
+    "sku": "28220",
+    "name": "MAXXWIN Hurricane Pre-Workout 540g - višeň",
+    "feeds": [
+      "kulturistika"
+    ],
+    "occurrences": 1
+  },
+  {
+    "feed": "kulturistika",
     "ean": "8594193924554",
     "ean_raw": "8594193924554",
     "sku": "8311",
@@ -232970,16 +232979,15 @@
     "occurrences": 1
   },
   {
-    "feed": "dafit",
+    "feed": "kulturistika",
     "ean": "8594193926794",
     "ean_raw": "8594193926794",
-    "sku": "366698",
-    "name": "Revix Cordyceps 90 cps",
+    "sku": "22035",
+    "name": "Revix Cordyceps - 90 kapslí",
     "feeds": [
-      "dafit",
       "kulturistika"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "kulturistika",
@@ -237267,7 +237275,7 @@
       "dafit",
       "kulturistika"
     ],
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "feed": "dafit",
@@ -237998,7 +238006,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -238397,7 +238405,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "feed": "dafit",
@@ -238716,7 +238724,7 @@
     "feeds": [
       "dafit"
     ],
-    "occurrences": 4
+    "occurrences": 1
   },
   {
     "feed": "dafit",
